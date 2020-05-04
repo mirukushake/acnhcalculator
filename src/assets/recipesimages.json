@@ -1,0 +1,3560 @@
+[
+  {
+    "name": "Aquarius urn",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 5, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "Aquarius fragment", "qty": 2, "image_url": "StarpieceAquarius.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "FtrZodiacAquarius.png"
+  },
+  {
+    "name": "Aries rocking chair",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "stone", "qty": 5, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "Aries fragment", "qty": 2, "image_url": "StarpieceAries.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 1, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrZodiacAries.png"
+  },
+  {
+    "name": "Bunny Day arch",
+    "category": "Housewares",
+    "mats": [{"mat": "stone egg", "qty": 2, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "earth egg", "qty": 2, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "wood egg", "qty": 2, "image_url": "EggForest.png", "is_recipe": false}, {"mat": "sky egg", "qty": 2, "image_url": "EggSky.png", "is_recipe": false}, {"mat": "water egg", "qty": 2, "image_url": "EggFish.png", "is_recipe": false}, {"mat": "leaf egg", "qty": 2, "image_url": "EggLeaf.png", "is_recipe": false}],
+    "image_url": "FtrEggArch.png"
+  },
+  {
+    "name": "Bunny Day bag",
+    "category": "Bags",
+    "mats": [{"mat": "wood egg", "qty": 1, "image_url": "EggForest.png", "is_recipe": false}, {"mat": "sky egg", "qty": 1, "image_url": "EggSky.png", "is_recipe": false}, {"mat": "stone egg", "qty": 1, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "earth egg", "qty": 1, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "image_url": "EggLeaf.png", "is_recipe": false}, {"mat": "water egg", "qty": 1, "image_url": "EggFish.png", "is_recipe": false}],
+    "image_url": "BagBackpackEgg0.png"
+  },
+  {
+    "name": "Bunny Day bed",
+    "category": "Housewares",
+    "mats": [{"mat": "stone egg", "qty": 1, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "image_url": "EggLeaf.png", "is_recipe": false}, {"mat": "water egg", "qty": 1, "image_url": "EggFish.png", "is_recipe": false}, {"mat": "wood egg", "qty": 1, "image_url": "EggForest.png", "is_recipe": false}, {"mat": "sky egg", "qty": 1, "image_url": "EggSky.png", "is_recipe": false}, {"mat": "earth egg", "qty": 1, "image_url": "EggGround.png", "is_recipe": false}],
+    "image_url": "FtrEggBedW.png"
+  },
+  {
+    "name": "Bunny Day crown",
+    "category": "Headwear",
+    "mats": [{"mat": "stone egg", "qty": 1, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "water egg", "qty": 1, "image_url": "EggFish.png", "is_recipe": false}, {"mat": "wood egg", "qty": 1, "image_url": "EggForest.png", "is_recipe": false}, {"mat": "earth egg", "qty": 1, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "image_url": "EggLeaf.png", "is_recipe": false}, {"mat": "sky egg", "qty": 1, "image_url": "EggSky.png", "is_recipe": false}],
+    "image_url": "CapOrnamentCEgg0.png"
+  },
+  {
+    "name": "Bunny Day fence",
+    "category": "Fencing",
+    "mats": [{"mat": "stone egg", "qty": 1, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "water egg", "qty": 1, "image_url": "EggFish.png", "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "image_url": "EggLeaf.png", "is_recipe": false}, {"mat": "sky egg", "qty": 1, "image_url": "EggSky.png", "is_recipe": false}, {"mat": "earth egg", "qty": 1, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "wood egg", "qty": 1, "image_url": "EggForest.png", "is_recipe": false}],
+    "image_url": "ItemFenceEgg.png"
+  },
+  {
+    "name": "Bunny Day festive balloons",
+    "category": "Housewares",
+    "mats": [{"mat": "water egg", "qty": 1, "image_url": "EggFish.png", "is_recipe": false}, {"mat": "wood egg", "qty": 1, "image_url": "EggForest.png", "is_recipe": false}, {"mat": "stone egg", "qty": 1, "image_url": "EggRock.png", "is_recipe": false}],
+    "image_url": "FtrEggBalloonB.png"
+  },
+  {
+    "name": "Bunny Day flooring",
+    "category": "Floors",
+    "mats": [{"mat": "wood egg", "qty": 2, "image_url": "EggForest.png", "is_recipe": false}, {"mat": "stone egg", "qty": 2, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "earth egg", "qty": 2, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "leaf egg", "qty": 2, "image_url": "EggLeaf.png", "is_recipe": false}, {"mat": "sky egg", "qty": 2, "image_url": "EggSky.png", "is_recipe": false}, {"mat": "water egg", "qty": 2, "image_url": "EggFish.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorEaster00.png"
+  },
+  {
+    "name": "Bunny Day glowy garland",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "leaf egg", "qty": 1, "image_url": "EggLeaf.png", "is_recipe": false}, {"mat": "earth egg", "qty": 1, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "water egg", "qty": 1, "image_url": "EggFish.png", "is_recipe": false}, {"mat": "wood egg", "qty": 1, "image_url": "EggForest.png", "is_recipe": false}, {"mat": "stone egg", "qty": 1, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "sky egg", "qty": 1, "image_url": "EggSky.png", "is_recipe": false}],
+    "image_url": "FtrEggLampWall.png"
+  },
+  {
+    "name": "Bunny Day lamp",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "wood egg", "qty": 4, "image_url": "EggForest.png", "is_recipe": false}],
+    "image_url": "FtrEggLamp.png"
+  },
+  {
+    "name": "Bunny Day merry balloons",
+    "category": "Housewares",
+    "mats": [{"mat": "sky egg", "qty": 1, "image_url": "EggSky.png", "is_recipe": false}, {"mat": "earth egg", "qty": 1, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "image_url": "EggLeaf.png", "is_recipe": false}],
+    "image_url": "FtrEggBalloonA.png"
+  },
+  {
+    "name": "Bunny Day rug",
+    "category": "Rugs",
+    "mats": [{"mat": "sky egg", "qty": 1, "image_url": "EggSky.png", "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "image_url": "EggLeaf.png", "is_recipe": false}, {"mat": "water egg", "qty": 1, "image_url": "EggFish.png", "is_recipe": false}, {"mat": "earth egg", "qty": 1, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "stone egg", "qty": 1, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "wood egg", "qty": 1, "image_url": "EggForest.png", "is_recipe": false}],
+    "image_url": "RugOtherEasterM00.png"
+  },
+  {
+    "name": "Bunny Day stool",
+    "category": "Housewares",
+    "mats": [{"mat": "water egg", "qty": 3, "image_url": "EggFish.png", "is_recipe": false}],
+    "image_url": "FtrEggStool.png"
+  },
+  {
+    "name": "Bunny Day table",
+    "category": "Housewares",
+    "mats": [{"mat": "earth egg", "qty": 4, "image_url": "EggGround.png", "is_recipe": false}],
+    "image_url": "FtrEggTableS.png"
+  },
+  {
+    "name": "Bunny Day vanity",
+    "category": "Housewares",
+    "mats": [{"mat": "leaf egg", "qty": 4, "image_url": "EggLeaf.png", "is_recipe": false}],
+    "image_url": "FtrEggDresser.png"
+  },
+  {
+    "name": "Bunny Day wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "earth egg", "qty": 2, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "stone egg", "qty": 2, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "water egg", "qty": 2, "image_url": "EggFish.png", "is_recipe": false}, {"mat": "leaf egg", "qty": 2, "image_url": "EggLeaf.png", "is_recipe": false}, {"mat": "sky egg", "qty": 2, "image_url": "EggSky.png", "is_recipe": false}, {"mat": "wood egg", "qty": 2, "image_url": "EggForest.png", "is_recipe": false}],
+    "image_url": "RoomTexWallEaster00.png"
+  },
+  {
+    "name": "Bunny Day wall clock",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "sky egg", "qty": 3, "image_url": "EggSky.png", "is_recipe": false}],
+    "image_url": "FtrEggClock.png"
+  },
+  {
+    "name": "Bunny Day wand",
+    "category": "Tools",
+    "mats": [{"mat": "wobbling Zipper toy", "qty": 1, "image_url": "FtrDollPyn.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "ToolStickEgg.png"
+  },
+  {
+    "name": "Bunny Day wardrobe",
+    "category": "Housewares",
+    "mats": [{"mat": "stone egg", "qty": 4, "image_url": "EggRock.png", "is_recipe": false}],
+    "image_url": "FtrEggClosetLR.png"
+  },
+  {
+    "name": "Bunny Day wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "stone egg", "qty": 1, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "water egg", "qty": 1, "image_url": "EggFish.png", "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "image_url": "EggLeaf.png", "is_recipe": false}, {"mat": "earth egg", "qty": 1, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "sky egg", "qty": 1, "image_url": "EggSky.png", "is_recipe": false}, {"mat": "wood egg", "qty": 1, "image_url": "EggForest.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathEaster.png"
+  },
+  {
+    "name": "Cancer table",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "stone", "qty": 3, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "Cancer fragment", "qty": 2, "image_url": "StarpieceCancer.png", "is_recipe": false}],
+    "image_url": "FtrZodiacCancer.png"
+  },
+  {
+    "name": "Capricorn ornament",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "stone", "qty": 12, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "Capricorn fragment", "qty": 2, "image_url": "StarpieceCapricornus.png", "is_recipe": false}],
+    "image_url": "FtrZodiacCapricornus.png"
+  },
+  {
+    "name": "DIY workbench",
+    "category": "Housewares",
+    "mats": [{"mat": "mini DIY workbench", "qty": 1, "image_url": "FtrWorkbenchS_Remake_0_0.png", "is_recipe": true}, {"mat": "hardwood", "qty": 5, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "softwood", "qty": 5, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWorkbench_Remake_0_0.png"
+  },
+  {
+    "name": "Gemini closet",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "stone", "qty": 6, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "Gemini fragment", "qty": 2, "image_url": "StarpieceGemini.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrZodiacGemini.png"
+  },
+  {
+    "name": "Jingle wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "red ornament", "qty": 5, "image_url": "ChristmasOrnamentA.png", "is_recipe": false}, {"mat": "clay", "qty": 5, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "gold ornament", "qty": 5, "image_url": "ChristmasOrnamentC.png", "is_recipe": false}, {"mat": "blue ornament", "qty": 5, "image_url": "ChristmasOrnamentB.png", "is_recipe": false}],
+    "image_url": "RoomSpWallXmas00.png"
+  },
+  {
+    "name": "Leo sculpture",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "stone", "qty": 3, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "Leo fragment", "qty": 2, "image_url": "StarpieceLeo.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrZodiacLeo.png"
+  },
+  {
+    "name": "Libra scale",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "Libra fragment", "qty": 2, "image_url": "StarpieceLibra.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "FtrZodiacLibra.png"
+  },
+  {
+    "name": "Pisces lamp",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "Pisces fragment", "qty": 2, "image_url": "StarpiecePisces.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "stone", "qty": 4, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrZodiacPisces.png"
+  },
+  {
+    "name": "Sagittarius arrow",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "Sagittarius fragment", "qty": 2, "image_url": "StarpieceSagittarius.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "FtrZodiacSagittarius.png"
+  },
+  {
+    "name": "Scorpio lamp",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "stone", "qty": 5, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "Scorpius fragment", "qty": 2, "image_url": "StarpieceScorpio.png", "is_recipe": false}],
+    "image_url": "FtrZodiacScorpio.png"
+  },
+  {
+    "name": "Taurus bathtub",
+    "category": "Housewares",
+    "mats": [{"mat": "Taurus fragment", "qty": 2, "image_url": "StarpieceTaurus.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 1, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "stone", "qty": 8, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrZodiacTaurus.png"
+  },
+  {
+    "name": "Virgo harp",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "Virgo fragment", "qty": 2, "image_url": "StarpieceVirgo.png", "is_recipe": false}, {"mat": "stone", "qty": 4, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrZodiacVirgo.png"
+  },
+  {
+    "name": "Wobbling Zipper toy",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "leaf egg", "qty": 4, "image_url": "EggLeaf.png", "is_recipe": false}, {"mat": "wood egg", "qty": 4, "image_url": "EggForest.png", "is_recipe": false}, {"mat": "earth egg", "qty": 4, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "stone egg", "qty": 4, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "sky egg", "qty": 4, "image_url": "EggSky.png", "is_recipe": false}, {"mat": "water egg", "qty": 4, "image_url": "EggFish.png", "is_recipe": false}],
+    "image_url": null
+  },
+  {
+    "name": "acorn pochette",
+    "category": "Bags",
+    "mats": [{"mat": "acorn", "qty": 6, "image_url": "DIYAcorn.png", "is_recipe": false}],
+    "image_url": "BagShoulderAcorn0.png"
+  },
+  {
+    "name": "acoustic guitar",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "softwood", "qty": 8, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrAcorsticguitar_Remake_0_0.png"
+  },
+  {
+    "name": "angled signpost",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 3, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "hardwood", "qty": 2, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrSignpostTilt_Remake_0_0.png"
+  },
+  {
+    "name": "apple chair",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 4, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "apple", "qty": 10, "image_url": "Apple.png", "is_recipe": false}],
+    "image_url": "FtrFruitsChairApple_Remake_0_0.png"
+  },
+  {
+    "name": "apple dress",
+    "category": "Dresses",
+    "mats": [{"mat": "apple", "qty": 8, "image_url": "Apple.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceAlineNApple0.png"
+  },
+  {
+    "name": "apple hat",
+    "category": "Headwear",
+    "mats": [{"mat": "apple", "qty": 5, "image_url": "Apple.png", "is_recipe": false}],
+    "image_url": "CapHatApple0.png"
+  },
+  {
+    "name": "apple rug",
+    "category": "Rugs",
+    "mats": [{"mat": "apple", "qty": 6, "image_url": "Apple.png", "is_recipe": false}],
+    "image_url": "RugOtherAppleM00.png"
+  },
+  {
+    "name": "apple umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "apple", "qty": 7, "image_url": "Apple.png", "is_recipe": false}],
+    "image_url": "UmbrellaApple0.png"
+  },
+  {
+    "name": "apple wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "apple", "qty": 20, "image_url": "Apple.png", "is_recipe": false}],
+    "image_url": "RoomTexWallApple00.png"
+  },
+  {
+    "name": "armor shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "iron nugget", "qty": 4, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "ShoesKneeKnightIron.png"
+  },
+  {
+    "name": "aroma pot",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 3, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrAlomapot_Remake_0_0.png"
+  },
+  {
+    "name": "asteroid",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 5, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "stone", "qty": 10, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrMeteo.png"
+  },
+  {
+    "name": "astronaut suit",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 5, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 5, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrSpacesuit.png"
+  },
+  {
+    "name": "autumn wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 5, "image_url": "Weed.png", "is_recipe": false}, {"mat": "maple leaf", "qty": 10, "image_url": "AutumnLeaf.png", "is_recipe": false}],
+    "image_url": "RoomSpWallAutumun00.png"
+  },
+  {
+    "name": "axe",
+    "category": "Tools",
+    "mats": [{"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "flimsy axe", "qty": 1, "image_url": "ToolAxeStone.png", "is_recipe": true}, {"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "ToolAxe.png"
+  },
+  {
+    "name": "backyard lawn",
+    "category": "Floors",
+    "mats": [{"mat": "clump of weeds", "qty": 30, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorLawn00.png"
+  },
+  {
+    "name": "bamboo basket",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 7, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "FtrBambooBasket_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo bench",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 8, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "FtrBambooChairL_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo candleholder",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 2, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "bamboo piece", "qty": 3, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "FtrBambooCandle_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo doll",
+    "category": "Housewares",
+    "mats": [{"mat": "young spring bamboo", "qty": 6, "image_url": "DIYBambooSpring.png", "is_recipe": false}],
+    "image_url": "FtrBambooSurprisedbox.png"
+  },
+  {
+    "name": "bamboo drum",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "bamboo piece", "qty": 3, "image_url": "DIYBamboo.png", "is_recipe": false}, {"mat": "softwood", "qty": 2, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrBamboodrum_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo floor lamp",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 8, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "FtrBambooLamp_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo flooring",
+    "category": "Floors",
+    "mats": [{"mat": "bamboo piece", "qty": 15, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorBamboo00.png"
+  },
+  {
+    "name": "bamboo hat",
+    "category": "Headwear",
+    "mats": [{"mat": "clump of weeds", "qty": 10, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "CapHatAjiroBeige.png"
+  },
+  {
+    "name": "bamboo lattice fence",
+    "category": "Fencing",
+    "mats": [{"mat": "bamboo piece", "qty": 6, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "ItemFenceBamboo.png"
+  },
+  {
+    "name": "bamboo lunch box",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "bamboo piece", "qty": 4, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "FtrBambooLunch_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo noodle slide",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "young spring bamboo", "qty": 7, "image_url": "DIYBambooSpring.png", "is_recipe": false}],
+    "image_url": "FtrBambooSomen.png"
+  },
+  {
+    "name": "bamboo partition",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 7, "image_url": "DIYBamboo.png", "is_recipe": false}, {"mat": "stone", "qty": 6, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrBambooScreen_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo shelf",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 15, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "FtrBambooShelf_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo speaker",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "bamboo piece", "qty": 3, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "FtrBambooMusic_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo sphere",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "bamboo piece", "qty": 3, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "FtrBambooBall_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo stool",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 5, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "FtrBambooStool_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo stopblock",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 3, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "FtrBambooCarstop_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "bamboo piece", "qty": 15, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "RoomTexWallBamboo00.png"
+  },
+  {
+    "name": "bamboo wall decoration",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "bamboo piece", "qty": 1, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "FtrBambooFlowerwall_Remake_0_0.png"
+  },
+  {
+    "name": "bamboo wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "young spring bamboo", "qty": 6, "image_url": "DIYBambooSpring.png", "is_recipe": false}],
+    "image_url": "ToolStickBamboo.png"
+  },
+  {
+    "name": "bamboo-grove wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "young spring bamboo", "qty": 7, "image_url": "DIYBambooSpring.png", "is_recipe": false}, {"mat": "bamboo shoot", "qty": 3, "image_url": "BanbooShoot.png", "is_recipe": false}],
+    "image_url": "RoomTexWallChikurin00.png"
+  },
+  {
+    "name": "bamboo-shoot lamp",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "bamboo shoot", "qty": 5, "image_url": "BanbooShoot.png", "is_recipe": false}, {"mat": "young spring bamboo", "qty": 4, "image_url": "DIYBambooSpring.png", "is_recipe": false}, {"mat": "clay", "qty": 4, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrBambooshootLamp.png"
+  },
+  {
+    "name": "barbed-wire fence",
+    "category": "Fencing",
+    "mats": [{"mat": "hardwood", "qty": 3, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "ItemFenceBarbedWire.png"
+  },
+  {
+    "name": "barbell",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 10, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrBarbell_Remake_0_0.png"
+  },
+  {
+    "name": "barrel",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrPirateBarrel.png"
+  },
+  {
+    "name": "basement flooring",
+    "category": "Floors",
+    "mats": [{"mat": "stone", "qty": 10, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorBasement00.png"
+  },
+  {
+    "name": "basket pack",
+    "category": "Bags",
+    "mats": [{"mat": "young spring bamboo", "qty": 6, "image_url": "DIYBambooSpring.png", "is_recipe": false}],
+    "image_url": "BagBackpackBasket0.png"
+  },
+  {
+    "name": "beekeeper's hive",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "wasp nest", "qty": 3, "image_url": "Honeycomb.png", "is_recipe": false}],
+    "image_url": "FtrBeekeepingbox_Remake_0_0.png"
+  },
+  {
+    "name": "big festive tree",
+    "category": "Housewares",
+    "mats": [{"mat": "red ornament", "qty": 6, "image_url": "ChristmasOrnamentA.png", "is_recipe": false}, {"mat": "clay", "qty": 5, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "blue ornament", "qty": 6, "image_url": "ChristmasOrnamentB.png", "is_recipe": false}, {"mat": "gold ornament", "qty": 4, "image_url": "ChristmasOrnamentC.png", "is_recipe": false}, {"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrTreeXmasL_Remake_0_0.png"
+  },
+  {
+    "name": "birdbath",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 6, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrBirdbus_Remake_0_0.png"
+  },
+  {
+    "name": "birdcage",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 8, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrBirdcage_Remake_0_0.png"
+  },
+  {
+    "name": "birdhouse",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 5, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "wood", "qty": 2, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrBirdhouse_Remake_0_0.png"
+  },
+  {
+    "name": "blossom-viewing lantern",
+    "category": "Housewares",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 6, "image_url": "Sakurapetal.png", "is_recipe": false}, {"mat": "hardwood", "qty": 4, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrSakuraLantern_Remake_0_0.png"
+  },
+  {
+    "name": "blue rose crown",
+    "category": "Headwear",
+    "mats": [{"mat": "blue roses", "qty": 6, "image_url": "Rose7.png", "is_recipe": false}],
+    "image_url": "CapOrnamentRose4.png"
+  },
+  {
+    "name": "blue rose wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "blue roses", "qty": 10, "image_url": "Rose7.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathRoseUrtraRare.png"
+  },
+  {
+    "name": "bone doorplate",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "softwood", "qty": 3, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrDoorPlateBone_Remake_0_0.png"
+  },
+  {
+    "name": "bonfire",
+    "category": "Housewares",
+    "mats": [{"mat": "campfire", "qty": 1, "image_url": "FtrCampfire.png", "is_recipe": true}, {"mat": "wood", "qty": 10, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrBonfire.png"
+  },
+  {
+    "name": "bonsai shelf",
+    "category": "Housewares",
+    "mats": [{"mat": "pine bonsai tree", "qty": 1, "image_url": "FtrBonsaiPine.png", "is_recipe": true}, {"mat": "wood", "qty": 8, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "cherry-blossom bonsai", "qty": 1, "image_url": "FtrBonsaiSakura.png", "is_recipe": true}],
+    "image_url": "FtrBonsaiShelf.png"
+  },
+  {
+    "name": "boomerang",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "hardwood", "qty": 3, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "hardwood", "qty": 3, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrBoomerang_Remake_0_0.png"
+  },
+  {
+    "name": "brick fence",
+    "category": "Fencing",
+    "mats": [{"mat": "clay", "qty": 6, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "ItemFenceWallRenga.png"
+  },
+  {
+    "name": "brick oven",
+    "category": "Housewares",
+    "mats": [{"mat": "clay", "qty": 8, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "wood", "qty": 6, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrStoneoven_Remake_0_0.png"
+  },
+  {
+    "name": "brick well",
+    "category": "Housewares",
+    "mats": [{"mat": "flimsy shovel", "qty": 1, "image_url": "ToolShovelWood.png", "is_recipe": true}, {"mat": "clay", "qty": 8, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWellBrick_Remake_0_0.png"
+  },
+  {
+    "name": "brown herringbone wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "softwood", "qty": 15, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "RoomTexWallHerringbone00.png"
+  },
+  {
+    "name": "butter churn",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 4, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrButtermixer_Remake_0_0.png"
+  },
+  {
+    "name": "cabin wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "hardwood", "qty": 15, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "RoomTexWallLog00.png"
+  },
+  {
+    "name": "campfire",
+    "category": "Housewares",
+    "mats": [{"mat": "tree branch", "qty": 3, "image_url": "DIYBranch.png", "is_recipe": false}],
+    "image_url": "FtrCampfire.png"
+  },
+  {
+    "name": "cardboard bed",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 4, "image_url": "FtrCardboard_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "FtrCardboardBedS_Remake_0_0.png"
+  },
+  {
+    "name": "cardboard chair",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 1, "image_url": "FtrCardboard_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "FtrCardboardChairS_Remake_0_0.png"
+  },
+  {
+    "name": "cardboard sofa",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 2, "image_url": "FtrCardboard_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "FtrCardboardSofaL_Remake_0_0.png"
+  },
+  {
+    "name": "cardboard table",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 4, "image_url": "FtrCardboard_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "FtrCardboardTableL_Remake_0_0.png"
+  },
+  {
+    "name": "cherry dress",
+    "category": "Dresses",
+    "mats": [{"mat": "cherry", "qty": 8, "image_url": "Cherry.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceAlineNCherry0.png"
+  },
+  {
+    "name": "cherry hat",
+    "category": "Headwear",
+    "mats": [{"mat": "cherry", "qty": 5, "image_url": "Cherry.png", "is_recipe": false}],
+    "image_url": "CapHatCherry0.png"
+  },
+  {
+    "name": "cherry lamp",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "clay", "qty": 2, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "cherry", "qty": 10, "image_url": "Cherry.png", "is_recipe": false}],
+    "image_url": "FtrFruitsLampW_Remake_0_0.png"
+  },
+  {
+    "name": "cherry rug",
+    "category": "Rugs",
+    "mats": [{"mat": "cherry", "qty": 6, "image_url": "Cherry.png", "is_recipe": false}],
+    "image_url": "RugOtherCherryM00.png"
+  },
+  {
+    "name": "cherry speakers",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "cherry", "qty": 10, "image_url": "Cherry.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrFruitsMusic_Remake_0_0.png"
+  },
+  {
+    "name": "cherry umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "cherry", "qty": 7, "image_url": "Cherry.png", "is_recipe": false}],
+    "image_url": "UmbrellaCherry0.png"
+  },
+  {
+    "name": "cherry wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "cherry", "qty": 20, "image_url": "Cherry.png", "is_recipe": false}],
+    "image_url": "RoomTexWallCherry00.png"
+  },
+  {
+    "name": "cherry-blossom bonsai",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "hardwood", "qty": 2, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "cherry-blossom petal", "qty": 6, "image_url": "Sakurapetal.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 3, "image_url": "Weed.png", "is_recipe": false}, {"mat": "clay", "qty": 3, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrBonsaiSakura.png"
+  },
+  {
+    "name": "cherry-blossom branches",
+    "category": "Housewares",
+    "mats": [{"mat": "tree branch", "qty": 4, "image_url": "DIYBranch.png", "is_recipe": false}, {"mat": "cherry-blossom petal", "qty": 8, "image_url": "Sakurapetal.png", "is_recipe": false}, {"mat": "clay", "qty": 5, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrSakuraBranch.png"
+  },
+  {
+    "name": "cherry-blossom clock",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 5, "image_url": "Sakurapetal.png", "is_recipe": false}],
+    "image_url": "FtrSakuraClockW_Remake_0_0.png"
+  },
+  {
+    "name": "cherry-blossom flooring",
+    "category": "Floors",
+    "mats": [{"mat": "clump of weeds", "qty": 20, "image_url": "Weed.png", "is_recipe": false}, {"mat": "cherry-blossom petal", "qty": 10, "image_url": "Sakurapetal.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorSakura00.png"
+  },
+  {
+    "name": "cherry-blossom pochette",
+    "category": "Bags",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 6, "image_url": "Sakurapetal.png", "is_recipe": false}],
+    "image_url": "BagShoulderCherryblossoms0.png"
+  },
+  {
+    "name": "cherry-blossom pond stone",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 10, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "cherry-blossom petal", "qty": 3, "image_url": "Sakurapetal.png", "is_recipe": false}],
+    "image_url": "FtrStonewaterbowlSakura.png"
+  },
+  {
+    "name": "cherry-blossom umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 7, "image_url": "Sakurapetal.png", "is_recipe": false}],
+    "image_url": "UmbrellaCherryblossom0.png"
+  },
+  {
+    "name": "cherry-blossom wand",
+    "category": "Tools",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 3, "image_url": "Sakurapetal.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "ToolStickCherryblossom.png"
+  },
+  {
+    "name": "cherry-blossom-petal pile",
+    "category": "Housewares",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 5, "image_url": "Sakurapetal.png", "is_recipe": false}],
+    "image_url": "FtrSakuraPetal.png"
+  },
+  {
+    "name": "cherry-blossom-trees wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "hardwood", "qty": 5, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "cherry-blossom petal", "qty": 10, "image_url": "Sakurapetal.png", "is_recipe": false}],
+    "image_url": "RoomSpWallSakura00.png"
+  },
+  {
+    "name": "chic cosmos wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "black cosmos", "qty": 10, "image_url": "Anemone5.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathCosmosRare.png"
+  },
+  {
+    "name": "chic mum crown",
+    "category": "Headwear",
+    "mats": [{"mat": "purple mums", "qty": 3, "image_url": "Mum5.png", "is_recipe": false}, {"mat": "pink mums", "qty": 3, "image_url": "Mum3.png", "is_recipe": false}],
+    "image_url": "CapOrnamentMum2.png"
+  },
+  {
+    "name": "chic rose crown",
+    "category": "Headwear",
+    "mats": [{"mat": "black roses", "qty": 3, "image_url": "Rose6.png", "is_recipe": false}, {"mat": "purple roses", "qty": 3, "image_url": "Rose5.png", "is_recipe": false}],
+    "image_url": "CapOrnamentRose3.png"
+  },
+  {
+    "name": "chic tulip crown",
+    "category": "Headwear",
+    "mats": [{"mat": "pink tulips", "qty": 2, "image_url": "Turip3.png", "is_recipe": false}, {"mat": "orange tulips", "qty": 1, "image_url": "Turip6.png", "is_recipe": false}, {"mat": "purple tulips", "qty": 2, "image_url": "Turip4.png", "is_recipe": false}],
+    "image_url": "CapOrnamentTulip2.png"
+  },
+  {
+    "name": "chic windflower wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "purple windflowers", "qty": 10, "image_url": "Anemone4.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathAnemoneRare.png"
+  },
+  {
+    "name": "chocolate herringbone wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "softwood", "qty": 15, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "RoomTexWallHerringbone01.png"
+  },
+  {
+    "name": "clackercart",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 6, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "hardwood", "qty": 2, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrKatakatatoy_Remake_0_0.png"
+  },
+  {
+    "name": "classic pitcher",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 4, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrPotteryjug_Remake_0_0.png"
+  },
+  {
+    "name": "classic-library wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "book", "qty": 10, "image_url": "FtrBookOpened_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "RoomTexWallLibrary00.png"
+  },
+  {
+    "name": "clothesline",
+    "category": "Housewares",
+    "mats": [{"mat": "tree branch", "qty": 10, "image_url": "DIYBranch.png", "is_recipe": false}],
+    "image_url": "FtrClothesline_Remake_0_0.png"
+  },
+  {
+    "name": "coconut juice",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "coconut", "qty": 1, "image_url": "Coconut.png", "is_recipe": false}],
+    "image_url": "FtrCoconutjuice.png"
+  },
+  {
+    "name": "coconut wall planter",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "coconut", "qty": 1, "image_url": "Coconut.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 5, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "FtrPlanterPalm.png"
+  },
+  {
+    "name": "colored-leaves flooring",
+    "category": "Floors",
+    "mats": [{"mat": "clump of weeds", "qty": 15, "image_url": "Weed.png", "is_recipe": false}, {"mat": "maple leaf", "qty": 10, "image_url": "AutumnLeaf.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorAutumun00.png"
+  },
+  {
+    "name": "cool hyacinth crown",
+    "category": "Headwear",
+    "mats": [{"mat": "pink hyacinths", "qty": 2, "image_url": "Hyacinth4.png", "is_recipe": false}, {"mat": "orange hyacinths", "qty": 2, "image_url": "Hyacinth3.png", "is_recipe": false}, {"mat": "blue hyacinths", "qty": 4, "image_url": "Hyacinth6.png", "is_recipe": false}],
+    "image_url": "CapOrnamentHyacinth2.png"
+  },
+  {
+    "name": "cool hyacinth wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "blue hyacinths", "qty": 3, "image_url": "Hyacinth6.png", "is_recipe": false}, {"mat": "orange hyacinths", "qty": 3, "image_url": "Hyacinth3.png", "is_recipe": false}, {"mat": "pink hyacinths", "qty": 3, "image_url": "Hyacinth4.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathHyacinthMix.png"
+  },
+  {
+    "name": "cool pansy crown",
+    "category": "Headwear",
+    "mats": [{"mat": "blue pansies", "qty": 3, "image_url": "Pansi5.png", "is_recipe": false}, {"mat": "orange pansies", "qty": 3, "image_url": "Pansi2Yellow.png", "is_recipe": false}],
+    "image_url": "CapOrnamentPansy2.png"
+  },
+  {
+    "name": "cool pansy wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "purple pansies", "qty": 10, "image_url": "Pansi3.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathPansyRare.png"
+  },
+  {
+    "name": "cool windflower crown",
+    "category": "Headwear",
+    "mats": [{"mat": "blue windflowers", "qty": 3, "image_url": "Anemone5.png", "is_recipe": false}, {"mat": "pink windflowers", "qty": 3, "image_url": "Anemone3.png", "is_recipe": false}],
+    "image_url": "CapOrnamentAnemone2.png"
+  },
+  {
+    "name": "cool windflower wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "white windflowers", "qty": 3, "image_url": "Anemone0.png", "is_recipe": false}, {"mat": "pink windflowers", "qty": 3, "image_url": "Anemone3.png", "is_recipe": false}, {"mat": "blue windflowers", "qty": 3, "image_url": "Anemone5.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathAnemoneMix.png"
+  },
+  {
+    "name": "corral fence",
+    "category": "Fencing",
+    "mats": [{"mat": "wood", "qty": 6, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "ItemFenceHorizontalWood.png"
+  },
+  {
+    "name": "cosmos crown",
+    "category": "Headwear",
+    "mats": [{"mat": "red cosmos", "qty": 2, "image_url": "Anemone1.png", "is_recipe": false}, {"mat": "yellow cosmos", "qty": 2, "image_url": "Anemone2.png", "is_recipe": false}, {"mat": "white cosmos", "qty": 3, "image_url": "Anemone0.png", "is_recipe": false}],
+    "image_url": "CapOrnamentCosmos1.png"
+  },
+  {
+    "name": "cosmos shower",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "pink cosmos", "qty": 5, "image_url": "Anemone3.png", "is_recipe": false}],
+    "image_url": "FtrFlowerShower_Remake_0_0.png"
+  },
+  {
+    "name": "cosmos wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "white cosmos", "qty": 1, "image_url": "Anemone0.png", "is_recipe": false}],
+    "image_url": "ToolStickCosmos.png"
+  },
+  {
+    "name": "cosmos wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "white cosmos", "qty": 3, "image_url": "Anemone0.png", "is_recipe": false}, {"mat": "yellow cosmos", "qty": 3, "image_url": "Anemone2.png", "is_recipe": false}, {"mat": "red cosmos", "qty": 3, "image_url": "Anemone1.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathCosmos.png"
+  },
+  {
+    "name": "country fence",
+    "category": "Fencing",
+    "mats": [{"mat": "hardwood", "qty": 6, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "ItemFenceLog.png"
+  },
+  {
+    "name": "crescent-moon chair",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 7, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "large star fragment", "qty": 1, "image_url": "StarpieceRare.png", "is_recipe": false}],
+    "image_url": "FtrStarMoonChairL_Remake_0_0.png"
+  },
+  {
+    "name": "crest doorplate",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 4, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentCrest_Remake_0_0.png"
+  },
+  {
+    "name": "crewed spaceship",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 10, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 20, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrSpacecraft.png"
+  },
+  {
+    "name": "cute lily crown",
+    "category": "Headwear",
+    "mats": [{"mat": "white lilies", "qty": 2, "image_url": "Yuri0.png", "is_recipe": false}, {"mat": "orange lilies", "qty": 2, "image_url": "Yuri3.png", "is_recipe": false}, {"mat": "pink lilies", "qty": 2, "image_url": "Yuri4.png", "is_recipe": false}],
+    "image_url": "CapOrnamentYuri2.png"
+  },
+  {
+    "name": "cute rose crown",
+    "category": "Headwear",
+    "mats": [{"mat": "pink roses", "qty": 3, "image_url": "Rose3.png", "is_recipe": false}, {"mat": "orange roses", "qty": 3, "image_url": "Rose4.png", "is_recipe": false}],
+    "image_url": "CapOrnamentRose2.png"
+  },
+  {
+    "name": "cutting board",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "hardwood", "qty": 2, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrCuttingboard_Remake_0_0.png"
+  },
+  {
+    "name": "dark bamboo rug",
+    "category": "Rugs",
+    "mats": [{"mat": "bamboo piece", "qty": 6, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "RugRectBambooM01.png"
+  },
+  {
+    "name": "dark cosmos crown",
+    "category": "Headwear",
+    "mats": [{"mat": "black cosmos", "qty": 7, "image_url": "Anemone5.png", "is_recipe": false}],
+    "image_url": "CapOrnamentCosmos3.png"
+  },
+  {
+    "name": "dark lily crown",
+    "category": "Headwear",
+    "mats": [{"mat": "black lilies", "qty": 6, "image_url": "Yuri5.png", "is_recipe": false}],
+    "image_url": "CapOrnamentYuri3.png"
+  },
+  {
+    "name": "dark lily wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "black lilies", "qty": 10, "image_url": "Yuri5.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathYuriRare.png"
+  },
+  {
+    "name": "dark rose wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "black roses", "qty": 3, "image_url": "Rose6.png", "is_recipe": false}, {"mat": "purple roses", "qty": 6, "image_url": "Rose5.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathRoseRare.png"
+  },
+  {
+    "name": "dark tulip crown",
+    "category": "Headwear",
+    "mats": [{"mat": "black tulips", "qty": 5, "image_url": "Turip5.png", "is_recipe": false}],
+    "image_url": "CapOrnamentTulip3.png"
+  },
+  {
+    "name": "dark tulip wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "black tulips", "qty": 10, "image_url": "Turip5.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathTulipRare.png"
+  },
+  {
+    "name": "dark wooden-mosaic wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "wood", "qty": 15, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "RoomTexWallMixPlankWood01.png"
+  },
+  {
+    "name": "decoy duck",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 4, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrDecoy_Remake_0_0.png"
+  },
+  {
+    "name": "deer decoration",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "softwood", "qty": 8, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrHuntingtrophy_Remake_0_0.png"
+  },
+  {
+    "name": "deer scare",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 8, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "bamboo piece", "qty": 3, "image_url": "DIYBamboo.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 3, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "FtrShishiodoshi_Remake_0_0.png"
+  },
+  {
+    "name": "destinations signpost",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 8, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "hardwood", "qty": 4, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrSignpostWorld_Remake_0_0.png"
+  },
+  {
+    "name": "document stack",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "scattered papers", "qty": 1, "image_url": "FtrFloorpapers_Remake_0_0.png", "is_recipe": true}],
+    "image_url": "FtrOfficePapers_Remake_0_0.png"
+  },
+  {
+    "name": "doghouse",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 7, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "wood", "qty": 10, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrDoghouse_Remake_0_0.png"
+  },
+  {
+    "name": "drinking fountain",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "stone", "qty": 8, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrDrinkingfountain_Remake_0_0.png"
+  },
+  {
+    "name": "earth-egg outfit",
+    "category": "Dresses",
+    "mats": [{"mat": "earth egg", "qty": 3, "image_url": "EggGround.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceRibNEggground0.png"
+  },
+  {
+    "name": "earth-egg shell",
+    "category": "Headwear",
+    "mats": [{"mat": "earth egg", "qty": 2, "image_url": "EggGround.png", "is_recipe": false}],
+    "image_url": "CapHatEggground0.png"
+  },
+  {
+    "name": "earth-egg shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "earth egg", "qty": 2, "image_url": "EggGround.png", "is_recipe": false}],
+    "image_url": "ShoesLowcutEggground0.png"
+  },
+  {
+    "name": "egg party dress",
+    "category": "Dresses",
+    "mats": [{"mat": "leaf egg", "qty": 3, "image_url": "EggLeaf.png", "is_recipe": false}, {"mat": "stone egg", "qty": 3, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "earth egg", "qty": 3, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "water egg", "qty": 3, "image_url": "EggFish.png", "is_recipe": false}, {"mat": "sky egg", "qty": 3, "image_url": "EggSky.png", "is_recipe": false}, {"mat": "wood egg", "qty": 3, "image_url": "EggForest.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceBalloonLEgg0.png"
+  },
+  {
+    "name": "egg party hat",
+    "category": "Headwear",
+    "mats": [{"mat": "stone egg", "qty": 2, "image_url": "EggRock.png", "is_recipe": false}, {"mat": "water egg", "qty": 2, "image_url": "EggFish.png", "is_recipe": false}, {"mat": "earth egg", "qty": 2, "image_url": "EggGround.png", "is_recipe": false}, {"mat": "sky egg", "qty": 2, "image_url": "EggSky.png", "is_recipe": false}, {"mat": "wood egg", "qty": 2, "image_url": "EggForest.png", "is_recipe": false}, {"mat": "leaf egg", "qty": 2, "image_url": "EggLeaf.png", "is_recipe": false}],
+    "image_url": "CapHatEggparty0.png"
+  },
+  {
+    "name": "fancy lily wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "yellow lilies", "qty": 3, "image_url": "Yuri1.png", "is_recipe": false}, {"mat": "pink lilies", "qty": 3, "image_url": "Yuri4.png", "is_recipe": false}, {"mat": "orange lilies", "qty": 3, "image_url": "Yuri3.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathYuriMix.png"
+  },
+  {
+    "name": "fancy mum wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "purple mums", "qty": 3, "image_url": "Mum5.png", "is_recipe": false}, {"mat": "pink mums", "qty": 3, "image_url": "Mum3.png", "is_recipe": false}, {"mat": "red mums", "qty": 3, "image_url": "Mum2.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathMumMix.png"
+  },
+  {
+    "name": "fancy rose wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "pink roses", "qty": 3, "image_url": "Rose3.png", "is_recipe": false}, {"mat": "yellow roses", "qty": 3, "image_url": "Rose2.png", "is_recipe": false}, {"mat": "orange roses", "qty": 3, "image_url": "Rose4.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathRoseMix.png"
+  },
+  {
+    "name": "festive top set",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold ornament", "qty": 2, "image_url": "ChristmasOrnamentC.png", "is_recipe": false}, {"mat": "hardwood", "qty": 1, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrFestivaltop.png"
+  },
+  {
+    "name": "festive tree",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "blue ornament", "qty": 3, "image_url": "ChristmasOrnamentB.png", "is_recipe": false}, {"mat": "gold ornament", "qty": 3, "image_url": "ChristmasOrnamentC.png", "is_recipe": false}, {"mat": "red ornament", "qty": 3, "image_url": "ChristmasOrnamentA.png", "is_recipe": false}],
+    "image_url": "FtrTreeXmasS_Remake_0_0.png"
+  },
+  {
+    "name": "firewood",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "wood", "qty": 8, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrFirewood.png"
+  },
+  {
+    "name": "fish bait",
+    "category": "Other",
+    "mats": [{"mat": "manila clam", "qty": 1, "image_url": "ShellFishAsari.png", "is_recipe": false}],
+    "image_url": "FishBait.png"
+  },
+  {
+    "name": "fishing rod",
+    "category": "Tools",
+    "mats": [{"mat": "flimsy fishing rod", "qty": 1, "image_url": "ToolFishingrodWood.png", "is_recipe": true}, {"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "ToolAngling_Remake_0_0.png"
+  },
+  {
+    "name": "flat garden rock",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 20, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrGardenrockLow.png"
+  },
+  {
+    "name": "flimsy axe",
+    "category": "Tools",
+    "mats": [{"mat": "tree branch", "qty": 5, "image_url": "DIYBranch.png", "is_recipe": false}, {"mat": "stone", "qty": 1, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "ToolAxeStone.png"
+  },
+  {
+    "name": "flimsy fishing rod",
+    "category": "Tools",
+    "mats": [{"mat": "tree branch", "qty": 5, "image_url": "DIYBranch.png", "is_recipe": false}],
+    "image_url": "ToolFishingrodWood.png"
+  },
+  {
+    "name": "flimsy net",
+    "category": "Tools",
+    "mats": [{"mat": "tree branch", "qty": 5, "image_url": "DIYBranch.png", "is_recipe": false}],
+    "image_url": "ToolNet.png"
+  },
+  {
+    "name": "flimsy shovel",
+    "category": "Tools",
+    "mats": [{"mat": "hardwood", "qty": 5, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "ToolShovelWood.png"
+  },
+  {
+    "name": "flimsy watering can",
+    "category": "Tools",
+    "mats": [{"mat": "softwood", "qty": 5, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "ToolWateringWood.png"
+  },
+  {
+    "name": "floral swag",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "clump of weeds", "qty": 10, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "FtrFlowerSwag_Remake_0_0.png"
+  },
+  {
+    "name": "flower stand",
+    "category": "Housewares",
+    "mats": [{"mat": "pink roses", "qty": 2, "image_url": "Rose3.png", "is_recipe": false}, {"mat": "yellow lilies", "qty": 2, "image_url": "Yuri1.png", "is_recipe": false}, {"mat": "purple windflowers", "qty": 5, "image_url": "Anemone4.png", "is_recipe": false}, {"mat": "orange roses", "qty": 2, "image_url": "Rose4.png", "is_recipe": false}, {"mat": "white lilies", "qty": 2, "image_url": "Yuri0.png", "is_recipe": false}, {"mat": "red roses", "qty": 1, "image_url": "Rose0.png", "is_recipe": false}],
+    "image_url": "FtrStandflower_Remake_0_0.png"
+  },
+  {
+    "name": "flying saucer",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 10, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "star fragment", "qty": 15, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "FtrUFO.png"
+  },
+  {
+    "name": "forest flooring",
+    "category": "Floors",
+    "mats": [{"mat": "round mushroom", "qty": 2, "image_url": "Mush1.png", "is_recipe": false}, {"mat": "rare mushroom", "qty": 1, "image_url": "Mush4.png", "is_recipe": false}, {"mat": "flat mushroom", "qty": 2, "image_url": "Mush3.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 10, "image_url": "Weed.png", "is_recipe": false}, {"mat": "skinny mushroom", "qty": 2, "image_url": "Mush2.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorMushForest00.png"
+  },
+  {
+    "name": "forest wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "round mushroom", "qty": 2, "image_url": "Mush1.png", "is_recipe": false}, {"mat": "wood", "qty": 10, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "flat mushroom", "qty": 2, "image_url": "Mush3.png", "is_recipe": false}, {"mat": "elegant mushroom", "qty": 2, "image_url": "Mush0.png", "is_recipe": false}, {"mat": "skinny mushroom", "qty": 2, "image_url": "Mush2.png", "is_recipe": false}],
+    "image_url": "RoomTexWallMushForest00.png"
+  },
+  {
+    "name": "fossil doorplate",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "stone", "qty": 2, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "fossil", "qty": 1, "image_url": "Fossil.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentFossil_Remake_0_0.png"
+  },
+  {
+    "name": "fountain",
+    "category": "Housewares",
+    "mats": [{"mat": "drinking fountain", "qty": 1, "image_url": "FtrDrinkingfountain_Remake_0_0.png", "is_recipe": true}, {"mat": "stone", "qty": 20, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 8, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrFountain_Remake_0_0.png"
+  },
+  {
+    "name": "frozen arch",
+    "category": "Housewares",
+    "mats": [{"mat": "snowflake", "qty": 10, "image_url": "SnowCrystal.png", "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}],
+    "image_url": "FtrIceGate_Remake_0_0.png"
+  },
+  {
+    "name": "frozen bed",
+    "category": "Housewares",
+    "mats": [{"mat": "snowflake", "qty": 10, "image_url": "SnowCrystal.png", "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}],
+    "image_url": "FtrIceBedW_Remake_0_0.png"
+  },
+  {
+    "name": "frozen chair",
+    "category": "Housewares",
+    "mats": [{"mat": "snowflake", "qty": 3, "image_url": "SnowCrystal.png", "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}],
+    "image_url": "FtrIceChairS_Remake_0_0.png"
+  },
+  {
+    "name": "frozen counter",
+    "category": "Housewares",
+    "mats": [{"mat": "snowflake", "qty": 5, "image_url": "SnowCrystal.png", "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}],
+    "image_url": "FtrIceCounter_Remake_0_0.png"
+  },
+  {
+    "name": "frozen partition",
+    "category": "Housewares",
+    "mats": [{"mat": "snowflake", "qty": 6, "image_url": "SnowCrystal.png", "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}],
+    "image_url": "FtrIceScreen_Remake_0_0.png"
+  },
+  {
+    "name": "frozen pillar",
+    "category": "Housewares",
+    "mats": [{"mat": "snowflake", "qty": 4, "image_url": "SnowCrystal.png", "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}],
+    "image_url": "FtrIcePillar_Remake_0_0.png"
+  },
+  {
+    "name": "frozen sculpture",
+    "category": "Housewares",
+    "mats": [{"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}, {"mat": "snowflake", "qty": 4, "image_url": "SnowCrystal.png", "is_recipe": false}],
+    "image_url": "FtrIceArt_Remake_0_0.png"
+  },
+  {
+    "name": "frozen table",
+    "category": "Housewares",
+    "mats": [{"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}, {"mat": "snowflake", "qty": 8, "image_url": "SnowCrystal.png", "is_recipe": false}],
+    "image_url": "FtrIceTableL_Remake_0_0.png"
+  },
+  {
+    "name": "frozen tree",
+    "category": "Housewares",
+    "mats": [{"mat": "snowflake", "qty": 8, "image_url": "SnowCrystal.png", "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}],
+    "image_url": "FtrIceTree_Remake_0_0.png"
+  },
+  {
+    "name": "frozen-treat set",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "snowflake", "qty": 1, "image_url": "SnowCrystal.png", "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}],
+    "image_url": "FtrIceCandy_Remake_0_0.png"
+  },
+  {
+    "name": "fruit basket",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "apple", "qty": 1, "image_url": "Apple.png", "is_recipe": false}, {"mat": "peach", "qty": 1, "image_url": "Peach.png", "is_recipe": false}, {"mat": "pear", "qty": 1, "image_url": "Pear.png", "is_recipe": false}, {"mat": "cherry", "qty": 1, "image_url": "Cherry.png", "is_recipe": false}, {"mat": "orange", "qty": 1, "image_url": "Orange.png", "is_recipe": false}],
+    "image_url": "FtrFruitbasket.png"
+  },
+  {
+    "name": "fruit wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "apple", "qty": 2, "image_url": "Apple.png", "is_recipe": false}, {"mat": "cherry", "qty": 3, "image_url": "Cherry.png", "is_recipe": false}, {"mat": "pear", "qty": 1, "image_url": "Pear.png", "is_recipe": false}, {"mat": "peach", "qty": 1, "image_url": "Peach.png", "is_recipe": false}, {"mat": "orange", "qty": 3, "image_url": "Orange.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathFruit.png"
+  },
+  {
+    "name": "frying pan",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrPan_Remake_0_0.png"
+  },
+  {
+    "name": "galaxy flooring",
+    "category": "Floors",
+    "mats": [{"mat": "star fragment", "qty": 5, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "large star fragment", "qty": 1, "image_url": "StarpieceRare.png", "is_recipe": false}],
+    "image_url": "RoomSpFloorGalaxy00.png"
+  },
+  {
+    "name": "garbage-heap flooring",
+    "category": "Floors",
+    "mats": [{"mat": "old tire", "qty": 2, "image_url": "Tire.png", "is_recipe": false}, {"mat": "boot", "qty": 2, "image_url": "Boots.png", "is_recipe": false}, {"mat": "empty can", "qty": 2, "image_url": "Can.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorGarbage00.png"
+  },
+  {
+    "name": "garbage-heap wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "boot", "qty": 2, "image_url": "Boots.png", "is_recipe": false}, {"mat": "empty can", "qty": 2, "image_url": "Can.png", "is_recipe": false}, {"mat": "old tire", "qty": 2, "image_url": "Tire.png", "is_recipe": false}],
+    "image_url": "RoomTexWallGarbage00.png"
+  },
+  {
+    "name": "garden bench",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 12, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 4, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrParkbenche_Remake_0_0.png"
+  },
+  {
+    "name": "garden rock",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 15, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrGardenrock.png"
+  },
+  {
+    "name": "garden wagon",
+    "category": "Housewares",
+    "mats": [{"mat": "yellow roses", "qty": 3, "image_url": "Rose2.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "white hyacinths", "qty": 3, "image_url": "Hyacinth0.png", "is_recipe": false}, {"mat": "wood", "qty": 8, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "red cosmos", "qty": 3, "image_url": "Anemone1.png", "is_recipe": false}],
+    "image_url": "FtrGardenwagon_Remake_0_0.png"
+  },
+  {
+    "name": "giant teddy bear",
+    "category": "Housewares",
+    "mats": [{"mat": "Mama bear", "qty": 1, "image_url": "FtrBearM_Remake_0_0.png", "is_recipe": false}, {"mat": "Papa bear", "qty": 1, "image_url": "FtrBearL_Remake_0_0.png", "is_recipe": false}, {"mat": "Baby bear", "qty": 1, "image_url": "FtrBearS_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "FtrBearXL_Remake_0_0.png"
+  },
+  {
+    "name": "gold armor",
+    "category": "Dresses",
+    "mats": [{"mat": "gold nugget", "qty": 8, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceOverallLPlatearmorGold.png"
+  },
+  {
+    "name": "gold bars",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold nugget", "qty": 3, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrGoldbar.png"
+  },
+  {
+    "name": "gold helmet",
+    "category": "Headwear",
+    "mats": [{"mat": "gold nugget", "qty": 5, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "CapFullfaceKnightGold.png"
+  },
+  {
+    "name": "gold rose crown",
+    "category": "Headwear",
+    "mats": [{"mat": "gold roses", "qty": 6, "image_url": "GoldenRose.png", "is_recipe": false}],
+    "image_url": "CapOrnamentRose5.png"
+  },
+  {
+    "name": "gold rose wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "gold roses", "qty": 10, "image_url": "GoldenRose.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathRoseGold.png"
+  },
+  {
+    "name": "gold-armor shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "gold nugget", "qty": 4, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "ShoesKneeKnightGold.png"
+  },
+  {
+    "name": "gold-screen wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "screen wall", "qty": 1, "image_url": "RoomTexWallFusuma00.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "RoomTexWallFusumaGorgeous00.png"
+  },
+  {
+    "name": "golden arowana model",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold nugget", "qty": 3, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrFishArowanaGold.png"
+  },
+  {
+    "name": "golden axe",
+    "category": "Tools",
+    "mats": [{"mat": "axe", "qty": 1, "image_url": "ToolAxe.png", "is_recipe": true}, {"mat": "gold nugget", "qty": 1, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "ToolAxeGold.png"
+  },
+  {
+    "name": "golden candlestick",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrGoldCandlestand.png"
+  },
+  {
+    "name": "golden casket",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 8, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrGoldCoffin.png"
+  },
+  {
+    "name": "golden dishes",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold nugget", "qty": 1, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrGoldDishes.png"
+  },
+  {
+    "name": "golden dung beetle",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold nugget", "qty": 3, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrInsectKabutomushiGold.png"
+  },
+  {
+    "name": "golden flooring",
+    "category": "Floors",
+    "mats": [{"mat": "gold nugget", "qty": 4, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorGold00.png"
+  },
+  {
+    "name": "golden gears",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 1, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrGearWallGold.png"
+  },
+  {
+    "name": "golden net",
+    "category": "Tools",
+    "mats": [{"mat": "gold nugget", "qty": 1, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "net", "qty": 1, "image_url": "ToolNetNormal_Remake_0_0.png", "is_recipe": true}],
+    "image_url": "ToolNetGold.png"
+  },
+  {
+    "name": "golden rod",
+    "category": "Tools",
+    "mats": [{"mat": "fishing rod", "qty": 1, "image_url": "ToolAngling_Remake_0_0.png", "is_recipe": true}, {"mat": "gold nugget", "qty": 1, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "ToolFishingrodGold.png"
+  },
+  {
+    "name": "golden seat",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 5, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrGoldbench.png"
+  },
+  {
+    "name": "golden shovel",
+    "category": "Tools",
+    "mats": [{"mat": "shovel", "qty": 1, "image_url": "ToolScoop_Remake_0_0.png", "is_recipe": true}, {"mat": "gold nugget", "qty": 1, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "ToolScoopGold.png"
+  },
+  {
+    "name": "golden slingshot",
+    "category": "Tools",
+    "mats": [{"mat": "slingshot", "qty": 1, "image_url": "ToolSlingshot_Remake_0_0.png", "is_recipe": true}, {"mat": "gold nugget", "qty": 1, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "ToolSlingshotGold.png"
+  },
+  {
+    "name": "golden toilet",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 6, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrGoldWC.png"
+  },
+  {
+    "name": "golden wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "gold nugget", "qty": 4, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "RoomTexWallGold00.png"
+  },
+  {
+    "name": "golden wand",
+    "category": "Tools",
+    "mats": [{"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "ToolStickGolden.png"
+  },
+  {
+    "name": "golden watering can",
+    "category": "Tools",
+    "mats": [{"mat": "watering can", "qty": 1, "image_url": "ToolWatering_Remake_0_0.png", "is_recipe": true}, {"mat": "gold nugget", "qty": 1, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "ToolWateringGold.png"
+  },
+  {
+    "name": "gong",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 6, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrTamtam_Remake_0_0.png"
+  },
+  {
+    "name": "grass skirt",
+    "category": "Bottoms",
+    "mats": [{"mat": "clump of weeds", "qty": 7, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "BottomsTexSkirtBoxGrass0.png"
+  },
+  {
+    "name": "grass standee",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 2, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "softwood", "qty": 2, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrHariboteGrass_Remake_0_0.png"
+  },
+  {
+    "name": "green grass skirt",
+    "category": "Bottoms",
+    "mats": [{"mat": "clump of weeds", "qty": 7, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "BottomsTexSkirtBoxGrass1.png"
+  },
+  {
+    "name": "green-leaf pile",
+    "category": "Housewares",
+    "mats": [{"mat": "young spring bamboo", "qty": 1, "image_url": "DIYBambooSpring.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 10, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "FtrFallenleavesGreen.png"
+  },
+  {
+    "name": "hanging terrarium",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 4, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 10, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "FtrTerrariumWall_Remake_0_0.png"
+  },
+  {
+    "name": "hay bed",
+    "category": "Housewares",
+    "mats": [{"mat": "clump of weeds", "qty": 20, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "FtrHaybed_Remake_0_0.png"
+  },
+  {
+    "name": "hearth",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 5, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "clay", "qty": 4, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "hardwood", "qty": 5, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "bamboo piece", "qty": 2, "image_url": "DIYBamboo.png", "is_recipe": false}],
+    "image_url": "FtrIrori.png"
+  },
+  {
+    "name": "hedge",
+    "category": "Fencing",
+    "mats": [{"mat": "branch", "qty": 5, "image_url": null, "is_recipe": false}, {"mat": "stone", "qty": 2, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "weed", "qty": 10, "image_url": null, "is_recipe": false}],
+    "image_url": null
+  },
+  {
+    "name": "hedge standee",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 3, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "wood", "qty": 2, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrHariboteHedge_Remake_0_0.png"
+  },
+  {
+    "name": "holiday candle",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "red ornament", "qty": 5, "image_url": "ChristmasOrnamentA.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 5, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "FtrCandleXmas_Remake_0_0.png"
+  },
+  {
+    "name": "honeycomb flooring",
+    "category": "Floors",
+    "mats": [{"mat": "wasp nest", "qty": 5, "image_url": null, "is_recipe": false}],
+    "image_url": "RoomTexFloorHoney00.png"
+  },
+  {
+    "name": "honeycomb wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "wasp nest", "qty": 6, "image_url": null, "is_recipe": false}],
+    "image_url": "RoomTexWallHoney00.png"
+  },
+  {
+    "name": "hyacinth crown",
+    "category": "Headwear",
+    "mats": [{"mat": "red hyacinths", "qty": 4, "image_url": "Hyacinth2.png", "is_recipe": false}, {"mat": "white hyacinths", "qty": 2, "image_url": "Hyacinth0.png", "is_recipe": false}, {"mat": "yellow hyacinths", "qty": 2, "image_url": "Hyacinth1.png", "is_recipe": false}],
+    "image_url": "CapOrnamentHyacinth1.png"
+  },
+  {
+    "name": "hyacinth lamp",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "purple hyacinths", "qty": 5, "image_url": "Hyacinth5.png", "is_recipe": false}, {"mat": "clay", "qty": 3, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrFlowerLamp_Remake_0_0.png"
+  },
+  {
+    "name": "hyacinth wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "pink hyacinths", "qty": 1, "image_url": "Hyacinth4.png", "is_recipe": false}],
+    "image_url": "ToolStickHyacinth.png"
+  },
+  {
+    "name": "hyacinth wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "white hyacinths", "qty": 3, "image_url": "Hyacinth0.png", "is_recipe": false}, {"mat": "red hyacinths", "qty": 3, "image_url": "Hyacinth2.png", "is_recipe": false}, {"mat": "yellow hyacinths", "qty": 3, "image_url": "Hyacinth1.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathHyacinth.png"
+  },
+  {
+    "name": "ice flooring",
+    "category": "Floors",
+    "mats": [{"mat": "snowflake", "qty": 8, "image_url": "SnowCrystal.png", "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}],
+    "image_url": "RoomSpFloorIce00.png"
+  },
+  {
+    "name": "ice wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}, {"mat": "snowflake", "qty": 8, "image_url": "SnowCrystal.png", "is_recipe": false}],
+    "image_url": "RoomSpWallIce00.png"
+  },
+  {
+    "name": "ice wand",
+    "category": "Tools",
+    "mats": [{"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "ToolStickSnow.png"
+  },
+  {
+    "name": "iceberg flooring",
+    "category": "Floors",
+    "mats": [{"mat": "snowflake", "qty": 10, "image_url": "SnowCrystal.png", "is_recipe": false}],
+    "image_url": "RoomSpFloorIceFloe00.png"
+  },
+  {
+    "name": "iceberg wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}, {"mat": "snowflake", "qty": 8, "image_url": "SnowCrystal.png", "is_recipe": false}],
+    "image_url": "RoomTexWallIceFloe00.png"
+  },
+  {
+    "name": "illuminated present",
+    "category": "Housewares",
+    "mats": [{"mat": "gold ornament", "qty": 4, "image_url": "ChristmasOrnamentC.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "red ornament", "qty": 3, "image_url": "ChristmasOrnamentA.png", "is_recipe": false}],
+    "image_url": "FtrIllumiPresent_Remake_0_0.png"
+  },
+  {
+    "name": "illuminated reindeer",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 5, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "gold ornament", "qty": 6, "image_url": "ChristmasOrnamentC.png", "is_recipe": false}],
+    "image_url": "FtrIllumiReindeer_Remake_0_0.png"
+  },
+  {
+    "name": "illuminated snowflakes",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 3, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "blue ornament", "qty": 9, "image_url": "ChristmasOrnamentB.png", "is_recipe": false}],
+    "image_url": "FtrIllumiSnow_Remake_0_0.png"
+  },
+  {
+    "name": "illuminated tree",
+    "category": "Housewares",
+    "mats": [{"mat": "gold ornament", "qty": 4, "image_url": "ChristmasOrnamentC.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "red ornament", "qty": 3, "image_url": "ChristmasOrnamentA.png", "is_recipe": false}],
+    "image_url": "FtrIllumiTree_Remake_0_0.png"
+  },
+  {
+    "name": "imperial fence",
+    "category": "Fencing",
+    "mats": [{"mat": "softwood", "qty": 4, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "wood", "qty": 6, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "ItemFenceChinese.png"
+  },
+  {
+    "name": "infused-water dispenser",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "orange", "qty": 2, "image_url": "Orange.png", "is_recipe": false}, {"mat": "peach", "qty": 2, "image_url": "Peach.png", "is_recipe": false}, {"mat": "pear", "qty": 2, "image_url": "Pear.png", "is_recipe": false}, {"mat": "apple", "qty": 2, "image_url": "Apple.png", "is_recipe": false}, {"mat": "cherry", "qty": 2, "image_url": "Cherry.png", "is_recipe": false}, {"mat": "coconut", "qty": 2, "image_url": "Coconut.png", "is_recipe": false}],
+    "image_url": "FtrFruitswater.png"
+  },
+  {
+    "name": "iron armor",
+    "category": "Dresses",
+    "mats": [{"mat": "iron nugget", "qty": 8, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceOverallLPlatearmorIron.png"
+  },
+  {
+    "name": "iron closet",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 12, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIronClosetLR_Remake_0_0.png"
+  },
+  {
+    "name": "iron doorplate",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentIron_Remake_0_0.png"
+  },
+  {
+    "name": "iron fence",
+    "category": "Fencing",
+    "mats": [{"mat": "iron nugget", "qty": 6, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "ItemFenceSteel.png"
+  },
+  {
+    "name": "iron frame",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 20, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIronframe_Remake_0_0.png"
+  },
+  {
+    "name": "iron garden bench",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 8, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIrongardenBench_Remake_0_0.png"
+  },
+  {
+    "name": "iron garden chair",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIrongardenChair_Remake_0_0.png"
+  },
+  {
+    "name": "iron garden table",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 5, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIrongardenTable_Remake_0_0.png"
+  },
+  {
+    "name": "iron hanger stand",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIronHanger_Remake_0_0.png"
+  },
+  {
+    "name": "iron shelf",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 14, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIronShelf_Remake_0_0.png"
+  },
+  {
+    "name": "iron wall lamp",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "clay", "qty": 2, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 4, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIronLampW_Remake_0_0.png"
+  },
+  {
+    "name": "iron wall rack",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "clay", "qty": 1, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrIronShelfW_Remake_0_0.png"
+  },
+  {
+    "name": "iron wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "ToolStickIron.png"
+  },
+  {
+    "name": "iron worktable",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 10, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIronTableM_Remake_0_0.png"
+  },
+  {
+    "name": "iron-and-stone fence",
+    "category": "Fencing",
+    "mats": [{"mat": "stone", "qty": 6, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "ItemFenceIronAndStone.png"
+  },
+  {
+    "name": "ironwood DIY workbench",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 12, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "mini DIY workbench", "qty": 1, "image_url": "FtrWorkbenchS_Remake_0_0.png", "is_recipe": true}, {"mat": "iron nugget", "qty": 6, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrWorkbenchIronwood_Remake_0_0.png"
+  },
+  {
+    "name": "ironwood bed",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 10, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "wood", "qty": 20, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrIronwoodBedS_Remake_0_0.png"
+  },
+  {
+    "name": "ironwood cart",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 4, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "wood", "qty": 6, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrIronwoodServingcart_Remake_0_0.png"
+  },
+  {
+    "name": "ironwood chair",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIronwoodChairS_Remake_0_0.png"
+  },
+  {
+    "name": "ironwood clock",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "wood", "qty": 2, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIronwoodClockW_Remake_0_0.png"
+  },
+  {
+    "name": "ironwood cupboard",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 12, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "ironwood dresser", "qty": 1, "image_url": "FtrIronwoodChest_Remake_0_0.png", "is_recipe": true}, {"mat": "iron nugget", "qty": 6, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIronwoodCupboard_Remake_0_0.png"
+  },
+  {
+    "name": "ironwood dresser",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 7, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 4, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIronwoodChest_Remake_0_0.png"
+  },
+  {
+    "name": "ironwood kitchenette",
+    "category": "Housewares",
+    "mats": [{"mat": "cutting board", "qty": 1, "image_url": "FtrCuttingboard_Remake_0_0.png", "is_recipe": true}, {"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "ironwood dresser", "qty": 1, "image_url": "FtrIronwoodChest_Remake_0_0.png", "is_recipe": true}, {"mat": "wood", "qty": 4, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrIronwoodKitchen_Remake_0_0.png"
+  },
+  {
+    "name": "ironwood low table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 6, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 4, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIronwoodTableM_Remake_0_0.png"
+  },
+  {
+    "name": "ironwood table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 12, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 6, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrIronwoodTableL_Remake_0_0.png"
+  },
+  {
+    "name": "jail bars",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 5, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrScreenCage_Remake_0_0.png"
+  },
+  {
+    "name": "juicy-apple TV",
+    "category": "Housewares",
+    "mats": [{"mat": "apple", "qty": 10, "image_url": "Apple.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrFruitsTV_Remake_0_0.png"
+  },
+  {
+    "name": "jungle flooring",
+    "category": "Floors",
+    "mats": [{"mat": "clay", "qty": 10, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 10, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorJungle00.png"
+  },
+  {
+    "name": "jungle wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "softwood", "qty": 3, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "hardwood", "qty": 3, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 15, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "RoomTexWallJungle00.png"
+  },
+  {
+    "name": "kettle bathtub",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 2, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 8, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "campfire", "qty": 1, "image_url": "FtrCampfire.png", "is_recipe": true}],
+    "image_url": "FtrGoemonburo.png"
+  },
+  {
+    "name": "kettlebell",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 5, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 5, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrKettlebell_Remake_0_0.png"
+  },
+  {
+    "name": "key holder",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrKeyhanger_Remake_0_0.png"
+  },
+  {
+    "name": "knight's helmet",
+    "category": "Headwear",
+    "mats": [{"mat": "iron nugget", "qty": 5, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "CapFullfaceKnightIron.png"
+  },
+  {
+    "name": "knitted-grass backpack",
+    "category": "Bags",
+    "mats": [{"mat": "clump of weeds", "qty": 20, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "BagBackpackGrass0.png"
+  },
+  {
+    "name": "ladder",
+    "category": "Tools",
+    "mats": [{"mat": "wood", "qty": 4, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "hardwood", "qty": 4, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "softwood", "qty": 4, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "ToolLadder.png"
+  },
+  {
+    "name": "large cardboard boxes",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 5, "image_url": "FtrCardboard_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "FtrMovingboxL.png"
+  },
+  {
+    "name": "lattice fence",
+    "category": "Fencing",
+    "mats": [{"mat": "softwood", "qty": 8, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "ItemFenceLatiiceNatural.png"
+  },
+  {
+    "name": "leaf",
+    "category": "Accessories",
+    "mats": [{"mat": "clump of weeds", "qty": 5, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "AccessoryMouthLeafGreen.png"
+  },
+  {
+    "name": "leaf campfire",
+    "category": "Housewares",
+    "mats": [{"mat": "pine cone", "qty": 3, "image_url": "DIYPinecone.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 5, "image_url": "Weed.png", "is_recipe": false}, {"mat": "tree branch", "qty": 3, "image_url": "DIYBranch.png", "is_recipe": false}],
+    "image_url": "FtrFallenleavesfire_Remake_0_0.png"
+  },
+  {
+    "name": "leaf mask",
+    "category": "Headwear",
+    "mats": [{"mat": "clump of weeds", "qty": 10, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "CapMaskLeaf0.png"
+  },
+  {
+    "name": "leaf stool",
+    "category": "Housewares",
+    "mats": [{"mat": "maple leaf", "qty": 3, "image_url": null, "is_recipe": false}, {"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrFallenleavesChairS_Remake_0_0.png"
+  },
+  {
+    "name": "leaf umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "clump of weeds", "qty": 15, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "UmbrellaLeaf0.png"
+  },
+  {
+    "name": "leaf-egg outfit",
+    "category": "Dresses",
+    "mats": [{"mat": "leaf egg", "qty": 3, "image_url": "EggLeaf.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceRibNEggleaf0.png"
+  },
+  {
+    "name": "leaf-egg shell",
+    "category": "Headwear",
+    "mats": [{"mat": "leaf egg", "qty": 2, "image_url": "EggLeaf.png", "is_recipe": false}],
+    "image_url": "CapHatEggleaf0.png"
+  },
+  {
+    "name": "leaf-egg shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "leaf egg", "qty": 2, "image_url": "EggLeaf.png", "is_recipe": false}],
+    "image_url": "ShoesLowcutEggleaf0.png"
+  },
+  {
+    "name": "light bamboo rug",
+    "category": "Rugs",
+    "mats": [{"mat": "young spring bamboo", "qty": 6, "image_url": "DIYBambooSpring.png", "is_recipe": false}],
+    "image_url": "RugRectBambooM00.png"
+  },
+  {
+    "name": "lily crown",
+    "category": "Headwear",
+    "mats": [{"mat": "red lilies", "qty": 2, "image_url": "Yuri2.png", "is_recipe": false}, {"mat": "white lilies", "qty": 2, "image_url": "Yuri0.png", "is_recipe": false}, {"mat": "yellow lilies", "qty": 2, "image_url": "Yuri1.png", "is_recipe": false}],
+    "image_url": "CapOrnamentYuri1.png"
+  },
+  {
+    "name": "lily record player",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "white lilies", "qty": 5, "image_url": "Yuri0.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrFlowerRecordplayer_Remake_0_0.png"
+  },
+  {
+    "name": "lily wand",
+    "category": "Tools",
+    "mats": [{"mat": "white lilies", "qty": 1, "image_url": "Yuri0.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "ToolStickYuri.png"
+  },
+  {
+    "name": "lily wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "yellow lilies", "qty": 3, "image_url": "Yuri1.png", "is_recipe": false}, {"mat": "white lilies", "qty": 3, "image_url": "Yuri0.png", "is_recipe": false}, {"mat": "red lilies", "qty": 3, "image_url": "Yuri2.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathYuri.png"
+  },
+  {
+    "name": "log bed",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 30, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrLogBedW_Remake_0_0.png"
+  },
+  {
+    "name": "log bench",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 5, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrLogStoolL_Remake_0_0.png"
+  },
+  {
+    "name": "log sofa",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 8, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrLogSofaS_Remake_0_0.png"
+  },
+  {
+    "name": "log decorative shelves",
+    "category": "Housewares",
+    "mats": [{"mat": "log bench", "qty": 2, "image_url": "FtrLogStoolL_Remake_0_0.png", "is_recipe": true}, {"mat": "hardwood", "qty": 3, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrLogShelf_Remake_0_0.png"
+  },
+  {
+    "name": "log dining table",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 15, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrLogTableL_Remake_0_0.png"
+  },
+  {
+    "name": "log extra-long sofa",
+    "category": "Housewares",
+    "mats": [{"mat": "log chair", "qty": 2, "image_url": null, "is_recipe": true}],
+    "image_url": "FtrLogSofaL_Remake_0_0.png"
+  },
+  {
+    "name": "log garden lounge",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 12, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrLogBedS_Remake_0_0.png"
+  },
+  {
+    "name": "log pack",
+    "category": "Bags",
+    "mats": [{"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "hardwood", "qty": 5, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "BagBackpackWood0.png"
+  },
+  {
+    "name": "log round table",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 15, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrLogTableLRound_Remake_0_0.png"
+  },
+  {
+    "name": "log stakes",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodPile_Remake_0_0.png"
+  },
+  {
+    "name": "log stool",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 4, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrLogStoolS_Remake_0_0.png"
+  },
+  {
+    "name": "log wall-mounted clock",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "hardwood", "qty": 2, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrLogClockWall_Remake_0_0.png"
+  },
+  {
+    "name": "lovely cosmos crown",
+    "category": "Headwear",
+    "mats": [{"mat": "orange cosmos", "qty": 3, "image_url": "Anemone4.png", "is_recipe": false}, {"mat": "pink cosmos", "qty": 3, "image_url": "Anemone3.png", "is_recipe": false}],
+    "image_url": "CapOrnamentCosmos2.png"
+  },
+  {
+    "name": "lucky gold cat",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold nugget", "qty": 2, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "lucky cat", "qty": 1, "image_url": "FtrManekineko_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "FtrManekinekoGold.png"
+  },
+  {
+    "name": "lunar lander",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 15, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "star fragment", "qty": 10, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "FtrModule.png"
+  },
+  {
+    "name": "lunar rover",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 10, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "star fragment", "qty": 10, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "old tire", "qty": 4, "image_url": null, "is_recipe": false}],
+    "image_url": "FtrMoonrover.png"
+  },
+  {
+    "name": "lunar surface",
+    "category": "Floors",
+    "mats": [{"mat": "large star fragment", "qty": 1, "image_url": "StarpieceRare.png", "is_recipe": false}, {"mat": "star fragment", "qty": 5, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorLunar00.png"
+  },
+  {
+    "name": "magazine rack",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "magazine", "qty": 2, "image_url": "FtrMagagineOpened_Remake_0_0.png", "is_recipe": false}, {"mat": "wood", "qty": 4, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrMagazinerack_Remake_0_0.png"
+  },
+  {
+    "name": "manga-library wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "magazine", "qty": 10, "image_url": "FtrMagagineOpened_0.png", "is_recipe": false}],
+    "image_url": "RoomTexWallLibrary01.png"
+  },
+  {
+    "name": "manhole cover",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrManhole_Remake_0_0.png"
+  },
+  {
+    "name": "maple-leaf pochette",
+    "category": "Bags",
+    "mats": [{"mat": "maple leaf", "qty": 6, "image_url": null, "is_recipe": false}],
+    "image_url": "BagShoulderMaple0.png"
+  },
+  {
+    "name": "maple-leaf pond stone",
+    "category": "Housewares",
+    "mats": [{"mat": "maple leaf", "qty": 3, "image_url": null, "is_recipe": false}, {"mat": "stone", "qty": 10, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrStonewaterbowlAutumun.png"
+  },
+  {
+    "name": "maple-leaf umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "maple leaf", "qty": 7, "image_url": null, "is_recipe": false}],
+    "image_url": "UmbrellaAutumn0.png"
+  },
+  {
+    "name": "matryoshka",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 5, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrMatryoshka_Remake_0_0.png"
+  },
+  {
+    "name": "medicine",
+    "category": "Other",
+    "mats": [{"mat": "wasp nest", "qty": 1, "image_url": null, "is_recipe": false}, {"mat": "clump of weeds", "qty": 3, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "ItemMedicine.png"
+  },
+  {
+    "name": "medium cardboard boxes",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 4, "image_url": "FtrCardboard_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "FtrMovingboxM.png"
+  },
+  {
+    "name": "mini DIY workbench",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "hardwood", "qty": 3, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "softwood", "qty": 3, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrWorkbenchS_Remake_0_0.png"
+  },
+  {
+    "name": "modeling clay",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 2, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrClaytoy_Remake_0_0.png"
+  },
+  {
+    "name": "modern wood wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "hardwood", "qty": 5, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "softwood", "qty": 5, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "RoomTexWallMixwood00.png"
+  },
+  {
+    "name": "money flooring",
+    "category": "Floors",
+    "mats": [{"mat": "bells", "qty": 50000, "image_url": "MoneyBag069.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorBill00.png"
+  },
+  {
+    "name": "moon",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 15, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "large star fragment", "qty": 1, "image_url": "StarpieceRare.png", "is_recipe": false}],
+    "image_url": "FtrMoon.png"
+  },
+  {
+    "name": "mossy garden rock",
+    "category": "Housewares",
+    "mats": [{"mat": "clump of weeds", "qty": 15, "image_url": "Weed.png", "is_recipe": false}, {"mat": "stone", "qty": 15, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrGardenrockMoss.png"
+  },
+  {
+    "name": "mountain standee",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 5, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "wood", "qty": 4, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrHariboteMountain_Remake_0_0.png"
+  },
+  {
+    "name": "mum crown",
+    "category": "Headwear",
+    "mats": [{"mat": "yellow mums", "qty": 2, "image_url": "Mum1.png", "is_recipe": false}, {"mat": "white mums", "qty": 2, "image_url": "Mum0.png", "is_recipe": false}, {"mat": "red mums", "qty": 2, "image_url": "Mum2.png", "is_recipe": false}],
+    "image_url": "CapOrnamentMum1.png"
+  },
+  {
+    "name": "mum cushion",
+    "category": "Housewares",
+    "mats": [{"mat": "yellow mums", "qty": 3, "image_url": "Mum1.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 10, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "FtrFlowerStoolS_Remake_0_0.png"
+  },
+  {
+    "name": "mum wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "red mums", "qty": 3, "image_url": "Mum2.png", "is_recipe": false}, {"mat": "white mums", "qty": 3, "image_url": "Mum0.png", "is_recipe": false}, {"mat": "yellow mums", "qty": 3, "image_url": "Mum1.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathMum.png"
+  },
+  {
+    "name": "mums wand",
+    "category": "Tools",
+    "mats": [{"mat": "yellow mums", "qty": 1, "image_url": "Mum1.png", "is_recipe": false}],
+    "image_url": "ToolStickChrysanthemum.png"
+  },
+  {
+    "name": "mush lamp",
+    "category": "Housewares",
+    "mats": [{"mat": "skinny mushroom", "qty": 1, "image_url": "Mush2.png", "is_recipe": false}, {"mat": "clay", "qty": 5, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrMushroomLamp_Remake_0_0.png"
+  },
+  {
+    "name": "mush log",
+    "category": "Housewares",
+    "mats": [{"mat": "skinny mushroom", "qty": 2, "image_url": "Mush2.png", "is_recipe": false}, {"mat": "log stool", "qty": 1, "image_url": "FtrLogStoolS_Remake_0_0.png", "is_recipe": true}],
+    "image_url": "FtrMushroomPulpwood_Remake_0_0.png"
+  },
+  {
+    "name": "mush low stool",
+    "category": "Housewares",
+    "mats": [{"mat": "round mushroom", "qty": 2, "image_url": "Mush1.png", "is_recipe": false}],
+    "image_url": "FtrMushroomChairS_Remake_0_0.png"
+  },
+  {
+    "name": "mush parasol",
+    "category": "Housewares",
+    "mats": [{"mat": "flat mushroom", "qty": 3, "image_url": "Mush3.png", "is_recipe": false}],
+    "image_url": "FtrMushroomParasol_Remake_0_0.png"
+  },
+  {
+    "name": "mush partition",
+    "category": "Housewares",
+    "mats": [{"mat": "skinny mushroom", "qty": 3, "image_url": "Mush2.png", "is_recipe": false}],
+    "image_url": "FtrMushroomScreen_Remake_0_0.png"
+  },
+  {
+    "name": "mush table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 6, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "flat mushroom", "qty": 2, "image_url": "Mush3.png", "is_recipe": false}],
+    "image_url": "FtrMushroomTableL_Remake_0_0.png"
+  },
+  {
+    "name": "mush umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "flat mushroom", "qty": 3, "image_url": "Mush3.png", "is_recipe": false}],
+    "image_url": "UmbrellaMushroom0.png"
+  },
+  {
+    "name": "mush wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "round mushroom", "qty": 1, "image_url": "Mush1.png", "is_recipe": false}, {"mat": "elegant mushroom", "qty": 1, "image_url": "Mush0.png", "is_recipe": false}, {"mat": "flat mushroom", "qty": 1, "image_url": "Mush3.png", "is_recipe": false}, {"mat": "skinny mushroom", "qty": 1, "image_url": "Mush2.png", "is_recipe": false}],
+    "image_url": "RoomTexWallMush00.png"
+  },
+  {
+    "name": "mushroom wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "skinny mushroom", "qty": 3, "image_url": "Mush2.png", "is_recipe": false}],
+    "image_url": "ToolStickMushroom_Remake_0_0.png"
+  },
+  {
+    "name": "mushroom wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "skinny mushroom", "qty": 1, "image_url": "Mush2.png", "is_recipe": false}, {"mat": "flat mushroom", "qty": 1, "image_url": "Mush3.png", "is_recipe": false}, {"mat": "round mushroom", "qty": 1, "image_url": "Mush1.png", "is_recipe": false}, {"mat": "tree branch", "qty": 10, "image_url": "DIYBranch.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathMushroom.png"
+  },
+  {
+    "name": "music stand",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 8, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrMusicstand_Remake_0_0.png"
+  },
+  {
+    "name": "natural garden chair",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "hardwood", "qty": 6, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrGardenChairNatural_Remake_0_0.png"
+  },
+  {
+    "name": "natural garden table",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "hardwood", "qty": 9, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrGardenTableNatural_Remake_0_0.png"
+  },
+  {
+    "name": "natural mum wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "green mums", "qty": 10, "image_url": "Mum4.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathMumRare.png"
+  },
+  {
+    "name": "natural square table",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 4, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrGardenTableSNatural_Remake_0_0.png"
+  },
+  {
+    "name": "net",
+    "category": "Tools",
+    "mats": [{"mat": "flimsy net", "qty": 1, "image_url": "ToolNet.png", "is_recipe": true}, {"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "ToolNetNormal_Remake_0_0.png"
+  },
+  {
+    "name": "nova light",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "star fragment", "qty": 5, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "FtrStarLamp_Remake_0_0.png"
+  },
+  {
+    "name": "ocarina",
+    "category": "Tools",
+    "mats": [{"mat": "clay", "qty": 5, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "clay", "qty": 5, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "ToolOcarina.png"
+  },
+  {
+    "name": "oil-barrel bathtub",
+    "category": "Housewares",
+    "mats": [{"mat": "oil barrel", "qty": 1, "image_url": "FtrDrumcan_Remake_0_0.png", "is_recipe": false}, {"mat": "stone", "qty": 2, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "campfire", "qty": 1, "image_url": "FtrCampfire.png", "is_recipe": true}],
+    "image_url": "FtrDrumcanbath_Remake_0_0.png"
+  },
+  {
+    "name": "old-fashioned washtub",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 3, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrWashtub.png"
+  },
+  {
+    "name": "orange dress",
+    "category": "Dresses",
+    "mats": [{"mat": "orange", "qty": 8, "image_url": "Orange.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceAlineNOrange.png"
+  },
+  {
+    "name": "orange end table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 4, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "orange", "qty": 10, "image_url": "Orange.png", "is_recipe": false}],
+    "image_url": "FtrFruitsTableS_Remake_0_0.png"
+  },
+  {
+    "name": "orange hat",
+    "category": "Headwear",
+    "mats": [{"mat": "orange", "qty": 5, "image_url": "Orange.png", "is_recipe": false}],
+    "image_url": "CapHatOrange.png"
+  },
+  {
+    "name": "orange rug",
+    "category": "Rugs",
+    "mats": [{"mat": "orange", "qty": 6, "image_url": "Orange.png", "is_recipe": false}],
+    "image_url": "RugOtherOrangeM00.png"
+  },
+  {
+    "name": "orange umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "orange", "qty": 7, "image_url": "Orange.png", "is_recipe": false}],
+    "image_url": "UmbrellaOrange0.png"
+  },
+  {
+    "name": "orange wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "orange", "qty": 20, "image_url": "Orange.png", "is_recipe": false}],
+    "image_url": "RoomTexWallOrange00.png"
+  },
+  {
+    "name": "orange wall-mounted clock",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "wood", "qty": 2, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "orange", "qty": 10, "image_url": "Orange.png", "is_recipe": false}],
+    "image_url": "FtrFruitsClockW_Remake_0_0.png"
+  },
+  {
+    "name": "ornament mobile",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "gold ornament", "qty": 1, "image_url": "ChristmasOrnamentC.png", "is_recipe": false}, {"mat": "blue ornament", "qty": 1, "image_url": "ChristmasOrnamentB.png", "is_recipe": false}, {"mat": "tree branch", "qty": 4, "image_url": "DIYBranch.png", "is_recipe": false}, {"mat": "red ornament", "qty": 1, "image_url": "ChristmasOrnamentA.png", "is_recipe": false}],
+    "image_url": "FtrOrnamentMobile_Remake_0_0.png"
+  },
+  {
+    "name": "ornament wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "blue ornament", "qty": 6, "image_url": "ChristmasOrnamentB.png", "is_recipe": false}, {"mat": "gold ornament", "qty": 2, "image_url": "ChristmasOrnamentC.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathOrnament_Remake_0_0.png"
+  },
+  {
+    "name": "outdoor bath",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 20, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "shovel", "qty": 1, "image_url": "ToolScoop_Remake_0_0.png", "is_recipe": true}],
+    "image_url": "FtrOpenairbath_Remake_0_0.png"
+  },
+  {
+    "name": "outdoor picnic set",
+    "category": "Housewares",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 10, "image_url": "Sakurapetal.png", "is_recipe": false}],
+    "image_url": "FtrSakuraPicnicset.png"
+  },
+  {
+    "name": "palm-tree lamp",
+    "category": "Housewares",
+    "mats": [{"mat": "coconut", "qty": 4, "image_url": "Coconut.png", "is_recipe": false}, {"mat": "wood", "qty": 4, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "clay", "qty": 4, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrPalmtreelamp_Remake_0_0.png"
+  },
+  {
+    "name": "pan flute",
+    "category": "Tools",
+    "mats": [{"mat": "young spring bamboo", "qty": 7, "image_url": "DIYBambooSpring.png", "is_recipe": false}],
+    "image_url": "ToolPanpipe.png"
+  },
+  {
+    "name": "pansy crown",
+    "category": "Headwear",
+    "mats": [{"mat": "red pansies", "qty": 2, "image_url": "Pansi2.png", "is_recipe": false}, {"mat": "white pansies", "qty": 2, "image_url": "Pansi0.png", "is_recipe": false}, {"mat": "yellow pansies", "qty": 2, "image_url": "Pansi1.png", "is_recipe": false}],
+    "image_url": "CapOrnamentPansy1.png"
+  },
+  {
+    "name": "pansy table",
+    "category": "Housewares",
+    "mats": [{"mat": "yellow pansies", "qty": 5, "image_url": "Pansi1.png", "is_recipe": false}, {"mat": "hardwood", "qty": 3, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrFlowerTableS_Remake_0_0.png"
+  },
+  {
+    "name": "pansy wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "yellow pansies", "qty": 1, "image_url": "Pansi1.png", "is_recipe": false}],
+    "image_url": "ToolStickPansy.png"
+  },
+  {
+    "name": "pansy wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "white pansies", "qty": 3, "image_url": "Pansi0.png", "is_recipe": false}, {"mat": "yellow pansies", "qty": 3, "image_url": "Pansi1.png", "is_recipe": false}, {"mat": "red pansies", "qty": 3, "image_url": "Pansi2.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathPansy.png"
+  },
+  {
+    "name": "paw-print doorplate",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentPaw_Remake_0_0.png"
+  },
+  {
+    "name": "peach chair",
+    "category": "Housewares",
+    "mats": [{"mat": "peach", "qty": 10, "image_url": "Peach.png", "is_recipe": false}, {"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrFruitsChairPeach_Remake_0_0.png"
+  },
+  {
+    "name": "peach dress",
+    "category": "Dresses",
+    "mats": [{"mat": "peach", "qty": 8, "image_url": "Peach.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceAlineNPeach0.png"
+  },
+  {
+    "name": "peach hat",
+    "category": "Headwear",
+    "mats": [{"mat": "peach", "qty": 5, "image_url": "Peach.png", "is_recipe": false}],
+    "image_url": "CapHatPeach0.png"
+  },
+  {
+    "name": "peach rug",
+    "category": "Rugs",
+    "mats": [{"mat": "peach", "qty": 6, "image_url": "Peach.png", "is_recipe": false}],
+    "image_url": "RugOtherPeachM00.png"
+  },
+  {
+    "name": "peach surprise box",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "peach", "qty": 10, "image_url": "Peach.png", "is_recipe": false}, {"mat": "softwood", "qty": 4, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrFruitsBox_Remake_0_0.png"
+  },
+  {
+    "name": "peach umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "peach", "qty": 7, "image_url": "Peach.png", "is_recipe": false}],
+    "image_url": "UmbrellaPeach0.png"
+  },
+  {
+    "name": "peach wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "peach", "qty": 6, "image_url": "Peach.png", "is_recipe": false}],
+    "image_url": "RoomTexWallPeach00.png"
+  },
+  {
+    "name": "pear bed",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 6, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "pear", "qty": 10, "image_url": "Pear.png", "is_recipe": false}],
+    "image_url": "FtrFruitsBedS_Remake_0_0.png"
+  },
+  {
+    "name": "pear dress",
+    "category": "Dresses",
+    "mats": [{"mat": "pear", "qty": 8, "image_url": "Pear.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceAlineNPear0.png"
+  },
+  {
+    "name": "pear hat",
+    "category": "Headwear",
+    "mats": [{"mat": "pear", "qty": 5, "image_url": "Pear.png", "is_recipe": false}],
+    "image_url": "CapHatPear0.png"
+  },
+  {
+    "name": "pear rug",
+    "category": "Rugs",
+    "mats": [{"mat": "pear", "qty": 6, "image_url": "Pear.png", "is_recipe": false}],
+    "image_url": "RugOtherPearM00.png"
+  },
+  {
+    "name": "pear umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "pear", "qty": 7, "image_url": "Pear.png", "is_recipe": false}],
+    "image_url": "UmbrellaPear0.png"
+  },
+  {
+    "name": "pear wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "pear", "qty": 20, "image_url": "Pear.png", "is_recipe": false}],
+    "image_url": "RoomTexWallPear00.png"
+  },
+  {
+    "name": "pear wardrobe",
+    "category": "Housewares",
+    "mats": [{"mat": "pear", "qty": 10, "image_url": "Pear.png", "is_recipe": false}, {"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrFruitsClosetLR_Remake_0_0.png"
+  },
+  {
+    "name": "pile of leaves",
+    "category": "Housewares",
+    "mats": [{"mat": "pine cone", "qty": 3, "image_url": "DIYPinecone.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 5, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "FtrFallenleaves.png"
+  },
+  {
+    "name": "pile of zen cushions",
+    "category": "Housewares",
+    "mats": [{"mat": "zen cushion", "qty": 3, "image_url": "FtrCushionJapan_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "FtrCushionJapanPile_Remake_0_0.png"
+  },
+  {
+    "name": "pine bonsai tree",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "pine cone", "qty": 8, "image_url": "DIYPinecone.png", "is_recipe": false}, {"mat": "clay", "qty": 5, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrBonsaiPine.png"
+  },
+  {
+    "name": "pitfall seed",
+    "category": "Other",
+    "mats": [{"mat": "tree branch", "qty": 6, "image_url": "DIYBranch.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 4, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "PitfallSeed.png"
+  },
+  {
+    "name": "plain sink",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 6, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "clay", "qty": 4, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrWashstandBowl_Remake_0_0.png"
+  },
+  {
+    "name": "plain wooden shop sign",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 6, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrSignWood_Remake_0_0.png"
+  },
+  {
+    "name": "pond stone",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 10, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrStonewaterbowl_Remake_0_0.png"
+  },
+  {
+    "name": "pot",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 5, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "clay", "qty": 5, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrKame_Remake_0_0.png"
+  },
+  {
+    "name": "potted ivy",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "clump of weeds", "qty": 5, "image_url": "Weed.png", "is_recipe": false}, {"mat": "clay", "qty": 5, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrLeafWall_Remake_0_0.png"
+  },
+  {
+    "name": "pretty cosmos wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "red cosmos", "qty": 3, "image_url": "Anemone1.png", "is_recipe": false}, {"mat": "pink cosmos", "qty": 3, "image_url": "Anemone3.png", "is_recipe": false}, {"mat": "orange cosmos", "qty": 3, "image_url": "Anemone4.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathCosmosMix.png"
+  },
+  {
+    "name": "pretty tulip wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "purple tulips", "qty": 3, "image_url": "Turip4.png", "is_recipe": false}, {"mat": "pink tulips", "qty": 3, "image_url": "Turip3.png", "is_recipe": false}, {"mat": "orange tulips", "qty": 3, "image_url": "Turip6.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathTulipMix.png"
+  },
+  {
+    "name": "purple hyacinth crown",
+    "category": "Headwear",
+    "mats": [{"mat": "purple hyacinths", "qty": 6, "image_url": "Hyacinth5.png", "is_recipe": false}],
+    "image_url": "CapOrnamentHyacinth3.png"
+  },
+  {
+    "name": "purple hyacinth wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "purple hyacinths", "qty": 10, "image_url": "Hyacinth5.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathHyacinthRare.png"
+  },
+  {
+    "name": "purple pansy crown",
+    "category": "Headwear",
+    "mats": [{"mat": "purple pansies", "qty": 6, "image_url": "Pansi3.png", "is_recipe": false}],
+    "image_url": "CapOrnamentPansy3.png"
+  },
+  {
+    "name": "purple windflower crown",
+    "category": "Headwear",
+    "mats": [{"mat": "purple windflowers", "qty": 6, "image_url": "Anemone4.png", "is_recipe": false}],
+    "image_url": "CapOrnamentAnemone3.png"
+  },
+  {
+    "name": "raccoon figurine",
+    "category": "Housewares",
+    "mats": [{"mat": "clay", "qty": 6, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrOrnamentTanuki.png"
+  },
+  {
+    "name": "recycled boots",
+    "category": "Shoes",
+    "mats": [{"mat": "boot", "qty": 2, "image_url": "Boots.png", "is_recipe": false}],
+    "image_url": "ShoesKneeRecyclingboots0.png"
+  },
+  {
+    "name": "recycled-can thumb piano",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "wood", "qty": 1, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "empty can", "qty": 1, "image_url": "Can.png", "is_recipe": false}],
+    "image_url": "FtrKalimbaCan_Remake_0_0.png"
+  },
+  {
+    "name": "red-leaf pile",
+    "category": "Housewares",
+    "mats": [{"mat": "maple leaf", "qty": 3, "image_url": "AutumnLeaf.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 4, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "FtrFallenleavesRed.png"
+  },
+  {
+    "name": "ringtoss",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 2, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "wood", "qty": 2, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrQuoits_Remake_0_0.png"
+  },
+  {
+    "name": "robot hero",
+    "category": "Housewares",
+    "mats": [{"mat": "rocket", "qty": 1, "image_url": "FtrRocket.png", "is_recipe": true}, {"mat": "iron nugget", "qty": 90, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "gold armor", "qty": 1, "image_url": "TopsTexOnepieceOverallLPlatearmorGold.png", "is_recipe": true}, {"mat": "rusted part", "qty": 30, "image_url": "JohnnyQuestDust1.png", "is_recipe": false}, {"mat": "gold nugget", "qty": 10, "image_url": "Gold_Ore.png", "is_recipe": false}],
+    "image_url": "FtrHerorobot_Remake_0_0.png"
+  },
+  {
+    "name": "rocket",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 20, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "star fragment", "qty": 10, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "FtrRocket.png"
+  },
+  {
+    "name": "rocking chair",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 5, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrRockingchair_Remake_0_0.png"
+  },
+  {
+    "name": "rocking horse",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 5, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrRockinghorse_Remake_0_0.png"
+  },
+  {
+    "name": "rope fence",
+    "category": "Fencing",
+    "mats": [{"mat": "iron nugget", "qty": 4, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "ItemFencePegRope.png"
+  },
+  {
+    "name": "rose bed",
+    "category": "Housewares",
+    "mats": [{"mat": "red roses", "qty": 10, "image_url": "Rose0.png", "is_recipe": false}, {"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrFlowerBedW_Remake_0_0.png"
+  },
+  {
+    "name": "rose crown",
+    "category": "Headwear",
+    "mats": [{"mat": "white roses", "qty": 2, "image_url": "Rose1.png", "is_recipe": false}, {"mat": "red roses", "qty": 2, "image_url": "Rose0.png", "is_recipe": false}, {"mat": "yellow roses", "qty": 2, "image_url": "Rose2.png", "is_recipe": false}],
+    "image_url": "CapOrnamentRose1.png"
+  },
+  {
+    "name": "rose wand",
+    "category": "Tools",
+    "mats": [{"mat": "red roses", "qty": 1, "image_url": "Rose0.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "ToolStickRose.png"
+  },
+  {
+    "name": "rose wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "yellow roses", "qty": 3, "image_url": "Rose2.png", "is_recipe": false}, {"mat": "white roses", "qty": 3, "image_url": "Rose1.png", "is_recipe": false}, {"mat": "red roses", "qty": 3, "image_url": "Rose0.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathRose.png"
+  },
+  {
+    "name": "rustic-stone wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "clay", "qty": 5, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "stone", "qty": 5, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "RoomTexWallStone00.png"
+  },
+  {
+    "name": "sakura-wood flooring",
+    "category": "Floors",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 5, "image_url": "Sakurapetal.png", "is_recipe": false}, {"mat": "wood", "qty": 10, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorSolidWood00.png"
+  },
+  {
+    "name": "sakura-wood wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 5, "image_url": "Sakurapetal.png", "is_recipe": false}, {"mat": "wood", "qty": 10, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "RoomTexWallSolidWood00.png"
+  },
+  {
+    "name": "sandy-beach flooring",
+    "category": "Floors",
+    "mats": [{"mat": "giant clam", "qty": 1, "image_url": "Shell2.png", "is_recipe": false}, {"mat": "sea snail", "qty": 1, "image_url": "Shell6.png", "is_recipe": false}, {"mat": "cowrie", "qty": 1, "image_url": "Shell7.png", "is_recipe": false}, {"mat": "coral", "qty": 1, "image_url": "Shell3.png", "is_recipe": false}, {"mat": "sand dollar", "qty": 1, "image_url": "Shell8.png", "is_recipe": false}, {"mat": "venus comb", "qty": 1, "image_url": "Shell4.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorSand00.png"
+  },
+  {
+    "name": "satellite",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 10, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 15, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 15, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "star fragment", "qty": 10, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "FtrSatellite.png"
+  },
+  {
+    "name": "sauna heater",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "stone", "qty": 6, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrStoveSauna.png"
+  },
+  {
+    "name": "scarecrow",
+    "category": "Housewares",
+    "mats": [{"mat": "tree branch", "qty": 3, "image_url": "DIYBranch.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 5, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "FtrScarecrow.png"
+  },
+  {
+    "name": "scattered papers",
+    "category": "Housewares",
+    "mats": [{"mat": "document stack", "qty": 1, "image_url": "FtrOfficePapers_Remake_0_0.png", "is_recipe": true}],
+    "image_url": "FtrFloorpapers_Remake_0_0.png"
+  },
+  {
+    "name": "sci-fi flooring",
+    "category": "Floors",
+    "mats": [{"mat": "star fragment", "qty": 5, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "large star fragment", "qty": 1, "image_url": "StarpieceRare.png", "is_recipe": false}],
+    "image_url": "RoomSpFloorSF00.png"
+  },
+  {
+    "name": "sci-fi wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "star fragment", "qty": 5, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "large star fragment", "qty": 1, "image_url": "StarpieceRare.png", "is_recipe": false}],
+    "image_url": "RoomSpWallSF00.png"
+  },
+  {
+    "name": "shell arch",
+    "category": "Housewares",
+    "mats": [{"mat": "sea snail", "qty": 3, "image_url": "Shell6.png", "is_recipe": false}, {"mat": "giant clam", "qty": 3, "image_url": "Shell2.png", "is_recipe": false}, {"mat": "coral", "qty": 3, "image_url": "Shell3.png", "is_recipe": false}, {"mat": "cowrie", "qty": 3, "image_url": "Shell7.png", "is_recipe": false}, {"mat": "sand dollar", "qty": 3, "image_url": "Shell8.png", "is_recipe": false}, {"mat": "venus comb", "qty": 3, "image_url": "Shell4.png", "is_recipe": false}],
+    "image_url": "FtrShellArch_Remake_0_0.png"
+  },
+  {
+    "name": "shell bed",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 4, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "giant clam", "qty": 5, "image_url": "Shell2.png", "is_recipe": false}, {"mat": "clay", "qty": 3, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrShellBedW_Remake_0_0.png"
+  },
+  {
+    "name": "shell fountain",
+    "category": "Housewares",
+    "mats": [{"mat": "giant clam", "qty": 5, "image_url": "Shell2.png", "is_recipe": false}, {"mat": "stone", "qty": 3, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrShellFountain_Remake_0_0.png"
+  },
+  {
+    "name": "shell lamp",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "giant clam", "qty": 2, "image_url": "Shell2.png", "is_recipe": false}, {"mat": "clay", "qty": 3, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrShellLamp_Remake_0_0.png"
+  },
+  {
+    "name": "shell partition",
+    "category": "Housewares",
+    "mats": [{"mat": "conch", "qty": 4, "image_url": "Shell1.png", "is_recipe": false}, {"mat": "venus comb", "qty": 4, "image_url": "Shell4.png", "is_recipe": false}],
+    "image_url": "FtrShellScreen_Remake_0_0.png"
+  },
+  {
+    "name": "shell rug",
+    "category": "Rugs",
+    "mats": [{"mat": "giant clam", "qty": 3, "image_url": "Shell2.png", "is_recipe": false}],
+    "image_url": "RugOtherShellM00.png"
+  },
+  {
+    "name": "shell speaker",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "conch", "qty": 3, "image_url": "Shell1.png", "is_recipe": false}],
+    "image_url": "FtrShellMusic_Remake_0_0.png"
+  },
+  {
+    "name": "shell stool",
+    "category": "Housewares",
+    "mats": [{"mat": "cowrie", "qty": 5, "image_url": "Shell7.png", "is_recipe": false}],
+    "image_url": "FtrShellStoolS_Remake_0_0.png"
+  },
+  {
+    "name": "shell table",
+    "category": "Housewares",
+    "mats": [{"mat": "sand dollar", "qty": 7, "image_url": "Shell8.png", "is_recipe": false}, {"mat": "clay", "qty": 3, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrShellTableL_Remake_0_0.png"
+  },
+  {
+    "name": "shell wand",
+    "category": "Tools",
+    "mats": [{"mat": "summer shell", "qty": 3, "image_url": "ShellSummer.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "ToolStickShell.png"
+  },
+  {
+    "name": "shell wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "coral", "qty": 1, "image_url": "Shell3.png", "is_recipe": false}, {"mat": "giant clam", "qty": 1, "image_url": "Shell2.png", "is_recipe": false}, {"mat": "sand dollar", "qty": 1, "image_url": "Shell8.png", "is_recipe": false}, {"mat": "sea snail", "qty": 1, "image_url": "Shell6.png", "is_recipe": false}, {"mat": "summer shell", "qty": 1, "image_url": "ShellSummer.png", "is_recipe": false}, {"mat": "cowrie", "qty": 1, "image_url": "Shell7.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathShell.png"
+  },
+  {
+    "name": "shellfish pochette",
+    "category": "Bags",
+    "mats": [{"mat": "giant clam", "qty": 2, "image_url": "Shell2.png", "is_recipe": false}, {"mat": "summer shell", "qty": 6, "image_url": "ShellSummer.png", "is_recipe": false}],
+    "image_url": "BagShoulderShell0.png"
+  },
+  {
+    "name": "shovel",
+    "category": "Tools",
+    "mats": [{"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "flimsy shovel", "qty": 1, "image_url": "ToolShovelWood.png", "is_recipe": true}],
+    "image_url": "ToolScoop_Remake_0_0.png"
+  },
+  {
+    "name": "signpost",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 3, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "hardwood", "qty": 2, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrSignpost_Remake_0_0.png"
+  },
+  {
+    "name": "silo",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 12, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "clay", "qty": 12, "image_url": "OreClay.png", "is_recipe": false}, {"mat": "hardwood", "qty": 6, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "stone", "qty": 12, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 12, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "hardwood", "qty": 6, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 12, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "clay", "qty": 12, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrSilo_Remake_0_0.png"
+  },
+  {
+    "name": "simple DIY workbench",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 5, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrWorkbenchStump.png"
+  },
+  {
+    "name": "simple mum crown",
+    "category": "Headwear",
+    "mats": [{"mat": "green mums", "qty": 6, "image_url": "Mum4.png", "is_recipe": false}],
+    "image_url": "CapOrnamentMum3.png"
+  },
+  {
+    "name": "simple well",
+    "category": "Housewares",
+    "mats": [{"mat": "flimsy shovel", "qty": 1, "image_url": "ToolShovelWood.png", "is_recipe": true}, {"mat": "stone", "qty": 15, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrWell.png"
+  },
+  {
+    "name": "simple wooden fence",
+    "category": "Fencing",
+    "mats": [{"mat": "softwood", "qty": 6, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "ItemFenceNatural.png"
+  },
+  {
+    "name": "ski-slope flooring",
+    "category": "Floors",
+    "mats": [{"mat": "snowflake", "qty": 8, "image_url": "SnowCrystal.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorGelande00.png"
+  },
+  {
+    "name": "ski-slope wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "snowflake", "qty": 8, "image_url": "SnowCrystal.png", "is_recipe": false}],
+    "image_url": "RoomSpWallGelande00.png"
+  },
+  {
+    "name": "sky-egg outfit",
+    "category": "Dresses",
+    "mats": [{"mat": "sky egg", "qty": 3, "image_url": "EggSky.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceRibNEggsky0.png"
+  },
+  {
+    "name": "sky-egg shell",
+    "category": "Headwear",
+    "mats": [{"mat": "sky egg", "qty": 2, "image_url": "EggSky.png", "is_recipe": false}],
+    "image_url": "CapHatEggsky0.png"
+  },
+  {
+    "name": "sky-egg shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "sky egg", "qty": 2, "image_url": "EggSky.png", "is_recipe": false}],
+    "image_url": "ShoesLowcutEggsky0.png"
+  },
+  {
+    "name": "sleigh",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 8, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrSled_Remake_0_0.png"
+  },
+  {
+    "name": "slingshot",
+    "category": "Tools",
+    "mats": [{"mat": "hardwood", "qty": 5, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "ToolSlingshot_Remake_0_0.png"
+  },
+  {
+    "name": "small cardboard boxes",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 2, "image_url": "FtrCardboard_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "FtrMovingboxS.png"
+  },
+  {
+    "name": "snazzy pansy wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "orange pansies", "qty": 3, "image_url": "Pansi2Yellow.png", "is_recipe": false}, {"mat": "yellow pansies", "qty": 3, "image_url": "Pansi1.png", "is_recipe": false}, {"mat": "blue pansies", "qty": 3, "image_url": "Pansi5.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathPansyMix.png"
+  },
+  {
+    "name": "snowflake pochette",
+    "category": "Bags",
+    "mats": [{"mat": "snowflake", "qty": 6, "image_url": "SnowCrystal.png", "is_recipe": false}],
+    "image_url": "BagShoulderSnow0.png"
+  },
+  {
+    "name": "snowflake wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "snowflake", "qty": 12, "image_url": "SnowCrystal.png", "is_recipe": false}],
+    "image_url": "RoomTexWallSnowCrystal00.png"
+  },
+  {
+    "name": "snowflake wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "snowflake", "qty": 4, "image_url": "SnowCrystal.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathIce.png"
+  },
+  {
+    "name": "snowperson head",
+    "category": "Headwear",
+    "mats": [{"mat": "snowflake", "qty": 5, "image_url": "SnowCrystal.png", "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}],
+    "image_url": "CapCostumeSnowball0.png"
+  },
+  {
+    "name": "space shuttle",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 5, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 10, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrShuttle.png"
+  },
+  {
+    "name": "spiky fence",
+    "category": "Fencing",
+    "mats": [{"mat": "hardwood", "qty": 8, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "ItemFenceSharply.png"
+  },
+  {
+    "name": "stack of books",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "book", "qty": 5, "image_url": "FtrBookOpened_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "FtrBooks_Remake_0_0.png"
+  },
+  {
+    "name": "stacked magazines",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "magazine", "qty": 6, "image_url": "FtrMagagineOpened_0_0.png", "is_recipe": false}],
+    "image_url": "FtrMagagine_Remake_0_0.png"
+  },
+  {
+    "name": "stacked-wood wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "hardwood", "qty": 15, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "RoomTexWallFireWood00.png"
+  },
+  {
+    "name": "stall",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 12, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrFloat_Remake_0_0.png"
+  },
+  {
+    "name": "standard umbrella stand",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrUmbrellastand_Remake_0_0.png"
+  },
+  {
+    "name": "star clock",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "FtrStarClock_Remake_0_0.png"
+  },
+  {
+    "name": "star head",
+    "category": "Headwear",
+    "mats": [{"mat": "star fragment", "qty": 5, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "CapCostumeStar0.png"
+  },
+  {
+    "name": "star pochette",
+    "category": "Bags",
+    "mats": [{"mat": "star fragment", "qty": 6, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "BagShoulderStar0.png"
+  },
+  {
+    "name": "star wand",
+    "category": "Tools",
+    "mats": [{"mat": "large star fragment", "qty": 1, "image_url": "StarpieceRare.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "ToolChangeStick.png"
+  },
+  {
+    "name": "starry garland",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "star fragment", "qty": 10, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "FtrStarDecorationWall_Remake_0_0.png"
+  },
+  {
+    "name": "starry wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "large star fragment", "qty": 1, "image_url": "StarpieceRare.png", "is_recipe": false}, {"mat": "star fragment", "qty": 5, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "RoomSpWallStarPrint00.png"
+  },
+  {
+    "name": "starry-sands flooring",
+    "category": "Floors",
+    "mats": [{"mat": "summer shell", "qty": 3, "image_url": "ShellSummer.png", "is_recipe": false}, {"mat": "sandy-beach flooring", "qty": 1, "image_url": "RoomTexFloorSand00.png", "is_recipe": true}],
+    "image_url": "RoomTexFloorSandStar00.png"
+  },
+  {
+    "name": "starry-sky wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "star fragment", "qty": 5, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "large star fragment", "qty": 1, "image_url": "StarpieceRare.png", "is_recipe": false}],
+    "image_url": "RoomSpWallStarSky00.png"
+  },
+  {
+    "name": "steamer-basket set",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "young spring bamboo", "qty": 6, "image_url": "DIYBambooSpring.png", "is_recipe": false}],
+    "image_url": "FtrBasketsteamer.png"
+  },
+  {
+    "name": "steel flooring",
+    "category": "Floors",
+    "mats": [{"mat": "iron nugget", "qty": 7, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "RoomTexFloorSteel00.png"
+  },
+  {
+    "name": "steel-frame wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "iron nugget", "qty": 8, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "RoomTexWallSteel00.png"
+  },
+  {
+    "name": "stone arch",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 90, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrRockArch_Remake_0_0.png"
+  },
+  {
+    "name": "stone axe",
+    "category": "Tools",
+    "mats": [{"mat": "flimsy axe", "qty": 1, "image_url": "ToolAxeStone.png", "is_recipe": true}, {"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "ToolAxeStoneNormal.png"
+  },
+  {
+    "name": "stone fence",
+    "category": "Fencing",
+    "mats": [{"mat": "stone", "qty": 4, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "ItemFenceStone.png"
+  },
+  {
+    "name": "stone lion-dog",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 24, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrSekishishi_Remake_0_0.png"
+  },
+  {
+    "name": "stone stool",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 3, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrStoneChair.png"
+  },
+  {
+    "name": "stone table",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 8, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrStoneTable.png"
+  },
+  {
+    "name": "stone tablet",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 12, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrRockMonument_Remake_0_0.png"
+  },
+  {
+    "name": "stone wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "stone", "qty": 10, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "RoomTexWallBasement00.png"
+  },
+  {
+    "name": "stone-egg outfit",
+    "category": "Dresses",
+    "mats": [{"mat": "stone egg", "qty": 3, "image_url": "EggRock.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceRibNEggrock0.png"
+  },
+  {
+    "name": "stone-egg shell",
+    "category": "Headwear",
+    "mats": [{"mat": "stone egg", "qty": 2, "image_url": "EggRock.png", "is_recipe": false}],
+    "image_url": "CapHatEggrock0.png"
+  },
+  {
+    "name": "stone-egg shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "stone egg", "qty": 2, "image_url": "EggRock.png", "is_recipe": false}],
+    "image_url": "ShoesLowcutEggrock0.png"
+  },
+  {
+    "name": "straw fence",
+    "category": "Fencing",
+    "mats": [{"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 10, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "ItemFenceDriedStraw.png"
+  },
+  {
+    "name": "straw umbrella hat",
+    "category": "Headwear",
+    "mats": [{"mat": "clump of weeds", "qty": 10, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "CapHatSandogasa0.png"
+  },
+  {
+    "name": "street piano",
+    "category": "Housewares",
+    "mats": [{"mat": "painting set", "qty": 1, "image_url": "FtrPaintset_Remake_0_0.png", "is_recipe": false}, {"mat": "upright piano", "qty": 1, "image_url": "FtrPianoUpright_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "FtrPianoStreet_Remake_0_0.png"
+  },
+  {
+    "name": "succulent plant",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "empty can", "qty": 1, "image_url": "Can.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 10, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "FtrPlantSucculents.png"
+  },
+  {
+    "name": "swinging bench",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "softwood", "qty": 7, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrSwingWood_Remake_0_0.png"
+  },
+  {
+    "name": "tabletop festive tree",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold ornament", "qty": 5, "image_url": "ChristmasOrnamentC.png", "is_recipe": false}, {"mat": "tree branch", "qty": 3, "image_url": "DIYBranch.png", "is_recipe": false}, {"mat": "clay", "qty": 2, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrTreeXmasMini_Remake_0_0.png"
+  },
+  {
+    "name": "tall garden rock",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 60, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrGardenrockTall.png"
+  },
+  {
+    "name": "tall lantern",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 18, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrStonelantern_Remake_0_0.png"
+  },
+  {
+    "name": "tea table",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 12, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrDiningtableJapan_Remake_0_0.png"
+  },
+  {
+    "name": "terrarium",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clump of weeds", "qty": 12, "image_url": "Weed.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 12, "image_url": "Weed.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrTerrarium_Remake_0_0.png"
+  },
+  {
+    "name": "three-tiered snowperson",
+    "category": "Housewares",
+    "mats": [{"mat": "tree branch", "qty": 2, "image_url": "DIYBranch.png", "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "image_url": "SnowCrystalLarge.png", "is_recipe": false}, {"mat": "snowflake", "qty": 6, "image_url": "SnowCrystal.png", "is_recipe": false}],
+    "image_url": "FtrSnowman_Remake_0_0.png"
+  },
+  {
+    "name": "tiki torch",
+    "category": "Housewares",
+    "mats": [{"mat": "tree branch", "qty": 5, "image_url": "DIYBranch.png", "is_recipe": false}, {"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrTorch.png"
+  },
+  {
+    "name": "timber doorplate",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "wood", "qty": 2, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "pink roses", "qty": 1, "image_url": "Rose3.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentLog_Remake_0_0.png"
+  },
+  {
+    "name": "tiny library",
+    "category": "Housewares",
+    "mats": [{"mat": "book", "qty": 3, "image_url": "FtrBookOpened_Remake_0_0.png", "is_recipe": false}, {"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrMicrolibrary_Remake_0_0.png"
+  },
+  {
+    "name": "tire stack",
+    "category": "Housewares",
+    "mats": [{"mat": "old tire", "qty": 3, "image_url": null, "is_recipe": false}],
+    "image_url": "FtrTyres_Remake_0_0.png"
+  },
+  {
+    "name": "tire toy",
+    "category": "Housewares",
+    "mats": [{"mat": "old tire", "qty": 1, "image_url": "Tire.png", "is_recipe": false}],
+    "image_url": "FtrPlayingtire_Remake_0_0.png"
+  },
+  {
+    "name": "traditional balancing toy",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "acorn", "qty": 4, "image_url": "DIYAcorn.png", "is_recipe": false}, {"mat": "hardwood", "qty": 2, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrBalancingtoy.png"
+  },
+  {
+    "name": "traditional straw coat",
+    "category": "Tops",
+    "mats": [{"mat": "clump of weeds", "qty": 8, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "TopsTexTopCoatLStrawBeige.png"
+  },
+  {
+    "name": "trash bags",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "old tire", "qty": 1, "image_url": "Tire.png", "is_recipe": false}, {"mat": "boot", "qty": 1, "image_url": "Boots.png", "is_recipe": false}, {"mat": "empty can", "qty": 1, "image_url": "Can.png", "is_recipe": false}],
+    "image_url": "FtrGarbagebag_Remake_0_0.png"
+  },
+  {
+    "name": "tree branch wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "tree branch", "qty": 10, "image_url": "DIYBranch.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathBranch.png"
+  },
+  {
+    "name": "tree standee",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "softwood", "qty": 8, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrHariboteTree_Remake_0_0.png"
+  },
+  {
+    "name": "tree's bounty arch",
+    "category": "Housewares",
+    "mats": [{"mat": "acorn", "qty": 5, "image_url": "DIYAcorn.png", "is_recipe": false}, {"mat": "maple leaf", "qty": 5, "image_url": null, "is_recipe": false}, {"mat": "tree branch", "qty": 15, "image_url": "DIYBranch.png", "is_recipe": false}, {"mat": "pine cone", "qty": 4, "image_url": "DIYPinecone.png", "is_recipe": false}],
+    "image_url": "FtrNutArch_Remake_0_0.png"
+  },
+  {
+    "name": "tree's bounty big tree",
+    "category": "Housewares",
+    "mats": [{"mat": "maple leaf", "qty": 4, "image_url": null, "is_recipe": false}, {"mat": "pine cone", "qty": 5, "image_url": "DIYPinecone.png", "is_recipe": false}, {"mat": "acorn", "qty": 4, "image_url": "DIYAcorn.png", "is_recipe": false}, {"mat": "tree branch", "qty": 8, "image_url": "DIYBranch.png", "is_recipe": false}, {"mat": "clay", "qty": 4, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrNutTreeL_Remake_0_0.png"
+  },
+  {
+    "name": "tree's bounty lamp",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "acorn", "qty": 6, "image_url": "DIYAcorn.png", "is_recipe": false}, {"mat": "clay", "qty": 4, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrNutLamp_Remake_0_0.png"
+  },
+  {
+    "name": "tree's bounty little tree",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "hardwood", "qty": 1, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "acorn", "qty": 4, "image_url": "DIYAcorn.png", "is_recipe": false}, {"mat": "pine cone", "qty": 6, "image_url": "DIYPinecone.png", "is_recipe": false}],
+    "image_url": "FtrNutTreeS_Remake_0_0.png"
+  },
+  {
+    "name": "tree's bounty mobile",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "pine cone", "qty": 2, "image_url": "DIYPinecone.png", "is_recipe": false}, {"mat": "tree branch", "qty": 3, "image_url": "DIYBranch.png", "is_recipe": false}, {"mat": "acorn", "qty": 3, "image_url": "DIYAcorn.png", "is_recipe": false}],
+    "image_url": "FtrNutMobile_Remake_0_0.png"
+  },
+  {
+    "name": "tree-branch wand",
+    "category": "Tools",
+    "mats": [{"mat": "tree branch", "qty": 5, "image_url": "DIYBranch.png", "is_recipe": false}, {"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "ToolStickTree.png"
+  },
+  {
+    "name": "trophy case",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 3, "image_url": "Gold_Ore.png", "is_recipe": false}, {"mat": "hardwood", "qty": 24, "image_url": "DIYWoodHard.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 6, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrTrophycase.png"
+  },
+  {
+    "name": "tropical vista",
+    "category": "Wallpaper",
+    "mats": [{"mat": "summer shell", "qty": 5, "image_url": "ShellSummer.png", "is_recipe": false}],
+    "image_url": "RoomSpWallTropical00.png"
+  },
+  {
+    "name": "tulip crown",
+    "category": "Headwear",
+    "mats": [{"mat": "white tulips", "qty": 1, "image_url": "Turip1.png", "is_recipe": false}, {"mat": "yellow tulips", "qty": 2, "image_url": "Turip2.png", "is_recipe": false}, {"mat": "red tulips", "qty": 2, "image_url": "Turip0.png", "is_recipe": false}],
+    "image_url": "CapOrnamentTulip1.png"
+  },
+  {
+    "name": "tulip surprise box",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 3, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "red tulips", "qty": 5, "image_url": "Turip0.png", "is_recipe": false}],
+    "image_url": "FtrFlowerSurprisedbox_Remake_0_0.png"
+  },
+  {
+    "name": "tulip wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "red tulips", "qty": 1, "image_url": "Turip0.png", "is_recipe": false}],
+    "image_url": "ToolStickTulip.png"
+  },
+  {
+    "name": "tulip wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "white tulips", "qty": 3, "image_url": "Turip1.png", "is_recipe": false}, {"mat": "red tulips", "qty": 3, "image_url": "Turip0.png", "is_recipe": false}, {"mat": "yellow tulips", "qty": 3, "image_url": "Turip2.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathTulip.png"
+  },
+  {
+    "name": "ukulele",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "hardwood", "qty": 5, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrUkulele_Remake_0_0.png"
+  },
+  {
+    "name": "underwater flooring",
+    "category": "Floors",
+    "mats": [{"mat": "coral", "qty": 3, "image_url": "Shell3.png", "is_recipe": false}, {"mat": "summer shell", "qty": 3, "image_url": "ShellSummer.png", "is_recipe": false}],
+    "image_url": "RoomSpFloorFishTank00.png"
+  },
+  {
+    "name": "underwater wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "coral", "qty": 5, "image_url": "Shell3.png", "is_recipe": false}, {"mat": "summer shell", "qty": 3, "image_url": "ShellSummer.png", "is_recipe": false}],
+    "image_url": "RoomSpWallFishTank00.png"
+  },
+  {
+    "name": "unglazed dish set",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 3, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrDishesUnglazed_Remake_0_0.png"
+  },
+  {
+    "name": "vaulting pole",
+    "category": "Tools",
+    "mats": [{"mat": "softwood", "qty": 5, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "LongWoodenStick.png"
+  },
+  {
+    "name": "vertical-board fence",
+    "category": "Fencing",
+    "mats": [{"mat": "wood", "qty": 8, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "ItemFenceVerticalWood.png"
+  },
+  {
+    "name": "wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 2, "image_url": "Starpiece.png", "is_recipe": false}],
+    "image_url": "ToolStickWood.png"
+  },
+  {
+    "name": "water flooring",
+    "category": "Floors",
+    "mats": [{"mat": "summer shell", "qty": 6, "image_url": "ShellSummer.png", "is_recipe": false}],
+    "image_url": "RoomSpFloorWater00.png"
+  },
+  {
+    "name": "water pump",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "clay", "qty": 6, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrHandpump_Remake_0_0.png"
+  },
+  {
+    "name": "water-egg outfit",
+    "category": "Dresses",
+    "mats": [{"mat": "water egg", "qty": 3, "image_url": "EggFish.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceRibNEggfish0.png"
+  },
+  {
+    "name": "water-egg shell",
+    "category": "Headwear",
+    "mats": [{"mat": "water egg", "qty": 2, "image_url": "EggFish.png", "is_recipe": false}],
+    "image_url": "CapHatEggfish0.png"
+  },
+  {
+    "name": "water-egg shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "water egg", "qty": 2, "image_url": "EggFish.png", "is_recipe": false}],
+    "image_url": "ShoesLowcutEggfish0.png"
+  },
+  {
+    "name": "watering can",
+    "category": "Tools",
+    "mats": [{"mat": "flimsy watering can", "qty": 1, "image_url": "ToolWateringWood.png", "is_recipe": true}, {"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "ToolWatering_Remake_0_0.png"
+  },
+  {
+    "name": "wave breaker",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 10, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "clay", "qty": 10, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "FtrTetrapod.png"
+  },
+  {
+    "name": "wedding fence",
+    "category": "Fencing",
+    "mats": [{"mat": "softwood", "qty": 3, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 5, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "ItemFenceJuneBride.png"
+  },
+  {
+    "name": "wedding wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "wedding flower stand", "qty": 1, "image_url": "FtrWeddingFlower_Remake_0_0.png", "is_recipe": false}],
+    "image_url": "ToolStickJune.png"
+  },
+  {
+    "name": "western-style stone",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 30, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrGravestoneEuropean_Remake_0_0.png"
+  },
+  {
+    "name": "wild log bench",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 8, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrWoodBench_Remake_0_0.png"
+  },
+  {
+    "name": "wild-wood wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "wood", "qty": 15, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "RoomTexWallWildWood00.png"
+  },
+  {
+    "name": "windflower crown",
+    "category": "Headwear",
+    "mats": [{"mat": "orange windflowers", "qty": 2, "image_url": "Anemone2.png", "is_recipe": false}, {"mat": "red windflowers", "qty": 2, "image_url": "Anemone1.png", "is_recipe": false}, {"mat": "white windflowers", "qty": 2, "image_url": "Anemone0.png", "is_recipe": false}],
+    "image_url": "CapOrnamentAnemone1.png"
+  },
+  {
+    "name": "windflower fan",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "red windflowers", "qty": 3, "image_url": "Anemone1.png", "is_recipe": false}],
+    "image_url": "FtrFlowerFan_Remake_0_0.png"
+  },
+  {
+    "name": "windflower wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "image_url": "Starpiece.png", "is_recipe": false}, {"mat": "orange windflowers", "qty": 1, "image_url": "Anemone2.png", "is_recipe": false}],
+    "image_url": "ToolStickAnemones.png"
+  },
+  {
+    "name": "windflower wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "orange windflowers", "qty": 3, "image_url": "Anemone2.png", "is_recipe": false}, {"mat": "white windflowers", "qty": 3, "image_url": "Anemone0.png", "is_recipe": false}, {"mat": "red windflowers", "qty": 3, "image_url": "Anemone1.png", "is_recipe": false}],
+    "image_url": "FtrDoorOrnamentWreathAnemone.png"
+  },
+  {
+    "name": "wood-egg outfit",
+    "category": "Dresses",
+    "mats": [{"mat": "wood egg", "qty": 3, "image_url": "EggForest.png", "is_recipe": false}],
+    "image_url": "TopsTexOnepieceRibNEggforest0.png"
+  },
+  {
+    "name": "wood-egg shell",
+    "category": "Headwear",
+    "mats": [{"mat": "wood egg", "qty": 2, "image_url": "EggForest.png", "is_recipe": false}],
+    "image_url": "CapHatEggforest0.png"
+  },
+  {
+    "name": "wood-egg shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "wood egg", "qty": 2, "image_url": "EggForest.png", "is_recipe": false}],
+    "image_url": "ShoesLowcutEggforest0.png"
+  },
+  {
+    "name": "wooden bookshelf",
+    "category": "Housewares",
+    "mats": [{"mat": "book", "qty": 5, "image_url": "FtrBookOpened_Remake_0_0.png", "is_recipe": false}, {"mat": "wood", "qty": 10, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrBookshelf_Remake_0_0.png"
+  },
+  {
+    "name": "wooden bucket",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}],
+    "image_url": "FtrBucketWood.png"
+  },
+  {
+    "name": "wooden chair",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 6, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodenChairS_Remake_0_0.png"
+  },
+  {
+    "name": "wooden chest",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 16, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodenChest_Remake_0_0.png"
+  },
+  {
+    "name": "wooden double bed",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 30, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodenBedW_Remake_0_0.png"
+  },
+  {
+    "name": "wooden end table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 8, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodenTableS_Remake_0_0.png"
+  },
+  {
+    "name": "wooden fish",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrMokugyo_Remake_0_0.png"
+  },
+  {
+    "name": "wooden full-length mirror",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "wood", "qty": 5, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodenMirror_Remake_0_0.png"
+  },
+  {
+    "name": "wooden low table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 10, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodenTableM_Remake_0_0.png"
+  },
+  {
+    "name": "wooden mini table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 6, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodenTableMini_Remake_0_0.png"
+  },
+  {
+    "name": "wooden simple bed",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 18, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodenBedS_Remake_0_0.png"
+  },
+  {
+    "name": "wooden stool",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 4, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodenStoolS_Remake_0_0.png"
+  },
+  {
+    "name": "wooden table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 15, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodenTableL_Remake_0_0.png"
+  },
+  {
+    "name": "wooden table mirror",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "wood", "qty": 3, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodenMirrorS_Remake_0_0.png"
+  },
+  {
+    "name": "wooden toolbox",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "softwood", "qty": 4, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrToolboxWood_Remake_0_0.png"
+  },
+  {
+    "name": "wooden wardrobe",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 12, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrWoodenCloset_Remake_0_0.png"
+  },
+  {
+    "name": "wooden waste bin",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 4, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "FtrTrashboxWood_Remake_0_0.png"
+  },
+  {
+    "name": "wooden-block bed",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 17, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "wooden-block toy", "qty": 1, "image_url": "FtrBlockBrick_Remake_0_0.png", "is_recipe": true}],
+    "image_url": "FtrBlockBedS_Remake_0_0.png"
+  },
+  {
+    "name": "wooden-block bench",
+    "category": "Housewares",
+    "mats": [{"mat": "wooden-block toy", "qty": 1, "image_url": "FtrBlockBrick_Remake_0_0.png", "is_recipe": true}, {"mat": "softwood", "qty": 4, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrBlockChairL_Remake_0_0.png"
+  },
+  {
+    "name": "wooden-block bookshelf",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 3, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "wooden-block toy", "qty": 1, "image_url": "FtrBlockBrick_Remake_0_0.png", "is_recipe": true}],
+    "image_url": "FtrBlockShelf_Remake_0_0.png"
+  },
+  {
+    "name": "wooden-block chair",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 3, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "wooden-block toy", "qty": 1, "image_url": "FtrBlockBrick_Remake_0_0.png", "is_recipe": true}],
+    "image_url": "FtrBlockChairS_Remake_0_0.png"
+  },
+  {
+    "name": "wooden-block chest",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 12, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "wooden-block toy", "qty": 1, "image_url": "FtrBlockBrick_Remake_0_0.png", "is_recipe": true}],
+    "image_url": "FtrBlockChest_Remake_0_0.png"
+  },
+  {
+    "name": "wooden-block stereo",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 2, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "wooden-block toy", "qty": 1, "image_url": "FtrBlockBrick_Remake_0_0.png", "is_recipe": true}, {"mat": "softwood", "qty": 5, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrBlockCompo_Remake_0_0.png"
+  },
+  {
+    "name": "wooden-block stool",
+    "category": "Housewares",
+    "mats": [{"mat": "wooden-block toy", "qty": 1, "image_url": "FtrBlockBrick_Remake_0_0.png", "is_recipe": true}, {"mat": "softwood", "qty": 2, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrBlockStoolS_Remake_0_0.png"
+  },
+  {
+    "name": "wooden-block table",
+    "category": "Housewares",
+    "mats": [{"mat": "wooden-block toy", "qty": 1, "image_url": "FtrBlockBrick_Remake_0_0.png", "is_recipe": true}, {"mat": "softwood", "qty": 8, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrBlockTableL_Remake_0_0.png"
+  },
+  {
+    "name": "wooden-block toy",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 3, "image_url": "DIYWoodSoft.png", "is_recipe": false}],
+    "image_url": "FtrBlockBrick_Remake_0_0.png"
+  },
+  {
+    "name": "wooden-block wall clock",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 1, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "softwood", "qty": 2, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "wooden-block toy", "qty": 1, "image_url": "FtrBlockBrick_Remake_0_0.png", "is_recipe": true}],
+    "image_url": "FtrBlockClock_Remake_0_0.png"
+  },
+  {
+    "name": "wooden-knot wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "hardwood", "qty": 15, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "RoomTexWallCedar00.png"
+  },
+  {
+    "name": "wooden-mosaic wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "wood", "qty": 15, "image_url": "DIYWoodNormal.png", "is_recipe": false}],
+    "image_url": "RoomTexWallMixPlankWood00.png"
+  },
+  {
+    "name": "wooden-plank sign",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "hardwood", "qty": 5, "image_url": "DIYWoodHard.png", "is_recipe": false}],
+    "image_url": "FtrSignboardWood_Remake_0_0.png"
+  },
+  {
+    "name": "woodland wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "softwood", "qty": 9, "image_url": "DIYWoodSoft.png", "is_recipe": false}, {"mat": "clump of weeds", "qty": 15, "image_url": "Weed.png", "is_recipe": false}],
+    "image_url": "RoomTexWallJukai00.png"
+  },
+  {
+    "name": "yellow-leaf pile",
+    "category": "Housewares",
+    "mats": [{"mat": "clump of weeds", "qty": 5, "image_url": "Weed.png", "is_recipe": false}, {"mat": "acorn", "qty": 3, "image_url": "DIYAcorn.png", "is_recipe": false}],
+    "image_url": "FtrFallenleavesYellow.png"
+  },
+  {
+    "name": "zen fence",
+    "category": "Fencing",
+    "mats": [{"mat": "iron nugget", "qty": 3, "image_url": "OreIron.png", "is_recipe": false}, {"mat": "stone", "qty": 3, "image_url": "OreStone.png", "is_recipe": false}, {"mat": "clay", "qty": 3, "image_url": "OreClay.png", "is_recipe": false}],
+    "image_url": "ItemFenceJapanese.png"
+  },
+  {
+    "name": "zen-style stone",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 30, "image_url": "OreStone.png", "is_recipe": false}],
+    "image_url": "FtrGravestoneJapan_Remake_0_0.png"
+  }
+]

@@ -1,0 +1,2977 @@
+[
+  {
+    "name": "Aquarius urn",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "is_recipe": false}, {"mat": "Aquarius fragment", "qty": 2, "is_recipe": false}, {"mat": "stone", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "Aries rocking chair",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 1, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "Aries fragment", "qty": 2, "is_recipe": false}, {"mat": "stone", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day arch",
+    "category": "Housewares",
+    "mats": [{"mat": "wood egg", "qty": 2, "is_recipe": false}, {"mat": "stone egg", "qty": 2, "is_recipe": false}, {"mat": "earth egg", "qty": 2, "is_recipe": false}, {"mat": "water egg", "qty": 2, "is_recipe": false}, {"mat": "sky egg", "qty": 2, "is_recipe": false}, {"mat": "leaf egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day bag",
+    "category": "Bags",
+    "mats": [{"mat": "water egg", "qty": 1, "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "is_recipe": false}, {"mat": "earth egg", "qty": 1, "is_recipe": false}, {"mat": "sky egg", "qty": 1, "is_recipe": false}, {"mat": "stone egg", "qty": 1, "is_recipe": false}, {"mat": "wood egg", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day bed",
+    "category": "Housewares",
+    "mats": [{"mat": "sky egg", "qty": 1, "is_recipe": false}, {"mat": "stone egg", "qty": 1, "is_recipe": false}, {"mat": "wood egg", "qty": 1, "is_recipe": false}, {"mat": "water egg", "qty": 1, "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "is_recipe": false}, {"mat": "earth egg", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day crown",
+    "category": "Headwear",
+    "mats": [{"mat": "leaf egg", "qty": 1, "is_recipe": false}, {"mat": "wood egg", "qty": 1, "is_recipe": false}, {"mat": "stone egg", "qty": 1, "is_recipe": false}, {"mat": "earth egg", "qty": 1, "is_recipe": false}, {"mat": "water egg", "qty": 1, "is_recipe": false}, {"mat": "sky egg", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day fence",
+    "category": "Fencing",
+    "mats": [{"mat": "stone egg", "qty": 1, "is_recipe": false}, {"mat": "sky egg", "qty": 1, "is_recipe": false}, {"mat": "wood egg", "qty": 1, "is_recipe": false}, {"mat": "water egg", "qty": 1, "is_recipe": false}, {"mat": "earth egg", "qty": 1, "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day festive balloons",
+    "category": "Housewares",
+    "mats": [{"mat": "stone egg", "qty": 1, "is_recipe": false}, {"mat": "wood egg", "qty": 1, "is_recipe": false}, {"mat": "water egg", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day flooring",
+    "category": "Floors",
+    "mats": [{"mat": "earth egg", "qty": 2, "is_recipe": false}, {"mat": "sky egg", "qty": 2, "is_recipe": false}, {"mat": "water egg", "qty": 2, "is_recipe": false}, {"mat": "stone egg", "qty": 2, "is_recipe": false}, {"mat": "leaf egg", "qty": 2, "is_recipe": false}, {"mat": "wood egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day glowy garland",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "wood egg", "qty": 1, "is_recipe": false}, {"mat": "earth egg", "qty": 1, "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "is_recipe": false}, {"mat": "water egg", "qty": 1, "is_recipe": false}, {"mat": "stone egg", "qty": 1, "is_recipe": false}, {"mat": "sky egg", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day lamp",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "wood egg", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day merry balloons",
+    "category": "Housewares",
+    "mats": [{"mat": "earth egg", "qty": 1, "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "is_recipe": false}, {"mat": "sky egg", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day rug",
+    "category": "Rugs",
+    "mats": [{"mat": "earth egg", "qty": 1, "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "is_recipe": false}, {"mat": "stone egg", "qty": 1, "is_recipe": false}, {"mat": "wood egg", "qty": 1, "is_recipe": false}, {"mat": "water egg", "qty": 1, "is_recipe": false}, {"mat": "sky egg", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day stool",
+    "category": "Housewares",
+    "mats": [{"mat": "water egg", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day table",
+    "category": "Housewares",
+    "mats": [{"mat": "earth egg", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day vanity",
+    "category": "Housewares",
+    "mats": [{"mat": "leaf egg", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "wood egg", "qty": 2, "is_recipe": false}, {"mat": "leaf egg", "qty": 2, "is_recipe": false}, {"mat": "stone egg", "qty": 2, "is_recipe": false}, {"mat": "earth egg", "qty": 2, "is_recipe": false}, {"mat": "water egg", "qty": 2, "is_recipe": false}, {"mat": "sky egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day wall clock",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "sky egg", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "wobbling Zipper toy", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day wardrobe",
+    "category": "Housewares",
+    "mats": [{"mat": "stone egg", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "Bunny Day wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "wood egg", "qty": 1, "is_recipe": false}, {"mat": "leaf egg", "qty": 1, "is_recipe": false}, {"mat": "earth egg", "qty": 1, "is_recipe": false}, {"mat": "water egg", "qty": 1, "is_recipe": false}, {"mat": "stone egg", "qty": 1, "is_recipe": false}, {"mat": "sky egg", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "Cancer table",
+    "category": "Housewares",
+    "mats": [{"mat": "Cancer fragment", "qty": 2, "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "is_recipe": false}, {"mat": "stone", "qty": 3, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "Capricorn ornament",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "Capricorn fragment", "qty": 2, "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "is_recipe": false}, {"mat": "stone", "qty": 12, "is_recipe": false}]
+  },
+  {
+    "name": "DIY workbench",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 5, "is_recipe": false}, {"mat": "wood", "qty": 5, "is_recipe": false}, {"mat": "mini DIY workbench", "qty": 1, "is_recipe": true}, {"mat": "hardwood", "qty": 5, "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "Gemini closet",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 2, "is_recipe": false}, {"mat": "Gemini fragment", "qty": 2, "is_recipe": false}, {"mat": "stone", "qty": 6, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "Jingle wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "blue ornament", "qty": 5, "is_recipe": false}, {"mat": "red ornament", "qty": 5, "is_recipe": false}, {"mat": "clay", "qty": 5, "is_recipe": false}, {"mat": "gold ornament", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "Leo sculpture",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "Leo fragment", "qty": 2, "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "is_recipe": false}, {"mat": "stone", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "Libra scale",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "Libra fragment", "qty": 2, "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "Pisces lamp",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 2, "is_recipe": false}, {"mat": "stone", "qty": 4, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "Pisces fragment", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "Sagittarius arrow",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "Sagittarius fragment", "qty": 2, "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "Scorpio lamp",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "stone", "qty": 5, "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "Scorpius fragment", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "Taurus bathtub",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "stone", "qty": 8, "is_recipe": false}, {"mat": "gold nugget", "qty": 1, "is_recipe": false}, {"mat": "Taurus fragment", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "Virgo harp",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 2, "is_recipe": false}, {"mat": "stone", "qty": 4, "is_recipe": false}, {"mat": "Virgo fragment", "qty": 2, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "Wobbling Zipper toy",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "leaf egg", "qty": 4, "is_recipe": false}, {"mat": "stone egg", "qty": 4, "is_recipe": false}, {"mat": "earth egg", "qty": 4, "is_recipe": false}, {"mat": "sky egg", "qty": 4, "is_recipe": false}, {"mat": "water egg", "qty": 4, "is_recipe": false}, {"mat": "wood egg", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "acorn pochette",
+    "category": "Bags",
+    "mats": [{"mat": "acorn", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "acoustic guitar",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 8, "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "angled signpost",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 2, "is_recipe": false}, {"mat": "softwood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "apple chair",
+    "category": "Housewares",
+    "mats": [{"mat": "apple", "qty": 10, "is_recipe": false}, {"mat": "wood", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "apple dress",
+    "category": "Dresses",
+    "mats": [{"mat": "apple", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "apple hat",
+    "category": "Headwear",
+    "mats": [{"mat": "apple", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "apple rug",
+    "category": "Rugs",
+    "mats": [{"mat": "apple", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "apple umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "apple", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "apple wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "apple", "qty": 20, "is_recipe": false}]
+  },
+  {
+    "name": "armor shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "iron nugget", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "aroma pot",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "asteroid",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 10, "is_recipe": false}, {"mat": "star fragment", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "astronaut suit",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 5, "is_recipe": false}, {"mat": "iron nugget", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "autumn wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "clump of weeds", "qty": 5, "is_recipe": false}, {"mat": "wood", "qty": 5, "is_recipe": false}, {"mat": "maple leaf", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "axe",
+    "category": "Tools",
+    "mats": [{"mat": "flimsy axe", "qty": 1, "is_recipe": true}, {"mat": "wood", "qty": 3, "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "backyard lawn",
+    "category": "Floors",
+    "mats": [{"mat": "clump of weeds", "qty": 30, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo basket",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo bench",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo candleholder",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 2, "is_recipe": false}, {"mat": "bamboo piece", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo doll",
+    "category": "Housewares",
+    "mats": [{"mat": "young spring bamboo", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo drum",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 2, "is_recipe": false}, {"mat": "bamboo piece", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo floor lamp",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo flooring",
+    "category": "Floors",
+    "mats": [{"mat": "bamboo piece", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo hat",
+    "category": "Headwear",
+    "mats": [{"mat": "clump of weeds", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo lattice fence",
+    "category": "Fencing",
+    "mats": [{"mat": "bamboo piece", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo lunch box",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "bamboo piece", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo noodle slide",
+    "category": "Housewares",
+    "mats": [{"mat": "young spring bamboo", "qty": 7, "is_recipe": false}, {"mat": "wood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo partition",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 6, "is_recipe": false}, {"mat": "bamboo piece", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo shelf",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo speaker",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 3, "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo sphere",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "bamboo piece", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo stool",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo stopblock",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "bamboo piece", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo wall decoration",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "bamboo piece", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "young spring bamboo", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo-grove wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "bamboo shoot", "qty": 3, "is_recipe": false}, {"mat": "young spring bamboo", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "bamboo-shoot lamp",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "young spring bamboo", "qty": 4, "is_recipe": false}, {"mat": "clay", "qty": 4, "is_recipe": false}, {"mat": "bamboo shoot", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "barbed-wire fence",
+    "category": "Fencing",
+    "mats": [{"mat": "hardwood", "qty": 3, "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "barbell",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "barrel",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 2, "is_recipe": false}, {"mat": "wood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "basement flooring",
+    "category": "Floors",
+    "mats": [{"mat": "stone", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "basket pack",
+    "category": "Bags",
+    "mats": [{"mat": "young spring bamboo", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "beekeeper's hive",
+    "category": "Housewares",
+    "mats": [{"mat": "wasp nest", "qty": 3, "is_recipe": false}, {"mat": "wood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "big festive tree",
+    "category": "Housewares",
+    "mats": [{"mat": "gold ornament", "qty": 4, "is_recipe": false}, {"mat": "red ornament", "qty": 6, "is_recipe": false}, {"mat": "clay", "qty": 5, "is_recipe": false}, {"mat": "wood", "qty": 5, "is_recipe": false}, {"mat": "blue ornament", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "birdbath",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "birdcage",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "birdhouse",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 2, "is_recipe": false}, {"mat": "softwood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "blossom-viewing lantern",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 4, "is_recipe": false}, {"mat": "cherry-blossom petal", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "blue rose crown",
+    "category": "Headwear",
+    "mats": [{"mat": "blue roses", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "blue rose wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "blue roses", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "bone doorplate",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "softwood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "bonfire",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 10, "is_recipe": false}, {"mat": "campfire", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "bonsai shelf",
+    "category": "Housewares",
+    "mats": [{"mat": "cherry-blossom bonsai", "qty": 1, "is_recipe": true}, {"mat": "pine bonsai tree", "qty": 1, "is_recipe": true}, {"mat": "wood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "boomerang",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "hardwood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "brick fence",
+    "category": "Fencing",
+    "mats": [{"mat": "clay", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "brick oven",
+    "category": "Housewares",
+    "mats": [{"mat": "clay", "qty": 8, "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}, {"mat": "wood", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "brick well",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "is_recipe": false}, {"mat": "clay", "qty": 8, "is_recipe": false}, {"mat": "flimsy shovel", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "bridge construction kit",
+    "category": "Other",
+    "mats": [{"mat": "clay", "qty": 4, "is_recipe": false}, {"mat": "log stakes", "qty": 4, "is_recipe": true}, {"mat": "stone", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "brown herringbone wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "softwood", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "butter churn",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 4, "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "cabin wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "hardwood", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "campfire",
+    "category": "Housewares",
+    "mats": [{"mat": "tree branch", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "campsite construction kit",
+    "category": "Other",
+    "mats": [{"mat": "hardwood", "qty": 15, "is_recipe": false}, {"mat": "iron nugget", "qty": 15, "is_recipe": false}, {"mat": "softwood", "qty": 15, "is_recipe": false}, {"mat": "wood", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "cardboard bed",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "cardboard chair",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "cardboard sofa",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "cardboard table",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "cherry dress",
+    "category": "Dresses",
+    "mats": [{"mat": "cherry", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "cherry hat",
+    "category": "Headwear",
+    "mats": [{"mat": "cherry", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "cherry lamp",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "clay", "qty": 2, "is_recipe": false}, {"mat": "cherry", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "cherry rug",
+    "category": "Rugs",
+    "mats": [{"mat": "cherry", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "cherry speakers",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "cherry", "qty": 10, "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "cherry umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "cherry", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "cherry wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "cherry", "qty": 20, "is_recipe": false}]
+  },
+  {
+    "name": "cherry-blossom bonsai",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 3, "is_recipe": false}, {"mat": "cherry-blossom petal", "qty": 6, "is_recipe": false}, {"mat": "hardwood", "qty": 2, "is_recipe": false}, {"mat": "clump of weeds", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "cherry-blossom branches",
+    "category": "Housewares",
+    "mats": [{"mat": "tree branch", "qty": 4, "is_recipe": false}, {"mat": "cherry-blossom petal", "qty": 8, "is_recipe": false}, {"mat": "clay", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "cherry-blossom clock",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "cherry-blossom flooring",
+    "category": "Floors",
+    "mats": [{"mat": "clump of weeds", "qty": 20, "is_recipe": false}, {"mat": "cherry-blossom petal", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "cherry-blossom pochette",
+    "category": "Bags",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "cherry-blossom pond stone",
+    "category": "Housewares",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 3, "is_recipe": false}, {"mat": "stone", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "cherry-blossom umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "cherry-blossom wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "cherry-blossom petal", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "cherry-blossom-petal pile",
+    "category": "Housewares",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "cherry-blossom-trees wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "hardwood", "qty": 5, "is_recipe": false}, {"mat": "cherry-blossom petal", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "chic cosmos wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "black cosmos", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "chic mum crown",
+    "category": "Headwear",
+    "mats": [{"mat": "pink mums", "qty": 3, "is_recipe": false}, {"mat": "purple mums", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "chic rose crown",
+    "category": "Headwear",
+    "mats": [{"mat": "purple roses", "qty": 3, "is_recipe": false}, {"mat": "black roses", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "chic tulip crown",
+    "category": "Headwear",
+    "mats": [{"mat": "orange tulips", "qty": 1, "is_recipe": false}, {"mat": "purple tulips", "qty": 2, "is_recipe": false}, {"mat": "pink tulips", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "chic windflower wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "purple windflowers", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "chocolate herringbone wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "softwood", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "clackercart",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 6, "is_recipe": false}, {"mat": "hardwood", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "classic pitcher",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "classic-library wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "book", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "clothesline",
+    "category": "Housewares",
+    "mats": [{"mat": "tree branch", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "coconut juice",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "coconut", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "coconut wall planter",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "clump of weeds", "qty": 5, "is_recipe": false}, {"mat": "coconut", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "colored-leaves flooring",
+    "category": "Floors",
+    "mats": [{"mat": "clump of weeds", "qty": 15, "is_recipe": false}, {"mat": "maple leaf", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "cool hyacinth crown",
+    "category": "Headwear",
+    "mats": [{"mat": "blue hyacinths", "qty": 4, "is_recipe": false}, {"mat": "pink hyacinths", "qty": 2, "is_recipe": false}, {"mat": "orange hyacinths", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "cool hyacinth wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "blue hyacinths", "qty": 3, "is_recipe": false}, {"mat": "orange hyacinths", "qty": 3, "is_recipe": false}, {"mat": "pink hyacinths", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "cool pansy crown",
+    "category": "Headwear",
+    "mats": [{"mat": "blue pansies", "qty": 3, "is_recipe": false}, {"mat": "orange pansies", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "cool pansy wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "purple pansies", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "cool windflower crown",
+    "category": "Headwear",
+    "mats": [{"mat": "pink windflowers", "qty": 3, "is_recipe": false}, {"mat": "blue windflowers", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "cool windflower wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "pink windflowers", "qty": 3, "is_recipe": false}, {"mat": "white windflowers", "qty": 3, "is_recipe": false}, {"mat": "blue windflowers", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "corral fence",
+    "category": "Fencing",
+    "mats": [{"mat": "wood", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "cosmos crown",
+    "category": "Headwear",
+    "mats": [{"mat": "red cosmos", "qty": 2, "is_recipe": false}, {"mat": "yellow cosmos", "qty": 2, "is_recipe": false}, {"mat": "white cosmos", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "cosmos shower",
+    "category": "Housewares",
+    "mats": [{"mat": "pink cosmos", "qty": 5, "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "cosmos wand",
+    "category": "Tools",
+    "mats": [{"mat": "white cosmos", "qty": 1, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "cosmos wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "red cosmos", "qty": 3, "is_recipe": false}, {"mat": "yellow cosmos", "qty": 3, "is_recipe": false}, {"mat": "white cosmos", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "country fence",
+    "category": "Fencing",
+    "mats": [{"mat": "hardwood", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "crescent-moon chair",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 7, "is_recipe": false}, {"mat": "large star fragment", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "crest doorplate",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "crewed spaceship",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 20, "is_recipe": false}, {"mat": "star fragment", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "cute lily crown",
+    "category": "Headwear",
+    "mats": [{"mat": "orange lilies", "qty": 2, "is_recipe": false}, {"mat": "pink lilies", "qty": 2, "is_recipe": false}, {"mat": "white lilies", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "cute rose crown",
+    "category": "Headwear",
+    "mats": [{"mat": "orange roses", "qty": 3, "is_recipe": false}, {"mat": "pink roses", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "cutting board",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 1, "is_recipe": false}, {"mat": "hardwood", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "dark bamboo rug",
+    "category": "Rugs",
+    "mats": [{"mat": "bamboo piece", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "dark cosmos crown",
+    "category": "Headwear",
+    "mats": [{"mat": "black cosmos", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "dark lily crown",
+    "category": "Headwear",
+    "mats": [{"mat": "black lilies", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "dark lily wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "black lilies", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "dark rose wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "purple roses", "qty": 6, "is_recipe": false}, {"mat": "black roses", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "dark tulip crown",
+    "category": "Headwear",
+    "mats": [{"mat": "black tulips", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "dark tulip wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "black tulips", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "dark wooden-mosaic wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "wood", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "decoy duck",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "deer decoration",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "softwood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "deer scare",
+    "category": "Housewares",
+    "mats": [{"mat": "bamboo piece", "qty": 3, "is_recipe": false}, {"mat": "stone", "qty": 8, "is_recipe": false}, {"mat": "clump of weeds", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "destinations signpost",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 4, "is_recipe": false}, {"mat": "softwood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "document stack",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "scattered papers", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "doghouse",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 7, "is_recipe": false}, {"mat": "wood", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "drinking fountain",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 8, "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "earth-egg outfit",
+    "category": "Dresses",
+    "mats": [{"mat": "earth egg", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "earth-egg shell",
+    "category": "Headwear",
+    "mats": [{"mat": "earth egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "earth-egg shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "earth egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "egg party dress",
+    "category": "Dresses",
+    "mats": [{"mat": "sky egg", "qty": 3, "is_recipe": false}, {"mat": "stone egg", "qty": 3, "is_recipe": false}, {"mat": "earth egg", "qty": 3, "is_recipe": false}, {"mat": "wood egg", "qty": 3, "is_recipe": false}, {"mat": "leaf egg", "qty": 3, "is_recipe": false}, {"mat": "water egg", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "egg party hat",
+    "category": "Headwear",
+    "mats": [{"mat": "earth egg", "qty": 2, "is_recipe": false}, {"mat": "leaf egg", "qty": 2, "is_recipe": false}, {"mat": "stone egg", "qty": 2, "is_recipe": false}, {"mat": "wood egg", "qty": 2, "is_recipe": false}, {"mat": "sky egg", "qty": 2, "is_recipe": false}, {"mat": "water egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "fancy lily wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "orange lilies", "qty": 3, "is_recipe": false}, {"mat": "pink lilies", "qty": 3, "is_recipe": false}, {"mat": "yellow lilies", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "fancy mum wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "purple mums", "qty": 3, "is_recipe": false}, {"mat": "red mums", "qty": 3, "is_recipe": false}, {"mat": "pink mums", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "fancy rose wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "pink roses", "qty": 3, "is_recipe": false}, {"mat": "yellow roses", "qty": 3, "is_recipe": false}, {"mat": "orange roses", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "festive top set",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "hardwood", "qty": 1, "is_recipe": false}, {"mat": "gold ornament", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "festive tree",
+    "category": "Housewares",
+    "mats": [{"mat": "gold ornament", "qty": 3, "is_recipe": false}, {"mat": "wood", "qty": 5, "is_recipe": false}, {"mat": "blue ornament", "qty": 3, "is_recipe": false}, {"mat": "red ornament", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "firewood",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "wood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "fish bait",
+    "category": "Other",
+    "mats": [{"mat": "manila clam", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "fishing rod",
+    "category": "Tools",
+    "mats": [{"mat": "iron nugget", "qty": 1, "is_recipe": false}, {"mat": "flimsy fishing rod", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "flat garden rock",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 20, "is_recipe": false}]
+  },
+  {
+    "name": "flimsy axe",
+    "category": "Tools",
+    "mats": [{"mat": "stone", "qty": 1, "is_recipe": false}, {"mat": "tree branch", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "flimsy fishing rod",
+    "category": "Tools",
+    "mats": [{"mat": "tree branch", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "flimsy net",
+    "category": "Tools",
+    "mats": [{"mat": "tree branch", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "flimsy shovel",
+    "category": "Tools",
+    "mats": [{"mat": "hardwood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "flimsy watering can",
+    "category": "Tools",
+    "mats": [{"mat": "softwood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "floral swag",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "clump of weeds", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "flower stand",
+    "category": "Housewares",
+    "mats": [{"mat": "yellow lilies", "qty": 2, "is_recipe": false}, {"mat": "pink roses", "qty": 2, "is_recipe": false}, {"mat": "white liles", "qty": 2, "is_recipe": false}, {"mat": "purple windflowers", "qty": 5, "is_recipe": false}, {"mat": "orange roses", "qty": 2, "is_recipe": false}, {"mat": "red roses", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "flying saucer",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 15, "is_recipe": false}, {"mat": "iron nugget", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "forest flooring",
+    "category": "Floors",
+    "mats": [{"mat": "flat mushroom", "qty": 2, "is_recipe": false}, {"mat": "rare mushroom", "qty": 1, "is_recipe": false}, {"mat": "clump of weeds", "qty": 10, "is_recipe": false}, {"mat": "round mushroom", "qty": 2, "is_recipe": false}, {"mat": "skinny mushroom", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "forest wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "elegant mushroom", "qty": 2, "is_recipe": false}, {"mat": "flat mushroom", "qty": 2, "is_recipe": false}, {"mat": "skinny mushroom", "qty": 2, "is_recipe": false}, {"mat": "wood", "qty": 10, "is_recipe": false}, {"mat": "round mushroom", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "fossil doorplate",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "fossil", "qty": 1, "is_recipe": false}, {"mat": "stone", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "fountain",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 8, "is_recipe": false}, {"mat": "stone", "qty": 20, "is_recipe": false}, {"mat": "drinking fountain", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "frozen arch",
+    "category": "Housewares",
+    "mats": [{"mat": "snowflake", "qty": 10, "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "frozen bed",
+    "category": "Housewares",
+    "mats": [{"mat": "large snowflake", "qty": 1, "is_recipe": false}, {"mat": "snowflake", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "frozen chair",
+    "category": "Housewares",
+    "mats": [{"mat": "large snowflake", "qty": 1, "is_recipe": false}, {"mat": "snowflake", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "frozen counter",
+    "category": "Housewares",
+    "mats": [{"mat": "snowflake", "qty": 5, "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "frozen partition",
+    "category": "Housewares",
+    "mats": [{"mat": "large snowflake", "qty": 1, "is_recipe": false}, {"mat": "snowflake", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "frozen pillar",
+    "category": "Housewares",
+    "mats": [{"mat": "large snowflake", "qty": 1, "is_recipe": false}, {"mat": "snowflake", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "frozen sculpture",
+    "category": "Housewares",
+    "mats": [{"mat": "large snowflake", "qty": 1, "is_recipe": false}, {"mat": "snowflake", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "frozen table",
+    "category": "Housewares",
+    "mats": [{"mat": "large snowflake", "qty": 1, "is_recipe": false}, {"mat": "snowflake", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "frozen tree",
+    "category": "Housewares",
+    "mats": [{"mat": "large snowflake", "qty": 1, "is_recipe": false}, {"mat": "snowflake", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "frozen-treat set",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "snowflake", "qty": 1, "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "fruit basket",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "cherry", "qty": 1, "is_recipe": false}, {"mat": "orange", "qty": 1, "is_recipe": false}, {"mat": "apple", "qty": 1, "is_recipe": false}, {"mat": "pear", "qty": 1, "is_recipe": false}, {"mat": "peach", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "fruit wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "apple", "qty": 2, "is_recipe": false}, {"mat": "pear", "qty": 1, "is_recipe": false}, {"mat": "peach", "qty": 1, "is_recipe": false}, {"mat": "cherry", "qty": 3, "is_recipe": false}, {"mat": "orange", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "frying pan",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "galaxy flooring",
+    "category": "Floors",
+    "mats": [{"mat": "star fragment", "qty": 5, "is_recipe": false}, {"mat": "large star fragment", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "garbage-heap flooring",
+    "category": "Floors",
+    "mats": [{"mat": "boot", "qty": 2, "is_recipe": false}, {"mat": "old tire", "qty": 2, "is_recipe": false}, {"mat": "empty can", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "garbage-heap wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "empty can", "qty": 2, "is_recipe": false}, {"mat": "old tire", "qty": 2, "is_recipe": false}, {"mat": "boot", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "garden bench",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 4, "is_recipe": false}, {"mat": "wood", "qty": 12, "is_recipe": false}]
+  },
+  {
+    "name": "garden rock",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "garden wagon",
+    "category": "Housewares",
+    "mats": [{"mat": "white hyacinths", "qty": 3, "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}, {"mat": "yellow roses", "qty": 3, "is_recipe": false}, {"mat": "red cosmos", "qty": 3, "is_recipe": false}, {"mat": "wood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "giant teddy bear",
+    "category": "Housewares",
+    "mats": [{"mat": "Mama bear", "qty": 1, "is_recipe": false}, {"mat": "Papa bear", "qty": 1, "is_recipe": false}, {"mat": "Baby bear", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "gold armor",
+    "category": "Dresses",
+    "mats": [{"mat": "gold nugget", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "gold bars",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold nugget", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "gold helmet",
+    "category": "Headwear",
+    "mats": [{"mat": "gold nugget", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "gold rose crown",
+    "category": "Headwear",
+    "mats": [{"mat": "gold roses", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "gold rose wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "gold roses", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "gold-armor shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "gold nugget", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "gold-screen wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "screen wall", "qty": 1, "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "golden arowana model",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold nugget", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "golden axe",
+    "category": "Tools",
+    "mats": [{"mat": "axe", "qty": 1, "is_recipe": true}, {"mat": "gold nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "golden candlestick",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "golden casket",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "golden dishes",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "golden dung beetle",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold nugget", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "golden flooring",
+    "category": "Floors",
+    "mats": [{"mat": "gold nugget", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "golden gears",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 3, "is_recipe": false}, {"mat": "gold nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "golden net",
+    "category": "Tools",
+    "mats": [{"mat": "gold nugget", "qty": 1, "is_recipe": false}, {"mat": "net", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "golden rod",
+    "category": "Tools",
+    "mats": [{"mat": "fishing rod", "qty": 1, "is_recipe": true}, {"mat": "gold nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "golden seat",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "golden shovel",
+    "category": "Tools",
+    "mats": [{"mat": "shovel", "qty": 1, "is_recipe": true}, {"mat": "gold nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "golden slingshot",
+    "category": "Tools",
+    "mats": [{"mat": "gold nugget", "qty": 1, "is_recipe": false}, {"mat": "slingshot", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "golden toilet",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "golden wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "gold nugget", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "golden wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "golden watering can",
+    "category": "Tools",
+    "mats": [{"mat": "watering can", "qty": 1, "is_recipe": true}, {"mat": "gold nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "gong",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "is_recipe": false}, {"mat": "iron nugget", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "grass skirt",
+    "category": "Bottoms",
+    "mats": [{"mat": "clump of weeds", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "grass standee",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 2, "is_recipe": false}, {"mat": "softwood", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "green grass skirt",
+    "category": "Bottoms",
+    "mats": [{"mat": "clump of weeds", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "green-leaf pile",
+    "category": "Housewares",
+    "mats": [{"mat": "young spring bamboo", "qty": 1, "is_recipe": false}, {"mat": "clump of weeds", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "hanging terrarium",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "clump of weeds", "qty": 10, "is_recipe": false}, {"mat": "iron nugget", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "hay bed",
+    "category": "Housewares",
+    "mats": [{"mat": "clump of weeds", "qty": 20, "is_recipe": false}]
+  },
+  {
+    "name": "hearth",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 5, "is_recipe": false}, {"mat": "bamboo piece", "qty": 2, "is_recipe": false}, {"mat": "iron nugget", "qty": 5, "is_recipe": false}, {"mat": "clay", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "hedge",
+    "category": "Fencing",
+    "mats": [{"mat": "weed", "qty": 10, "is_recipe": false}, {"mat": "branch", "qty": 5, "is_recipe": false}, {"mat": "stone", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "hedge standee",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 3, "is_recipe": false}, {"mat": "wood", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "holiday candle",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clump of weeds", "qty": 5, "is_recipe": false}, {"mat": "red ornament", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "honeycomb flooring",
+    "category": "Floors",
+    "mats": [{"mat": "wasp nest", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "honeycomb wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "wasp nest", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "hyacinth crown",
+    "category": "Headwear",
+    "mats": [{"mat": "red hyacinths", "qty": 4, "is_recipe": false}, {"mat": "white hyacinths", "qty": 2, "is_recipe": false}, {"mat": "yellow hyacinths", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "hyacinth lamp",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "purple hyacinths", "qty": 5, "is_recipe": false}, {"mat": "clay", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "hyacinth wand",
+    "category": "Tools",
+    "mats": [{"mat": "pink hyacinths", "qty": 1, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "hyacinth wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "yellow hyacinths", "qty": 3, "is_recipe": false}, {"mat": "white hyacinths", "qty": 3, "is_recipe": false}, {"mat": "red hyacinths", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "ice flooring",
+    "category": "Floors",
+    "mats": [{"mat": "large snowflake", "qty": 1, "is_recipe": false}, {"mat": "snowflake", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "ice wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "snowflake", "qty": 8, "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "ice wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "iceberg flooring",
+    "category": "Floors",
+    "mats": [{"mat": "snowflake", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "iceberg wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "large snowflake", "qty": 1, "is_recipe": false}, {"mat": "snowflake", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "illuminated present",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "is_recipe": false}, {"mat": "red ornament", "qty": 3, "is_recipe": false}, {"mat": "gold ornament", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "illuminated reindeer",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 5, "is_recipe": false}, {"mat": "gold ornament", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "illuminated snowflakes",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 3, "is_recipe": false}, {"mat": "blue ornament", "qty": 9, "is_recipe": false}]
+  },
+  {
+    "name": "illuminated tree",
+    "category": "Housewares",
+    "mats": [{"mat": "red ornament", "qty": 3, "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "is_recipe": false}, {"mat": "gold ornament", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "imperial fence",
+    "category": "Fencing",
+    "mats": [{"mat": "wood", "qty": 6, "is_recipe": false}, {"mat": "softwood", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "infused-water dispenser",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "orange", "qty": 2, "is_recipe": false}, {"mat": "pear", "qty": 2, "is_recipe": false}, {"mat": "coconut", "qty": 2, "is_recipe": false}, {"mat": "apple", "qty": 2, "is_recipe": false}, {"mat": "peach", "qty": 2, "is_recipe": false}, {"mat": "cherry", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "iron armor",
+    "category": "Dresses",
+    "mats": [{"mat": "iron nugget", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "iron closet",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 12, "is_recipe": false}]
+  },
+  {
+    "name": "iron doorplate",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "iron fence",
+    "category": "Fencing",
+    "mats": [{"mat": "iron nugget", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "iron frame",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 20, "is_recipe": false}]
+  },
+  {
+    "name": "iron garden bench",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "iron garden chair",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "iron garden table",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "iron hanger stand",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "iron shelf",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 14, "is_recipe": false}]
+  },
+  {
+    "name": "iron wall lamp",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 4, "is_recipe": false}, {"mat": "clay", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "iron wall rack",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 3, "is_recipe": false}, {"mat": "clay", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "iron wand",
+    "category": "Tools",
+    "mats": [{"mat": "iron nugget", "qty": 3, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "iron worktable",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "iron-and-stone fence",
+    "category": "Fencing",
+    "mats": [{"mat": "iron nugget", "qty": 3, "is_recipe": false}, {"mat": "stone", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "ironwood DIY workbench",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 12, "is_recipe": false}, {"mat": "mini DIY workbench", "qty": 1, "is_recipe": true}, {"mat": "iron nugget", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "ironwood bed",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 20, "is_recipe": false}, {"mat": "iron nugget", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "ironwood cart",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 4, "is_recipe": false}, {"mat": "wood", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "ironwood chair",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 2, "is_recipe": false}, {"mat": "wood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "ironwood clock",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 2, "is_recipe": false}, {"mat": "wood", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "ironwood cupboard",
+    "category": "Housewares",
+    "mats": [{"mat": "ironwood dresser", "qty": 1, "is_recipe": true}, {"mat": "wood", "qty": 12, "is_recipe": false}, {"mat": "iron nugget", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "ironwood dresser",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 7, "is_recipe": false}, {"mat": "iron nugget", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "ironwood kitchenette",
+    "category": "Housewares",
+    "mats": [{"mat": "cutting board", "qty": 1, "is_recipe": true}, {"mat": "ironwood dresser", "qty": 1, "is_recipe": true}, {"mat": "wood", "qty": 4, "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "ironwood low table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 6, "is_recipe": false}, {"mat": "iron nugget", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "ironwood table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 12, "is_recipe": false}, {"mat": "iron nugget", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "jail bars",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "juicy-apple TV",
+    "category": "Housewares",
+    "mats": [{"mat": "apple", "qty": 10, "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "jungle flooring",
+    "category": "Floors",
+    "mats": [{"mat": "clump of weeds", "qty": 10, "is_recipe": false}, {"mat": "clay", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "jungle wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "softwood", "qty": 3, "is_recipe": false}, {"mat": "wood", "qty": 3, "is_recipe": false}, {"mat": "hardwood", "qty": 3, "is_recipe": false}, {"mat": "clump of weeds", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "kettle bathtub",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 2, "is_recipe": false}, {"mat": "campfire", "qty": 1, "is_recipe": true}, {"mat": "iron nugget", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "kettlebell",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "key holder",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 1, "is_recipe": false}, {"mat": "wood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "knight's helmet",
+    "category": "Headwear",
+    "mats": [{"mat": "iron nugget", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "knitted-grass backpack",
+    "category": "Bags",
+    "mats": [{"mat": "clump of weeds", "qty": 20, "is_recipe": false}]
+  },
+  {
+    "name": "ladder",
+    "category": "Tools",
+    "mats": [{"mat": "softwood", "qty": 4, "is_recipe": false}, {"mat": "hardwood", "qty": 4, "is_recipe": false}, {"mat": "wood", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "large cardboard boxes",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "lattice fence",
+    "category": "Fencing",
+    "mats": [{"mat": "softwood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "leaf",
+    "category": "Accessories",
+    "mats": [{"mat": "clump of weeds", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "leaf campfire",
+    "category": "Housewares",
+    "mats": [{"mat": "tree branch", "qty": 3, "is_recipe": false}, {"mat": "clump of weeds", "qty": 5, "is_recipe": false}, {"mat": "pine cone", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "leaf mask",
+    "category": "Headwear",
+    "mats": [{"mat": "clump of weeds", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "leaf stool",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 3, "is_recipe": false}, {"mat": "maple leaf", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "leaf umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "clump of weeds", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "leaf-egg outfit",
+    "category": "Dresses",
+    "mats": [{"mat": "leaf egg", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "leaf-egg shell",
+    "category": "Headwear",
+    "mats": [{"mat": "leaf egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "leaf-egg shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "leaf egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "light bamboo rug",
+    "category": "Rugs",
+    "mats": [{"mat": "young spring bamboo", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "lily crown",
+    "category": "Headwear",
+    "mats": [{"mat": "white lilies", "qty": 2, "is_recipe": false}, {"mat": "yellow lilies", "qty": 2, "is_recipe": false}, {"mat": "red lilies", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "lily record player",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "is_recipe": false}, {"mat": "wood", "qty": 3, "is_recipe": false}, {"mat": "white lilies", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "lily wand",
+    "category": "Tools",
+    "mats": [{"mat": "white lilies", "qty": 1, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "lily wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "red lilies", "qty": 3, "is_recipe": false}, {"mat": "white lilies", "qty": 3, "is_recipe": false}, {"mat": "yellow lilies", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "log bed",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 30, "is_recipe": false}]
+  },
+  {
+    "name": "log bench",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "log chair",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "log decorative shelves",
+    "category": "Housewares",
+    "mats": [{"mat": "log bench", "qty": 2, "is_recipe": true}, {"mat": "hardwood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "log dining table",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "log extra-long sofa",
+    "category": "Housewares",
+    "mats": [{"mat": "log chair", "qty": 2, "is_recipe": true}]
+  },
+  {
+    "name": "log garden lounge",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 12, "is_recipe": false}]
+  },
+  {
+    "name": "log pack",
+    "category": "Bags",
+    "mats": [{"mat": "wood", "qty": 3, "is_recipe": false}, {"mat": "hardwood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "log round table",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "log stakes",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "log stool",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "log wall-mounted clock",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "hardwood", "qty": 2, "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "lovely cosmos crown",
+    "category": "Headwear",
+    "mats": [{"mat": "pink cosmos", "qty": 3, "is_recipe": false}, {"mat": "orange cosmos", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "lucky gold cat",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "lucky cat", "qty": 1, "is_recipe": false}, {"mat": "gold nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "lunar lander",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 10, "is_recipe": false}, {"mat": "iron nugget", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "lunar rover",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 10, "is_recipe": false}, {"mat": "star fragment", "qty": 10, "is_recipe": false}, {"mat": "old tire", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "lunar surface",
+    "category": "Floors",
+    "mats": [{"mat": "large star fragment", "qty": 1, "is_recipe": false}, {"mat": "star fragment", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "magazine rack",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "wood", "qty": 4, "is_recipe": false}, {"mat": "magazine", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "manga-library wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "magazine", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "manhole cover",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "maple-leaf pochette",
+    "category": "Bags",
+    "mats": [{"mat": "maple leaf", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "maple-leaf pond stone",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 10, "is_recipe": false}, {"mat": "maple leaf", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "maple-leaf umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "maple leaf", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "matryoshka",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "medicine",
+    "category": "Other",
+    "mats": [{"mat": "clump of weeds", "qty": 3, "is_recipe": false}, {"mat": "wasp nest", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "medium cardboard boxes",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "mini DIY workbench",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 2, "is_recipe": false}, {"mat": "softwood", "qty": 3, "is_recipe": false}, {"mat": "wood", "qty": 3, "is_recipe": false}, {"mat": "hardwood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "modeling clay",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "modern wood wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "hardwood", "qty": 5, "is_recipe": false}, {"mat": "softwood", "qty": 5, "is_recipe": false}, {"mat": "wood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "money flooring",
+    "category": "Floors",
+    "mats": [{"mat": "bells", "qty": 50000, "is_recipe": false}]
+  },
+  {
+    "name": "moon",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 15, "is_recipe": false}, {"mat": "large star fragment", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "mossy garden rock",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 15, "is_recipe": false}, {"mat": "clump of weeds", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "mountain standee",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 5, "is_recipe": false}, {"mat": "wood", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "mum crown",
+    "category": "Headwear",
+    "mats": [{"mat": "white mums", "qty": 2, "is_recipe": false}, {"mat": "red mums", "qty": 2, "is_recipe": false}, {"mat": "yellow mums", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "mum cushion",
+    "category": "Housewares",
+    "mats": [{"mat": "yellow mums", "qty": 3, "is_recipe": false}, {"mat": "clump of weeds", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "mum wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "yellow mums", "qty": 3, "is_recipe": false}, {"mat": "red mums", "qty": 3, "is_recipe": false}, {"mat": "white mums", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "mums wand",
+    "category": "Tools",
+    "mats": [{"mat": "yellow mums", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "mush lamp",
+    "category": "Housewares",
+    "mats": [{"mat": "skinny mushroom", "qty": 1, "is_recipe": false}, {"mat": "clay", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "mush log",
+    "category": "Housewares",
+    "mats": [{"mat": "skinny mushroom", "qty": 2, "is_recipe": false}, {"mat": "log stool", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "mush low stool",
+    "category": "Housewares",
+    "mats": [{"mat": "round mushroom", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "mush parasol",
+    "category": "Housewares",
+    "mats": [{"mat": "flat mushroom", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "mush partition",
+    "category": "Housewares",
+    "mats": [{"mat": "skinny mushroom", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "mush table",
+    "category": "Housewares",
+    "mats": [{"mat": "flat mushroom", "qty": 2, "is_recipe": false}, {"mat": "wood", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "mush umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "flat mushroom", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "mush wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "skinny mushroom", "qty": 1, "is_recipe": false}, {"mat": "elegant mushroom", "qty": 1, "is_recipe": false}, {"mat": "flat mushroom", "qty": 1, "is_recipe": false}, {"mat": "round mushroom", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "mushroom wand",
+    "category": "Tools",
+    "mats": [{"mat": "skinny mushroom", "qty": 3, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "mushroom wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "tree branch", "qty": 10, "is_recipe": false}, {"mat": "flat mushroom", "qty": 1, "is_recipe": false}, {"mat": "skinny mushroom", "qty": 1, "is_recipe": false}, {"mat": "round mushroom", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "music stand",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "natural garden chair",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 6, "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "natural garden table",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "is_recipe": false}, {"mat": "hardwood", "qty": 9, "is_recipe": false}]
+  },
+  {
+    "name": "natural mum wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "green mums", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "natural square table",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 4, "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "net",
+    "category": "Tools",
+    "mats": [{"mat": "iron nugget", "qty": 1, "is_recipe": false}, {"mat": "flimsy net", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "nova light",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "star fragment", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "ocarina",
+    "category": "Tools",
+    "mats": [{"mat": "clay", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "oil-barrel bathtub",
+    "category": "Housewares",
+    "mats": [{"mat": "oil barrel", "qty": 1, "is_recipe": false}, {"mat": "stone", "qty": 2, "is_recipe": false}, {"mat": "campfire", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "old-fashioned washtub",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "orange dress",
+    "category": "Dresses",
+    "mats": [{"mat": "orange", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "orange end table",
+    "category": "Housewares",
+    "mats": [{"mat": "orange", "qty": 10, "is_recipe": false}, {"mat": "wood", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "orange hat",
+    "category": "Headwear",
+    "mats": [{"mat": "orange", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "orange rug",
+    "category": "Rugs",
+    "mats": [{"mat": "orange", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "orange umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "orange", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "orange wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "orange", "qty": 20, "is_recipe": false}]
+  },
+  {
+    "name": "orange wall-mounted clock",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "wood", "qty": 2, "is_recipe": false}, {"mat": "orange", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "ornament mobile",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "blue ornament", "qty": 1, "is_recipe": false}, {"mat": "gold ornament", "qty": 1, "is_recipe": false}, {"mat": "tree branch", "qty": 4, "is_recipe": false}, {"mat": "red ornament", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "ornament wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "gold ornament", "qty": 2, "is_recipe": false}, {"mat": "blue ornament", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "outdoor bath",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 20, "is_recipe": false}, {"mat": "shovel", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "outdoor picnic set",
+    "category": "Housewares",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "palm-tree lamp",
+    "category": "Housewares",
+    "mats": [{"mat": "coconut", "qty": 4, "is_recipe": false}, {"mat": "clay", "qty": 4, "is_recipe": false}, {"mat": "wood", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "pan flute",
+    "category": "Tools",
+    "mats": [{"mat": "young spring bamboo", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "pansy crown",
+    "category": "Headwear",
+    "mats": [{"mat": "red pansies", "qty": 2, "is_recipe": false}, {"mat": "white pansies", "qty": 2, "is_recipe": false}, {"mat": "yellow pansies", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "pansy table",
+    "category": "Housewares",
+    "mats": [{"mat": "yellow pansies", "qty": 5, "is_recipe": false}, {"mat": "hardwood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "pansy wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "yellow pansies", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "pansy wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "red pansies", "qty": 3, "is_recipe": false}, {"mat": "white pansies", "qty": 3, "is_recipe": false}, {"mat": "yellow pansies", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "paw-print doorplate",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "wood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "peach chair",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "is_recipe": false}, {"mat": "peach", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "peach dress",
+    "category": "Dresses",
+    "mats": [{"mat": "peach", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "peach hat",
+    "category": "Headwear",
+    "mats": [{"mat": "peach", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "peach rug",
+    "category": "Rugs",
+    "mats": [{"mat": "peach", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "peach surprise box",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 4, "is_recipe": false}, {"mat": "peach", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "peach umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "peach", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "peach wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "peach", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "pear bed",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 6, "is_recipe": false}, {"mat": "pear", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "pear dress",
+    "category": "Dresses",
+    "mats": [{"mat": "pear", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "pear hat",
+    "category": "Headwear",
+    "mats": [{"mat": "pear", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "pear rug",
+    "category": "Rugs",
+    "mats": [{"mat": "pear", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "pear umbrella",
+    "category": "Umbrellas",
+    "mats": [{"mat": "pear", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "pear wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "pear", "qty": 20, "is_recipe": false}]
+  },
+  {
+    "name": "pear wardrobe",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "is_recipe": false}, {"mat": "pear", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "pile of leaves",
+    "category": "Housewares",
+    "mats": [{"mat": "pine cone", "qty": 3, "is_recipe": false}, {"mat": "clump of weeds", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "pile of zen cushions",
+    "category": "Housewares",
+    "mats": [{"mat": "zen cushion", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "pine bonsai tree",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 5, "is_recipe": false}, {"mat": "pine cone", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "pitfall seed",
+    "category": "Other",
+    "mats": [{"mat": "tree branch", "qty": 6, "is_recipe": false}, {"mat": "clump of weeds", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "plain sink",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 6, "is_recipe": false}, {"mat": "clay", "qty": 4, "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "plain wooden shop sign",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "pond stone",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "pot",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "potted ivy",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "clay", "qty": 5, "is_recipe": false}, {"mat": "clump of weeds", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "pretty cosmos wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "orange cosmos", "qty": 3, "is_recipe": false}, {"mat": "pink cosmos", "qty": 3, "is_recipe": false}, {"mat": "red cosmos", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "pretty tulip wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "pink tulips", "qty": 3, "is_recipe": false}, {"mat": "orange tulips", "qty": 3, "is_recipe": false}, {"mat": "purple tulips", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "purple hyacinth crown",
+    "category": "Headwear",
+    "mats": [{"mat": "purple hyacinths", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "purple hyacinth wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "purple hyacinths", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "purple pansy crown",
+    "category": "Headwear",
+    "mats": [{"mat": "purple pansies", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "purple windflower crown",
+    "category": "Headwear",
+    "mats": [{"mat": "purple windflowers", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "raccoon figurine",
+    "category": "Housewares",
+    "mats": [{"mat": "clay", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "recycled boots",
+    "category": "Shoes",
+    "mats": [{"mat": "boot", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "recycled-can thumb piano",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 1, "is_recipe": false}, {"mat": "empty can", "qty": 1, "is_recipe": false}, {"mat": "wood", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "red-leaf pile",
+    "category": "Housewares",
+    "mats": [{"mat": "clump of weeds", "qty": 4, "is_recipe": false}, {"mat": "maple leaf", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "ringtoss",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 2, "is_recipe": false}, {"mat": "wood", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "robot hero",
+    "category": "Housewares",
+    "mats": [{"mat": "gold armor", "qty": 1, "is_recipe": true}, {"mat": "rocket", "qty": 1, "is_recipe": true}, {"mat": "rusted part", "qty": 30, "is_recipe": false}, {"mat": "gold nugget", "qty": 10, "is_recipe": false}, {"mat": "iron nugget", "qty": 90, "is_recipe": false}]
+  },
+  {
+    "name": "rocket",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 20, "is_recipe": false}, {"mat": "star fragment", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "rocking chair",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 3, "is_recipe": false}, {"mat": "softwood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "rocking horse",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "rope fence",
+    "category": "Fencing",
+    "mats": [{"mat": "iron nugget", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "rose bed",
+    "category": "Housewares",
+    "mats": [{"mat": "red roses", "qty": 10, "is_recipe": false}, {"mat": "wood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "rose crown",
+    "category": "Headwear",
+    "mats": [{"mat": "white roses", "qty": 2, "is_recipe": false}, {"mat": "red roses", "qty": 2, "is_recipe": false}, {"mat": "yellow roses", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "rose wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "red roses", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "rose wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "yellow roses", "qty": 3, "is_recipe": false}, {"mat": "white roses", "qty": 3, "is_recipe": false}, {"mat": "red roses", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "rustic-stone wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "stone", "qty": 5, "is_recipe": false}, {"mat": "clay", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "sakura-wood flooring",
+    "category": "Floors",
+    "mats": [{"mat": "wood", "qty": 10, "is_recipe": false}, {"mat": "cherry-blossom petal", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "sakura-wood wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "cherry-blossom petal", "qty": 5, "is_recipe": false}, {"mat": "wood", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "sandy-beach flooring",
+    "category": "Floors",
+    "mats": [{"mat": "giant clam", "qty": 1, "is_recipe": false}, {"mat": "venus comb", "qty": 1, "is_recipe": false}, {"mat": "sea snail", "qty": 1, "is_recipe": false}, {"mat": "coral", "qty": 1, "is_recipe": false}, {"mat": "sand dollar", "qty": 1, "is_recipe": false}, {"mat": "cowrie", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "satellite",
+    "category": "Housewares",
+    "mats": [{"mat": "star fragment", "qty": 10, "is_recipe": false}, {"mat": "iron nugget", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "sauna heater",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 6, "is_recipe": false}, {"mat": "wood", "qty": 3, "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "scarecrow",
+    "category": "Housewares",
+    "mats": [{"mat": "clump of weeds", "qty": 5, "is_recipe": false}, {"mat": "tree branch", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "scattered papers",
+    "category": "Housewares",
+    "mats": [{"mat": "document stack", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "sci-fi flooring",
+    "category": "Floors",
+    "mats": [{"mat": "star fragment", "qty": 5, "is_recipe": false}, {"mat": "large star fragment", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "sci-fi wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "large star fragment", "qty": 1, "is_recipe": false}, {"mat": "star fragment", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "shell arch",
+    "category": "Housewares",
+    "mats": [{"mat": "sand dollar", "qty": 3, "is_recipe": false}, {"mat": "coral", "qty": 3, "is_recipe": false}, {"mat": "cowrie", "qty": 3, "is_recipe": false}, {"mat": "sea snail", "qty": 3, "is_recipe": false}, {"mat": "giant clam", "qty": 3, "is_recipe": false}, {"mat": "venus comb", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "shell bed",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 4, "is_recipe": false}, {"mat": "giant clam", "qty": 5, "is_recipe": false}, {"mat": "clay", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "shell fountain",
+    "category": "Housewares",
+    "mats": [{"mat": "giant clam", "qty": 5, "is_recipe": false}, {"mat": "stone", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "shell lamp",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "giant clam", "qty": 2, "is_recipe": false}, {"mat": "clay", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "shell partition",
+    "category": "Housewares",
+    "mats": [{"mat": "venus comb", "qty": 4, "is_recipe": false}, {"mat": "conch", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "shell rug",
+    "category": "Rugs",
+    "mats": [{"mat": "giant clam", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "shell speaker",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 2, "is_recipe": false}, {"mat": "conch", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "shell stool",
+    "category": "Housewares",
+    "mats": [{"mat": "cowrie", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "shell table",
+    "category": "Housewares",
+    "mats": [{"mat": "clay", "qty": 3, "is_recipe": false}, {"mat": "sand dollar", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "shell wand",
+    "category": "Tools",
+    "mats": [{"mat": "summer shell", "qty": 3, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "shell wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "giant clam", "qty": 1, "is_recipe": false}, {"mat": "summer shell", "qty": 1, "is_recipe": false}, {"mat": "coral", "qty": 1, "is_recipe": false}, {"mat": "sea snail", "qty": 1, "is_recipe": false}, {"mat": "cowrie", "qty": 1, "is_recipe": false}, {"mat": "sand dollar", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "shellfish pochette",
+    "category": "Bags",
+    "mats": [{"mat": "summer shell", "qty": 6, "is_recipe": false}, {"mat": "giant clam", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "shovel",
+    "category": "Tools",
+    "mats": [{"mat": "flimsy shovel", "qty": 1, "is_recipe": true}, {"mat": "iron nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "signpost",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 3, "is_recipe": false}, {"mat": "hardwood", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "silo",
+    "category": "Housewares",
+    "mats": [{"mat": "clay", "qty": 12, "is_recipe": false}, {"mat": "iron nugget", "qty": 12, "is_recipe": false}, {"mat": "hardwood", "qty": 6, "is_recipe": false}, {"mat": "stone", "qty": 12, "is_recipe": false}]
+  },
+  {
+    "name": "simple DIY workbench",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 5, "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "simple mum crown",
+    "category": "Headwear",
+    "mats": [{"mat": "green mums", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "simple well",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 15, "is_recipe": false}, {"mat": "flimsy shovel", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "simple wooden fence",
+    "category": "Fencing",
+    "mats": [{"mat": "softwood", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "ski-slope flooring",
+    "category": "Floors",
+    "mats": [{"mat": "snowflake", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "ski-slope wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "snowflake", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "sky-egg outfit",
+    "category": "Dresses",
+    "mats": [{"mat": "sky egg", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "sky-egg shell",
+    "category": "Headwear",
+    "mats": [{"mat": "sky egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "sky-egg shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "sky egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "sleigh",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "slingshot",
+    "category": "Tools",
+    "mats": [{"mat": "hardwood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "small cardboard boxes",
+    "category": "Housewares",
+    "mats": [{"mat": "cardboard box", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "snazzy pansy wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "yellow pansies", "qty": 3, "is_recipe": false}, {"mat": "orange pansies", "qty": 3, "is_recipe": false}, {"mat": "blue pansies", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "snowflake pochette",
+    "category": "Bags",
+    "mats": [{"mat": "snowflake", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "snowflake wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "snowflake", "qty": 12, "is_recipe": false}]
+  },
+  {
+    "name": "snowflake wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "snowflake", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "snowperson head",
+    "category": "Headwear",
+    "mats": [{"mat": "snowflake", "qty": 5, "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "space shuttle",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 10, "is_recipe": false}, {"mat": "star fragment", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "spiky fence",
+    "category": "Fencing",
+    "mats": [{"mat": "hardwood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "stack of books",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "book", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "stacked magazines",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "magazine", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "stacked-wood wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "hardwood", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "stall",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 12, "is_recipe": false}]
+  },
+  {
+    "name": "standard umbrella stand",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "star clock",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "star head",
+    "category": "Headwear",
+    "mats": [{"mat": "star fragment", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "star pochette",
+    "category": "Bags",
+    "mats": [{"mat": "star fragment", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "star wand",
+    "category": "Tools",
+    "mats": [{"mat": "large star fragment", "qty": 1, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "starry garland",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "star fragment", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "starry wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "star fragment", "qty": 5, "is_recipe": false}, {"mat": "large star fragment", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "starry-sands flooring",
+    "category": "Floors",
+    "mats": [{"mat": "sandy-beach flooring", "qty": 1, "is_recipe": true}, {"mat": "summer shell", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "starry-sky wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "large star fragment", "qty": 1, "is_recipe": false}, {"mat": "star fragment", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "steamer-basket set",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "young spring bamboo", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "steel flooring",
+    "category": "Floors",
+    "mats": [{"mat": "iron nugget", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "steel-frame wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "iron nugget", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "stone arch",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 90, "is_recipe": false}]
+  },
+  {
+    "name": "stone axe",
+    "category": "Tools",
+    "mats": [{"mat": "flimsy axe", "qty": 1, "is_recipe": true}, {"mat": "wood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "stone fence",
+    "category": "Fencing",
+    "mats": [{"mat": "stone", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "stone lion-dog",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 24, "is_recipe": false}]
+  },
+  {
+    "name": "stone stool",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "stone table",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "stone tablet",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 12, "is_recipe": false}]
+  },
+  {
+    "name": "stone wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "stone", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "stone-egg outfit",
+    "category": "Dresses",
+    "mats": [{"mat": "stone egg", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "stone-egg shell",
+    "category": "Headwear",
+    "mats": [{"mat": "stone egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "stone-egg shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "stone egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "straw fence",
+    "category": "Fencing",
+    "mats": [{"mat": "clump of weeds", "qty": 10, "is_recipe": false}, {"mat": "wood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "straw umbrella hat",
+    "category": "Headwear",
+    "mats": [{"mat": "clump of weeds", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "street piano",
+    "category": "Housewares",
+    "mats": [{"mat": "painting set", "qty": 1, "is_recipe": false}, {"mat": "upright piano", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "succulent plant",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clump of weeds", "qty": 10, "is_recipe": false}, {"mat": "empty can", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "swinging bench",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "is_recipe": false}, {"mat": "softwood", "qty": 7, "is_recipe": false}]
+  },
+  {
+    "name": "tabletop festive tree",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "gold ornament", "qty": 5, "is_recipe": false}, {"mat": "clay", "qty": 2, "is_recipe": false}, {"mat": "tree branch", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "tall garden rock",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 60, "is_recipe": false}]
+  },
+  {
+    "name": "tall lantern",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 18, "is_recipe": false}]
+  },
+  {
+    "name": "tea table",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 12, "is_recipe": false}]
+  },
+  {
+    "name": "terrarium",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clump of weeds", "qty": 12, "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "three-tiered snowperson",
+    "category": "Housewares",
+    "mats": [{"mat": "snowflake", "qty": 6, "is_recipe": false}, {"mat": "large snowflake", "qty": 1, "is_recipe": false}, {"mat": "tree branch", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "tiki torch",
+    "category": "Housewares",
+    "mats": [{"mat": "tree branch", "qty": 5, "is_recipe": false}, {"mat": "wood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "timber doorplate",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "wood", "qty": 2, "is_recipe": false}, {"mat": "pink roses", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "tiny library",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "is_recipe": false}, {"mat": "book", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "tire stack",
+    "category": "Housewares",
+    "mats": [{"mat": "old tire", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "tire toy",
+    "category": "Housewares",
+    "mats": [{"mat": "old tire", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "traditional balancing toy",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "acorn", "qty": 4, "is_recipe": false}, {"mat": "hardwood", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "traditional straw coat",
+    "category": "Tops",
+    "mats": [{"mat": "clump of weeds", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "trash bags",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "boot", "qty": 1, "is_recipe": false}, {"mat": "empty can", "qty": 1, "is_recipe": false}, {"mat": "old tire", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "tree branch wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "tree branch", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "tree standee",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "is_recipe": false}, {"mat": "softwood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "tree's bounty arch",
+    "category": "Housewares",
+    "mats": [{"mat": "maple leaf", "qty": 5, "is_recipe": false}, {"mat": "pine cone", "qty": 4, "is_recipe": false}, {"mat": "acorn", "qty": 5, "is_recipe": false}, {"mat": "tree branch", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "tree's bounty big tree",
+    "category": "Housewares",
+    "mats": [{"mat": "pine cone", "qty": 5, "is_recipe": false}, {"mat": "acorn", "qty": 4, "is_recipe": false}, {"mat": "maple leaf", "qty": 4, "is_recipe": false}, {"mat": "clay", "qty": 4, "is_recipe": false}, {"mat": "tree branch", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "tree's bounty lamp",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "acorn", "qty": 6, "is_recipe": false}, {"mat": "clay", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "tree's bounty little tree",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "acorn", "qty": 4, "is_recipe": false}, {"mat": "hardwood", "qty": 1, "is_recipe": false}, {"mat": "pine cone", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "tree's bounty mobile",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "pine cone", "qty": 2, "is_recipe": false}, {"mat": "tree branch", "qty": 3, "is_recipe": false}, {"mat": "acorn", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "tree-branch wand",
+    "category": "Tools",
+    "mats": [{"mat": "tree branch", "qty": 5, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "trophy case",
+    "category": "Housewares",
+    "mats": [{"mat": "gold nugget", "qty": 3, "is_recipe": false}, {"mat": "hardwood", "qty": 24, "is_recipe": false}, {"mat": "iron nugget", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "tropical vista",
+    "category": "Wallpaper",
+    "mats": [{"mat": "summer shell", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "tulip crown",
+    "category": "Headwear",
+    "mats": [{"mat": "red tulips", "qty": 2, "is_recipe": false}, {"mat": "yellow tulips", "qty": 2, "is_recipe": false}, {"mat": "white tulips", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "tulip surprise box",
+    "category": "Housewares",
+    "mats": [{"mat": "red tulips", "qty": 5, "is_recipe": false}, {"mat": "softwood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "tulip wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "red tulips", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "tulip wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "yellow tulips", "qty": 3, "is_recipe": false}, {"mat": "red tulips", "qty": 3, "is_recipe": false}, {"mat": "white tulips", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "ukulele",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "hardwood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "underwater flooring",
+    "category": "Floors",
+    "mats": [{"mat": "coral", "qty": 3, "is_recipe": false}, {"mat": "summer shell", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "underwater wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "coral", "qty": 5, "is_recipe": false}, {"mat": "summer shell", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "unglazed dish set",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "clay", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "vaulting pole",
+    "category": "Tools",
+    "mats": [{"mat": "softwood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "vertical-board fence",
+    "category": "Fencing",
+    "mats": [{"mat": "wood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "water flooring",
+    "category": "Floors",
+    "mats": [{"mat": "summer shell", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "water pump",
+    "category": "Housewares",
+    "mats": [{"mat": "iron nugget", "qty": 2, "is_recipe": false}, {"mat": "clay", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "water-egg outfit",
+    "category": "Dresses",
+    "mats": [{"mat": "water egg", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "water-egg shell",
+    "category": "Headwear",
+    "mats": [{"mat": "water egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "water-egg shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "water egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "watering can",
+    "category": "Tools",
+    "mats": [{"mat": "flimsy watering can", "qty": 1, "is_recipe": true}, {"mat": "iron nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "wave breaker",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 10, "is_recipe": false}, {"mat": "clay", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "wedding fence",
+    "category": "Fencing",
+    "mats": [{"mat": "softwood", "qty": 3, "is_recipe": false}, {"mat": "iron nugget", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "wedding wand",
+    "category": "Tools",
+    "mats": [{"mat": "star fragment", "qty": 3, "is_recipe": false}, {"mat": "wedding flower stand", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "western-style stone",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 30, "is_recipe": false}]
+  },
+  {
+    "name": "wild log bench",
+    "category": "Housewares",
+    "mats": [{"mat": "hardwood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "wild-wood wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "wood", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "windflower crown",
+    "category": "Headwear",
+    "mats": [{"mat": "white windflowers", "qty": 2, "is_recipe": false}, {"mat": "orange windflowers", "qty": 2, "is_recipe": false}, {"mat": "red windflowers", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "windflower fan",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "red windflowers", "qty": 3, "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "windflower wand",
+    "category": "Tools",
+    "mats": [{"mat": "orange windflowers", "qty": 1, "is_recipe": false}, {"mat": "star fragment", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "windflower wreath",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "orange windflowers", "qty": 3, "is_recipe": false}, {"mat": "white windflowers", "qty": 3, "is_recipe": false}, {"mat": "red windflowers", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "wood-egg outfit",
+    "category": "Dresses",
+    "mats": [{"mat": "wood egg", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "wood-egg shell",
+    "category": "Headwear",
+    "mats": [{"mat": "wood egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "wood-egg shoes",
+    "category": "Shoes",
+    "mats": [{"mat": "wood egg", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "wooden bookshelf",
+    "category": "Housewares",
+    "mats": [{"mat": "book", "qty": 5, "is_recipe": false}, {"mat": "wood", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "wooden bucket",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 3, "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "wooden chair",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "wooden chest",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 16, "is_recipe": false}]
+  },
+  {
+    "name": "wooden double bed",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 30, "is_recipe": false}]
+  },
+  {
+    "name": "wooden end table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "wooden fish",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "wood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "wooden full-length mirror",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 5, "is_recipe": false}, {"mat": "iron nugget", "qty": 1, "is_recipe": false}]
+  },
+  {
+    "name": "wooden low table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 10, "is_recipe": false}]
+  },
+  {
+    "name": "wooden mini table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 6, "is_recipe": false}]
+  },
+  {
+    "name": "wooden simple bed",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 18, "is_recipe": false}]
+  },
+  {
+    "name": "wooden stool",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "wooden table",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "wooden table mirror",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "iron nugget", "qty": 1, "is_recipe": false}, {"mat": "wood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "wooden toolbox",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 4, "is_recipe": false}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "wooden wardrobe",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 12, "is_recipe": false}]
+  },
+  {
+    "name": "wooden waste bin",
+    "category": "Housewares",
+    "mats": [{"mat": "wood", "qty": 4, "is_recipe": false}]
+  },
+  {
+    "name": "wooden-block bed",
+    "category": "Housewares",
+    "mats": [{"mat": "wooden-block toy", "qty": 1, "is_recipe": true}, {"mat": "softwood", "qty": 17, "is_recipe": false}]
+  },
+  {
+    "name": "wooden-block bench",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 4, "is_recipe": false}, {"mat": "wooden-block toy", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "wooden-block bookshelf",
+    "category": "Housewares",
+    "mats": [{"mat": "wooden-block toy", "qty": 1, "is_recipe": true}, {"mat": "softwood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "wooden-block chair",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 3, "is_recipe": false}, {"mat": "wooden-block toy", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "wooden-block chest",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 12, "is_recipe": false}, {"mat": "wooden-block toy", "qty": 1, "is_recipe": true}]
+  },
+  {
+    "name": "wooden-block stereo",
+    "category": "Housewares",
+    "mats": [{"mat": "softwood", "qty": 5, "is_recipe": false}, {"mat": "wooden-block toy", "qty": 1, "is_recipe": true}, {"mat": "iron nugget", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "wooden-block stool",
+    "category": "Housewares",
+    "mats": [{"mat": "wooden-block toy", "qty": 1, "is_recipe": true}, {"mat": "softwood", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "wooden-block table",
+    "category": "Housewares",
+    "mats": [{"mat": "wooden-block toy", "qty": 1, "is_recipe": true}, {"mat": "softwood", "qty": 8, "is_recipe": false}]
+  },
+  {
+    "name": "wooden-block toy",
+    "category": "Miscellaneous",
+    "mats": [{"mat": "softwood", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "wooden-block wall clock",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "iron nugget", "qty": 1, "is_recipe": false}, {"mat": "wooden-block toy", "qty": 1, "is_recipe": true}, {"mat": "softwood", "qty": 2, "is_recipe": false}]
+  },
+  {
+    "name": "wooden-knot wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "hardwood", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "wooden-mosaic wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "wood", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "wooden-plank sign",
+    "category": "Wall-Mounted",
+    "mats": [{"mat": "hardwood", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "woodland wall",
+    "category": "Wallpaper",
+    "mats": [{"mat": "softwood", "qty": 9, "is_recipe": false}, {"mat": "clump of weeds", "qty": 15, "is_recipe": false}]
+  },
+  {
+    "name": "yellow-leaf pile",
+    "category": "Housewares",
+    "mats": [{"mat": "acorn", "qty": 3, "is_recipe": false}, {"mat": "clump of weeds", "qty": 5, "is_recipe": false}]
+  },
+  {
+    "name": "zen fence",
+    "category": "Fencing",
+    "mats": [{"mat": "stone", "qty": 3, "is_recipe": false}, {"mat": "iron nugget", "qty": 3, "is_recipe": false}, {"mat": "clay", "qty": 3, "is_recipe": false}]
+  },
+  {
+    "name": "zen-style stone",
+    "category": "Housewares",
+    "mats": [{"mat": "stone", "qty": 30, "is_recipe": false}]
+  }
+]
